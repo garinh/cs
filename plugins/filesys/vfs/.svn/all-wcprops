@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33637/CS/trunk/plugins/filesys/vfs
+END
+vfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33358/CS/trunk/plugins/filesys/vfs/vfs.cpp
+END
+vfs.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/filesys/vfs/vfs.csplugin
+END
+vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33278/CS/trunk/plugins/filesys/vfs/vfs.h
+END
+vfs.cfg.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33637/CS/trunk/plugins/filesys/vfs/vfs.cfg.template
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30979/CS/trunk/plugins/filesys/vfs/Jamfile
+END

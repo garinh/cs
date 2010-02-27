@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/decal
+END
+decalmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/decal/decalmanager.cpp
+END
+decaltemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31791/CS/trunk/plugins/decal/decaltemplate.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/26314/CS/trunk/plugins/decal/Jamfile
+END
+decal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32285/CS/trunk/plugins/decal/decal.cpp
+END
+decalmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31789/CS/trunk/plugins/decal/decalmanager.h
+END
+decaltemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31791/CS/trunk/plugins/decal/decaltemplate.h
+END
+decal.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/26314/CS/trunk/plugins/decal/decal.csplugin
+END
+decal.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/31788/CS/trunk/plugins/decal/decal.h
+END

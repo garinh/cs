@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33603/CS/trunk/apps/tutorial/phystut
+END
+phystut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33603/CS/trunk/apps/tutorial/phystut/phystut.cpp
+END
+phystut.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33603/CS/trunk/apps/tutorial/phystut/phystut.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28685/CS/trunk/apps/tutorial/phystut/Jamfile
+END

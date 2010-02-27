@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/crystal/!svn/ver/33128/CS/trunk/libs/csgfx
+END
+imagecubemapmaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33121/CS/trunk/libs/csgfx/imagecubemapmaker.cpp
+END
+quantize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33125/CS/trunk/libs/csgfx/quantize.cpp
+END
+imagemanipulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33121/CS/trunk/libs/csgfx/imagemanipulate.cpp
+END
+imagetools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33121/CS/trunk/libs/csgfx/imagetools.cpp
+END
+lightsvcache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33128/CS/trunk/libs/csgfx/lightsvcache.cpp
+END
+shaderexpaccessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31385/CS/trunk/libs/csgfx/shaderexpaccessor.cpp
+END
+normalmaptools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33125/CS/trunk/libs/csgfx/normalmaptools.cpp
+END
+renderbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33125/CS/trunk/libs/csgfx/renderbuffer.cpp
+END
+mipmap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32752/CS/trunk/libs/csgfx/mipmap.inc
+END
+bakekeycolor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csgfx/bakekeycolor.cpp
+END
+imagememory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33124/CS/trunk/libs/csgfx/imagememory.cpp
+END
+xorpat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csgfx/xorpat.cpp
+END
+shadervararrayhelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/31385/CS/trunk/libs/csgfx/shadervararrayhelper.cpp
+END
+shadervar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32579/CS/trunk/libs/csgfx/shadervar.cpp
+END
+shaderexp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33115/CS/trunk/libs/csgfx/shaderexp.cpp
+END
+textureformatstrings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/32783/CS/trunk/libs/csgfx/textureformatstrings.cpp
+END
+shadervarcontext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31385/CS/trunk/libs/csgfx/shadervarcontext.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csgfx/Jamfile
+END
+shadervarframeholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csgfx/shadervarframeholder.cpp
+END
+imagevolumemaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33121/CS/trunk/libs/csgfx/imagevolumemaker.cpp
+END
+inv_cmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/21113/CS/trunk/libs/csgfx/inv_cmap.cpp
+END
+gradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csgfx/gradient.cpp
+END
+shadervarnameparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31385/CS/trunk/libs/csgfx/shadervarnameparser.cpp
+END

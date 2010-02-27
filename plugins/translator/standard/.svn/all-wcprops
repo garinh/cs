@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/translator/standard
+END
+transldr_xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/translator/standard/transldr_xml.h
+END
+trans_std.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/26183/CS/trunk/plugins/translator/standard/trans_std.csplugin
+END
+transldr_xml.tok
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/26183/CS/trunk/plugins/translator/standard/transldr_xml.tok
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/26183/CS/trunk/plugins/translator/standard/Jamfile
+END
+trans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/translator/standard/trans.cpp
+END
+transldr_xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/translator/standard/transldr_xml.cpp
+END
+trans.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/26183/CS/trunk/plugins/translator/standard/trans.h
+END

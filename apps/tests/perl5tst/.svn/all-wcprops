@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/26728/CS/trunk/apps/tests/perl5tst
+END
+perl5tst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/26728/CS/trunk/apps/tests/perl5tst/perl5tst.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/20643/CS/trunk/apps/tests/perl5tst/Jamfile
+END

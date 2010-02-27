@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/shadow
+END
+vsm-gauss-3x3-v.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/shadow/vsm-gauss-3x3-v.xml
+END
+vsm-gauss-3x3-h.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/shadow/vsm-gauss-3x3-h.xml
+END
+vsm-gauss-5x5-v.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/shadow/vsm-gauss-5x5-v.xml
+END
+vsm-gauss-5x5-h.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/shadow/vsm-gauss-5x5-h.xml
+END

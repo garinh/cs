@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33648/CS/trunk/plugins/video/render3d/opengl
+END
+gl_r2t_ext_fb_o.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_r2t_ext_fb_o.cpp
+END
+gl_txtmgr_basictex.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33558/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr_basictex.h
+END
+gl_txtmgr_imagetex.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/26680/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr_imagetex.h
+END
+gl_renderbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/32384/CS/trunk/plugins/video/render3d/opengl/gl_renderbuffer.h
+END
+gl_r2t_framebuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_r2t_framebuf.cpp
+END
+gl_r2t_backend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/opengl/gl_r2t_backend.cpp
+END
+gl_txtmgr_formats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/28349/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr_formats.cpp
+END
+gl_r2t_ext_fb_o.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_r2t_ext_fb_o.h
+END
+gl_r2t_framebuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_r2t_framebuf.h
+END
+gl_r2t_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_r2t_backend.h
+END
+gl_txtmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr.cpp
+END
+gl_txtmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr.h
+END
+gl_stringlists.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_stringlists.h
+END
+pbo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/pbo.cpp
+END
+pbo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33272/CS/trunk/plugins/video/render3d/opengl/pbo.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/29089/CS/trunk/plugins/video/render3d/opengl/Jamfile
+END
+gl_render3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33648/CS/trunk/plugins/video/render3d/opengl/gl_render3d.cpp
+END
+gl_txtmgr_basictex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33562/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr_basictex.cpp
+END
+gl_txtmgr_imagetex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/video/render3d/opengl/gl_txtmgr_imagetex.cpp
+END
+gl_renderbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33131/CS/trunk/plugins/video/render3d/opengl/gl_renderbuffer.cpp
+END
+gl3d.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/19740/CS/trunk/plugins/video/render3d/opengl/gl3d.csplugin
+END
+gl_render3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33558/CS/trunk/plugins/video/render3d/opengl/gl_render3d.h
+END

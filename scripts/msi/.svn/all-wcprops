@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi
+END
+python_msi2msm.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31084/CS/trunk/scripts/msi/python_msi2msm.py
+END
+CS-feature-sdk.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-feature-sdk.wxi
+END
+CS-feature-runtime.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-feature-runtime.wxi
+END
+wixlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/30897/CS/trunk/scripts/msi/wixlib.py
+END
+CS-feature-demo.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-feature-demo.wxi
+END
+lgpl.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/30968/CS/trunk/scripts/msi/lgpl.rtf
+END
+CS-demos.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31076/CS/trunk/scripts/msi/CS-demos.wxs
+END
+CS-all.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-all.wxs
+END
+CS-directory-sdk.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-directory-sdk.wxi
+END
+csguidregistry.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30775/CS/trunk/scripts/msi/csguidregistry.py
+END
+CS-directory-runtime.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-directory-runtime.wxi
+END
+CS-directory-demo.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33145/CS/trunk/scripts/msi/CS-directory-demo.wxi
+END
+genwix_b2cs.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/30775/CS/trunk/scripts/msi/genwix_b2cs.py
+END
+CS-sdk.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/31076/CS/trunk/scripts/msi/CS-sdk.wxs
+END
+CS-runtime.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31501/CS/trunk/scripts/msi/CS-runtime.wxs
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31501/CS/trunk/scripts/msi/Jamfile
+END
+CS.register.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/31501/CS/trunk/scripts/msi/CS.register.wxs
+END
+genwix_cel.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/30775/CS/trunk/scripts/msi/genwix_cel.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/30775/CS/trunk/scripts/msi/Makefile
+END
+genwix_cs.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/30775/CS/trunk/scripts/msi/genwix_cs.py
+END

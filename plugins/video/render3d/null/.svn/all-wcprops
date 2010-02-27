@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/null
+END
+null_txt.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/31304/CS/trunk/plugins/video/render3d/null/null_txt.h
+END
+null_render3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/null/null_render3d.cpp
+END
+null3d.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/19740/CS/trunk/plugins/video/render3d/null/null3d.csplugin
+END
+null_render3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/32439/CS/trunk/plugins/video/render3d/null/null_render3d.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/video/render3d/null/Jamfile
+END
+null_txt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31304/CS/trunk/plugins/video/render3d/null/null_txt.cpp
+END
+null_pix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/22863/CS/trunk/plugins/video/render3d/null/null_pix.cpp
+END
+drawsprt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/16852/CS/trunk/plugins/video/render3d/null/drawsprt.inc
+END

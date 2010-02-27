@@ -1,0 +1,80 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/plugins/sndsys/renderer/software/drivers
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2009-11-06T20:49:37.689298Z
+33145
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+alsa
+dir
+
+directsound
+dir
+
+jackasyn
+dir
+
+oss
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:25:22.257172Z
+f45b7a5420272d00088bab1fa4ae2d00
+2006-03-23T06:36:48.000000Z
+23879
+rhad
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+449
+
+coreaudio
+dir
+
+null
+dir
+

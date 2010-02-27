@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/drivers/coreaudio
+END
+sndsyscoreaudio.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/22533/CS/trunk/plugins/sndsys/renderer/software/drivers/coreaudio/sndsyscoreaudio.csplugin
+END
+driver_coreaudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/drivers/coreaudio/driver_coreaudio.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/crystal/!svn/ver/22353/CS/trunk/plugins/sndsys/renderer/software/drivers/coreaudio/Jamfile
+END
+driver_coreaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/26988/CS/trunk/plugins/sndsys/renderer/software/drivers/coreaudio/driver_coreaudio.h
+END

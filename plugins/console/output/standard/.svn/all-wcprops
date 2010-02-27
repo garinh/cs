@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/console/output/standard
+END
+csconout.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/console/output/standard/csconout.csplugin
+END
+conbuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/24761/CS/trunk/plugins/console/output/standard/conbuff.cpp
+END
+csconout.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32145/CS/trunk/plugins/console/output/standard/csconout.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/console/output/standard/Jamfile
+END
+conbuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/24761/CS/trunk/plugins/console/output/standard/conbuff.h
+END
+csconout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/console/output/standard/csconout.cpp
+END

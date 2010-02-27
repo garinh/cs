@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/dds
+END
+csddsimg.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/loader/dds/csddsimg.csplugin
+END
+dds.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32335/CS/trunk/plugins/video/loader/dds/dds.h
+END
+ddssaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ddssaver.h
+END
+ddsloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/dds/ddsloader.cpp
+END
+dxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26130/CS/trunk/plugins/video/loader/dds/dxt.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/24068/CS/trunk/plugins/video/loader/dds/Jamfile
+END
+ddsloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32335/CS/trunk/plugins/video/loader/dds/ddsloader.h
+END
+dds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/32336/CS/trunk/plugins/video/loader/dds/dds.cpp
+END
+ddssaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/27898/CS/trunk/plugins/video/loader/dds/ddssaver.cpp
+END
+ddsutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ddsutil.h
+END

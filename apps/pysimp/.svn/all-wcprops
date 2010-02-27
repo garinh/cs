@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/pysimp
+END
+pysimp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/pysimp/pysimp.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/pysimp/Jamfile
+END
+pysimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/30451/CS/trunk/apps/pysimp/pysimp.h
+END

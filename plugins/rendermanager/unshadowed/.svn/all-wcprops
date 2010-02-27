@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33262/CS/trunk/plugins/rendermanager/unshadowed
+END
+rm_unshadowed.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/rendermanager/unshadowed/rm_unshadowed.csplugin
+END
+unshadowed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33262/CS/trunk/plugins/rendermanager/unshadowed/unshadowed.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/rendermanager/unshadowed/Jamfile
+END
+unshadowed.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/rendermanager/unshadowed/unshadowed.h
+END

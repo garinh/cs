@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/33695/CS/trunk/libs/csutil
+END
+csppulse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17062/CS/trunk/libs/csutil/csppulse.cpp
+END
+csucmappings.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/21514/CS/trunk/libs/csutil/csucmappings.h
+END
+checksum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33301/CS/trunk/libs/csutil/checksum.cpp
+END
+threadmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33038/CS/trunk/libs/csutil/threadmanager.cpp
+END
+binder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/csutil/binder.cpp
+END
+cfgmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30799/CS/trunk/libs/csutil/cfgmgr.cpp
+END
+callstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28800/CS/trunk/libs/csutil/callstack.h
+END
+plugldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31479/CS/trunk/libs/csutil/plugldr.cpp
+END
+memheap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33536/CS/trunk/libs/csutil/memheap.cpp
+END
+scanstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/30796/CS/trunk/libs/csutil/scanstr.cpp
+END
+mmapio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32341/CS/trunk/libs/csutil/mmapio.cpp
+END
+sparse3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20010/CS/trunk/libs/csutil/sparse3d.cpp
+END
+ansiparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/31388/CS/trunk/libs/csutil/ansiparse.cpp
+END
+dlmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33243/CS/trunk/libs/csutil/dlmalloc.c
+END
+stringreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/17161/CS/trunk/libs/csutil/stringreader.cpp
+END
+simplejobqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32983/CS/trunk/libs/csutil/simplejobqueue.cpp
+END
+regexp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/27747/CS/trunk/libs/csutil/regexp.cpp
+END
+syspath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/30984/CS/trunk/libs/csutil/syspath.cpp
+END
+prfxcfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/25586/CS/trunk/libs/csutil/prfxcfg.cpp
+END
+callstack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/28851/CS/trunk/libs/csutil/callstack.cpp
+END
+eventhandlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32283/CS/trunk/libs/csutil/eventhandlers.cpp
+END
+ptmalloc_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33243/CS/trunk/libs/csutil/ptmalloc_wrap.cpp
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31061/CS/trunk/libs/csutil/tinyxml.cpp
+END
+xmltiny.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33695/CS/trunk/libs/csutil/xmltiny.cpp
+END
+objreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/31681/CS/trunk/libs/csutil/objreg.cpp
+END
+common_handlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/25624/CS/trunk/libs/csutil/common_handlers.cpp
+END
+cmdline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/csutil/cmdline.cpp
+END
+csmd5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/20791/CS/trunk/libs/csutil/csmd5.cpp
+END
+plugmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33350/CS/trunk/libs/csutil/plugmgr.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32727/CS/trunk/libs/csutil/util.cpp
+END
+memfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csutil/memfile.cpp
+END
+alignedalloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31388/CS/trunk/libs/csutil/alignedalloc.cpp
+END
+documenthelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csutil/documenthelper.cpp
+END
+demangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/29935/CS/trunk/libs/csutil/demangle.h
+END
+cskey_identstrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/19585/CS/trunk/libs/csutil/cskey_identstrs.h
+END
+cspmeter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29688/CS/trunk/libs/csutil/cspmeter.cpp
+END
+hash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/18347/CS/trunk/libs/csutil/hash.cpp
+END
+graphalg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29402/CS/trunk/libs/csutil/graphalg.cpp
+END
+cfgdoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30800/CS/trunk/libs/csutil/cfgdoc.cpp
+END
+cseventq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32283/CS/trunk/libs/csutil/cseventq.cpp
+END
+processorcount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29624/CS/trunk/libs/csutil/processorcount.cpp
+END
+rootedhiercache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33145/CS/trunk/libs/csutil/rootedhiercache.cpp
+END
+csuctransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/21514/CS/trunk/libs/csutil/csuctransform.cpp
+END
+scfimplhelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29674/CS/trunk/libs/csutil/scfimplhelper.cpp
+END
+cfgfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33476/CS/trunk/libs/csutil/cfgfile.cpp
+END
+systemopenmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30771/CS/trunk/libs/csutil/systemopenmanager.cpp
+END
+deprecated_macros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27994/CS/trunk/libs/csutil/deprecated_macros.cpp
+END
+bfdsymbols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/28159/CS/trunk/libs/csutil/bfdsymbols.cpp
+END
+reftrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/31431/CS/trunk/libs/csutil/reftrack.h
+END
+evoutlet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/25967/CS/trunk/libs/csutil/evoutlet.cpp
+END
+csevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csutil/csevent.cpp
+END
+staticvarcleanup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29068/CS/trunk/libs/csutil/staticvarcleanup.cpp
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32578/CS/trunk/libs/csutil/tinyxml.h
+END
+floatrand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/19895/CS/trunk/libs/csutil/floatrand.cpp
+END
+cssubscription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/csutil/cssubscription.cpp
+END
+randomgen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17062/CS/trunk/libs/csutil/randomgen.cpp
+END
+scf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32056/CS/trunk/libs/csutil/scf.cpp
+END
+memutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csutil/memutil.cpp
+END
+cseventflattener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csutil/cseventflattener.cpp
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27680/CS/trunk/libs/csutil/tinystr.cpp
+END
+virtclk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/22971/CS/trunk/libs/csutil/virtclk.cpp
+END
+inputdef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/28899/CS/trunk/libs/csutil/inputdef.cpp
+END
+timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/30357/CS/trunk/libs/csutil/timer.cpp
+END
+event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/28119/CS/trunk/libs/csutil/event.cpp
+END
+archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29579/CS/trunk/libs/csutil/archive.cpp
+END
+nulcache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/22725/CS/trunk/libs/csutil/nulcache.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32004/CS/trunk/libs/csutil/base64.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/28798/CS/trunk/libs/csutil/Jamfile
+END
+verbosity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/csutil/verbosity.cpp
+END
+xmltinyp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30800/CS/trunk/libs/csutil/xmltinyp.h
+END
+dlmalloc-settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33263/CS/trunk/libs/csutil/dlmalloc-settings.h
+END
+csobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29313/CS/trunk/libs/csutil/csobject.cpp
+END
+csstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/26984/CS/trunk/libs/csutil/csstring.cpp
+END
+schedule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17062/CS/trunk/libs/csutil/schedule.cpp
+END
+strhashr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29568/CS/trunk/libs/csutil/strhashr.cpp
+END
+reftrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31431/CS/trunk/libs/csutil/reftrack.cpp
+END
+snprintf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20608/CS/trunk/libs/csutil/snprintf.cpp
+END
+scfstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30454/CS/trunk/libs/csutil/scfstr.cpp
+END
+eventnames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/30950/CS/trunk/libs/csutil/eventnames.cpp
+END
+cfgacc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/csutil/cfgacc.cpp
+END
+threadjobqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33228/CS/trunk/libs/csutil/threadjobqueue.cpp
+END
+mempool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/26436/CS/trunk/libs/csutil/mempool.cpp
+END
+csevcord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/22989/CS/trunk/libs/csutil/csevcord.cpp
+END
+bfdsymbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/28812/CS/trunk/libs/csutil/bfdsymbols.h
+END
+tinypars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29673/CS/trunk/libs/csutil/tinypars.cpp
+END
+csbaseeventh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30950/CS/trunk/libs/csutil/csbaseeventh.cpp
+END
+reftrackeraccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/26426/CS/trunk/libs/csutil/reftrackeraccess.cpp
+END
+filereadhelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30800/CS/trunk/libs/csutil/filereadhelper.cpp
+END
+cmdhelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31432/CS/trunk/libs/csutil/cmdhelp.cpp
+END
+radixsort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/25214/CS/trunk/libs/csutil/radixsort.cpp
+END
+measuretime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/24815/CS/trunk/libs/csutil/measuretime.cpp
+END
+memutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/29440/CS/trunk/libs/csutil/memutil.h
+END
+scfimp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17062/CS/trunk/libs/csutil/scfimp.cpp
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/27680/CS/trunk/libs/csutil/tinystr.h
+END
+vfscache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csutil/vfscache.cpp
+END
+physfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csutil/physfile.cpp
+END
+memdebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31054/CS/trunk/libs/csutil/memdebug.cpp
+END
+csinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28120/CS/trunk/libs/csutil/csinput.cpp
+END
+documentcommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30800/CS/trunk/libs/csutil/documentcommon.cpp
+END
+csassert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/28801/CS/trunk/libs/csutil/csassert.cpp
+END
+vfshiercache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31693/CS/trunk/libs/csutil/vfshiercache.cpp
+END
+stringconv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31868/CS/trunk/libs/csutil/stringconv.cpp
+END

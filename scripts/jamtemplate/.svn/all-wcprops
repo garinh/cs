@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33609/CS/trunk/scripts/jamtemplate
+END
+libSimpleCube
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30756/CS/trunk/scripts/jamtemplate/libSimpleCube
+END
+app.h.template
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/30756/CS/trunk/scripts/jamtemplate/app.h.template
+END
+Jamfile.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33609/CS/trunk/scripts/jamtemplate/Jamfile.template
+END
+cel.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31587/CS/trunk/scripts/jamtemplate/cel.m4
+END
+config-msvc.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/18819/CS/trunk/scripts/jamtemplate/config-msvc.template
+END
+world
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/30756/CS/trunk/scripts/jamtemplate/world
+END
+app.cfg.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/31560/CS/trunk/scripts/jamtemplate/app.cfg.template
+END
+configure.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/31050/CS/trunk/scripts/jamtemplate/configure.template
+END
+Jamrules.template
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/18676/CS/trunk/scripts/jamtemplate/Jamrules.template
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/19513/CS/trunk/scripts/jamtemplate/README
+END
+projheader.template
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/18671/CS/trunk/scripts/jamtemplate/projheader.template
+END
+main.template
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/21628/CS/trunk/scripts/jamtemplate/main.template
+END
+createproject.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/30756/CS/trunk/scripts/jamtemplate/createproject.sh
+END
+Jamfile-src.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/19626/CS/trunk/scripts/jamtemplate/Jamfile-src.template
+END
+vfs.cfg.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/30756/CS/trunk/scripts/jamtemplate/vfs.cfg.template
+END
+README.template
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/21661/CS/trunk/scripts/jamtemplate/README.template
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/31447/CS/trunk/scripts/jamtemplate/Jamfile
+END
+genCube
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30756/CS/trunk/scripts/jamtemplate/genCube
+END
+app.cpp.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/31564/CS/trunk/scripts/jamtemplate/app.cpp.template
+END
+autogen.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/17901/CS/trunk/scripts/jamtemplate/autogen.template
+END
+README-msvc.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/18063/CS/trunk/scripts/jamtemplate/README-msvc.template
+END

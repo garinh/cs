@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/utilities/profiler
+END
+profiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/utilities/profiler/profiler.cpp
+END
+profiler.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/26343/CS/trunk/plugins/utilities/profiler/profiler.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28284/CS/trunk/plugins/utilities/profiler/Jamfile
+END
+profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28284/CS/trunk/plugins/utilities/profiler/profiler.h
+END

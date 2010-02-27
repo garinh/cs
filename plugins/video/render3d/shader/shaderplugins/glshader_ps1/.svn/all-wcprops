@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/33527/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1
+END
+ps1_emu_ati.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/crystal/!svn/ver/33452/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_emu_ati.cpp
+END
+ps1_instr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/31383/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_instr.inc
+END
+ps1_emu_ati.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/33452/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_emu_ati.h
+END
+ps1_emu_nv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33459/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_emu_nv.cpp
+END
+glshader_ps1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/33527/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/glshader_ps1.cpp
+END
+glshader_ps1.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/crystal/!svn/ver/16953/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/glshader_ps1.csplugin
+END
+ps1_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33452/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_parser.cpp
+END
+ps1_emu_nv.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/33459/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_emu_nv.h
+END
+ps1_emu_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/33452/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_emu_common.cpp
+END
+glshader_ps1.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33452/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/glshader_ps1.h
+END
+ps1_instr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/24408/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_instr.cpp
+END
+ps1_1xto14.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/26332/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_1xto14.cpp
+END
+ps1_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/33459/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_parser.h
+END
+ps1_emu_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/33452/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_emu_common.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/crystal/!svn/ver/22681/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/Jamfile
+END
+ps1_instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/crystal/!svn/ver/24978/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_instr.h
+END
+ps1_1xto14.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/24988/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/ps1_1xto14.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/crystal/!svn/ver/16953/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/readme.txt
+END
+stringlists.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/24409/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_ps1/stringlists.h
+END

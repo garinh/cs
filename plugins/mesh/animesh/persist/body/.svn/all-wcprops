@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33669/CS/trunk/plugins/mesh/animesh/persist/body
+END
+bodymeshldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33577/CS/trunk/plugins/mesh/animesh/persist/body/bodymeshldr.csplugin
+END
+bodymeshldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33577/CS/trunk/plugins/mesh/animesh/persist/body/bodymeshldr.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33577/CS/trunk/plugins/mesh/animesh/persist/body/Jamfile
+END
+bodymeshldr.tok
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33577/CS/trunk/plugins/mesh/animesh/persist/body/bodymeshldr.tok
+END
+bodymeshldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33669/CS/trunk/plugins/mesh/animesh/persist/body/bodymeshldr.cpp
+END

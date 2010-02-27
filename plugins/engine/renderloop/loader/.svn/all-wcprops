@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/engine/renderloop/loader
+END
+rlloader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/15337/CS/trunk/plugins/engine/renderloop/loader/rlloader.tok
+END
+rlloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/engine/renderloop/loader/rlloader.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/23234/CS/trunk/plugins/engine/renderloop/loader/Jamfile
+END
+rlloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/engine/renderloop/loader/rlloader.h
+END
+rendloop_loader.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/15337/CS/trunk/plugins/engine/renderloop/loader/rendloop_loader.csplugin
+END

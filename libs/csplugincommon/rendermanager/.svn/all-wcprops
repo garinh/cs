@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33420/CS/trunk/libs/csplugincommon/rendermanager
+END
+rendertree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/31555/CS/trunk/libs/csplugincommon/rendermanager/rendertree.cpp
+END
+renderlayers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/32932/CS/trunk/libs/csplugincommon/rendermanager/renderlayers.cpp
+END
+debugcommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/30028/CS/trunk/libs/csplugincommon/rendermanager/debugcommon.cpp
+END
+posteffects.tok
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csplugincommon/rendermanager/posteffects.tok
+END
+hdrexposure_luminance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/33106/CS/trunk/libs/csplugincommon/rendermanager/hdrexposure_luminance.cpp
+END
+hdrexposure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33106/CS/trunk/libs/csplugincommon/rendermanager/hdrexposure.cpp
+END
+renderview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/32852/CS/trunk/libs/csplugincommon/rendermanager/renderview.cpp
+END
+renderlayers.tok
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/30156/CS/trunk/libs/csplugincommon/rendermanager/renderlayers.tok
+END
+hdrhelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33106/CS/trunk/libs/csplugincommon/rendermanager/hdrhelper.cpp
+END
+portalsetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/32694/CS/trunk/libs/csplugincommon/rendermanager/portalsetup.cpp
+END
+posteffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33420/CS/trunk/libs/csplugincommon/rendermanager/posteffects.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csplugincommon/rendermanager/Jamfile
+END
+lightsetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/32373/CS/trunk/libs/csplugincommon/rendermanager/lightsetup.cpp
+END
+autofx_framebuffertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/32188/CS/trunk/libs/csplugincommon/rendermanager/autofx_framebuffertex.cpp
+END
+shadow_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/32171/CS/trunk/libs/csplugincommon/rendermanager/shadow_common.cpp
+END
+autofx_reflrefr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/32188/CS/trunk/libs/csplugincommon/rendermanager/autofx_reflrefr.cpp
+END

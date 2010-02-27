@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/proctex/standard
+END
+stdproctex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/proctex/standard/stdproctex.cpp
+END
+fire.tok
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/14036/CS/trunk/plugins/proctex/standard/fire.tok
+END
+stdpt.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/19034/CS/trunk/plugins/proctex/standard/stdpt.csplugin
+END
+stdproctex.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/stdproctex.h
+END
+sky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/sky.cpp
+END
+prsky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/20791/CS/trunk/plugins/proctex/standard/prsky.cpp
+END
+dots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/dots.cpp
+END
+prdots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/19049/CS/trunk/plugins/proctex/standard/prdots.cpp
+END
+sky.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/sky.h
+END
+prsky.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/19708/CS/trunk/plugins/proctex/standard/prsky.h
+END
+plasma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/plasma.cpp
+END
+dots.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/dots.h
+END
+prplasma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/21850/CS/trunk/plugins/proctex/standard/prplasma.cpp
+END
+prdots.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/19708/CS/trunk/plugins/proctex/standard/prdots.h
+END
+plasma.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/plasma.h
+END
+water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/water.cpp
+END
+prplasma.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/19708/CS/trunk/plugins/proctex/standard/prplasma.h
+END
+prwater.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/19049/CS/trunk/plugins/proctex/standard/prwater.cpp
+END
+fire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/fire.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/23234/CS/trunk/plugins/proctex/standard/Jamfile
+END
+prfire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/24662/CS/trunk/plugins/proctex/standard/prfire.cpp
+END
+water.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/water.h
+END
+prwater.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/19708/CS/trunk/plugins/proctex/standard/prwater.h
+END
+fire.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/standard/fire.h
+END
+prfire.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/24662/CS/trunk/plugins/proctex/standard/prfire.h
+END

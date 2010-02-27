@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31359/CS/trunk/apps/import/md32spr
+END
+md32spr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/20791/CS/trunk/apps/import/md32spr/md32spr.h
+END
+bufio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/20620/CS/trunk/apps/import/md32spr/bufio.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/import/md32spr/Jamfile
+END
+bufio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/20620/CS/trunk/apps/import/md32spr/bufio.h
+END
+md32spr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31359/CS/trunk/apps/import/md32spr/md32spr.cpp
+END

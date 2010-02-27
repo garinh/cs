@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33643/CS/trunk/data/config-plugins
+END
+shadermgr-defaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/29892/CS/trunk/data/config-plugins/shadermgr-defaults.xml
+END
+mouse.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/mouse.cfg
+END
+shader-debug.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/shader-debug.cfg
+END
+macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/macosx.cfg
+END
+bugplug.key
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32635/CS/trunk/data/config-plugins/bugplug.key
+END
+joystick.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/joystick.cfg
+END
+asciiart.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/asciiart.cfg
+END
+emulate_rad8500.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/31161/CS/trunk/data/config-plugins/emulate_rad8500.cfg
+END
+null3d.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/null3d.cfg
+END
+movierecorder.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/movierecorder.cfg
+END
+bugplug.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31000/CS/trunk/data/config-plugins/bugplug.cfg
+END
+engine.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33106/CS/trunk/data/config-plugins/engine.cfg
+END
+simpcon.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/simpcon.cfg
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30749/CS/trunk/data/config-plugins/Jamfile
+END
+sprcal3d.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/sprcal3d.cfg
+END
+freetype.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33643/CS/trunk/data/config-plugins/freetype.cfg
+END
+system.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/system.cfg
+END
+sound.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/sound.cfg
+END
+emulate_gf8_osx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33281/CS/trunk/data/config-plugins/emulate_gf8_osx.cfg
+END
+emulate_gf2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/31161/CS/trunk/data/config-plugins/emulate_gf2.cfg
+END
+emulate_gf3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33463/CS/trunk/data/config-plugins/emulate_gf3.cfg
+END
+emulate_gf4.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33463/CS/trunk/data/config-plugins/emulate_gf4.cfg
+END
+r3dopengl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33362/CS/trunk/data/config-plugins/r3dopengl.cfg
+END
+emulate_gf5.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/31161/CS/trunk/data/config-plugins/emulate_gf5.cfg
+END
+emulate_gf6.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/31161/CS/trunk/data/config-plugins/emulate_gf6.cfg
+END
+fontplex.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33625/CS/trunk/data/config-plugins/fontplex.cfg
+END
+odedynam.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/odedynam.cfg
+END
+emulate_rad9500.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/31161/CS/trunk/data/config-plugins/emulate_rad9500.cfg
+END
+fancycon.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/fancycon.cfg
+END
+standardcon.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-plugins/standardcon.cfg
+END
+gldrivers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33267/CS/trunk/data/config-plugins/gldrivers.xml
+END
+emulate_minimal.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33009/CS/trunk/data/config-plugins/emulate_minimal.cfg
+END
+video.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31287/CS/trunk/data/config-plugins/video.cfg
+END
+shadows.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/29892/CS/trunk/data/config-plugins/shadows.cfg
+END
+shadermgr.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33455/CS/trunk/data/config-plugins/shadermgr.cfg
+END
+dynavis.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32662/CS/trunk/data/config-plugins/dynavis.cfg
+END

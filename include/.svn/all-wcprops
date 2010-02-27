@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/crystal/!svn/ver/33699/CS/trunk/include
+END
+cstypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/22448/CS/trunk/include/cstypes.h
+END
+csextern.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/20643/CS/trunk/include/csextern.h
+END
+isndsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/28272/CS/trunk/include/isndsys.h
+END
+csver.h.template
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33127/CS/trunk/include/csver.h.template
+END
+csplugincommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33628/CS/trunk/include/csplugincommon.h
+END
+crystalspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32536/CS/trunk/include/crystalspace.h
+END
+igeom.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/28272/CS/trunk/include/igeom.h
+END
+csqsqrt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/24345/CS/trunk/include/csqsqrt.h
+END
+csqint.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/26731/CS/trunk/include/csqint.h
+END
+inetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/28272/CS/trunk/include/inetwork.h
+END
+csutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33511/CS/trunk/include/csutil.h
+END
+cstool.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33355/CS/trunk/include/cstool.h
+END
+namespacedocs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/namespacedocs.h
+END
+imesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/33508/CS/trunk/include/imesh.h
+END
+itexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/28272/CS/trunk/include/itexture.h
+END
+csplatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/31511/CS/trunk/include/csplatform.h
+END
+csgfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/29874/CS/trunk/include/csgfx.h
+END
+ivaria.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33604/CS/trunk/include/ivaria.h
+END
+csgeom.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/31490/CS/trunk/include/csgeom.h
+END
+iengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32855/CS/trunk/include/iengine.h
+END
+ivideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/29874/CS/trunk/include/ivideo.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/32535/CS/trunk/include/Jamfile
+END
+csver.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/33699/CS/trunk/include/csver.h
+END
+cssysdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/33148/CS/trunk/include/cssysdef.h
+END
+csdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/26189/CS/trunk/include/csdef.h
+END
+igraphic.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/28272/CS/trunk/include/igraphic.h
+END
+imap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/28272/CS/trunk/include/imap.h
+END
+iutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/31182/CS/trunk/include/iutil.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/xextf86vm
+END
+xextf86vm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/xextf86vm/xextf86vm.cpp
+END
+xextf86vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/27038/CS/trunk/plugins/video/canvas/xextf86vm/xextf86vm.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/31243/CS/trunk/plugins/video/canvas/xextf86vm/Jamfile
+END
+xext86vm.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/canvas/xextf86vm/xext86vm.csplugin
+END

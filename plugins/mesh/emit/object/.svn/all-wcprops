@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/emit/object
+END
+emit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/emit/object/emit.cpp
+END
+emit.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/emit/object/emit.csplugin
+END
+partgen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32267/CS/trunk/plugins/mesh/emit/object/partgen.cpp
+END
+emit.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32267/CS/trunk/plugins/mesh/emit/object/emit.h
+END
+partgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/mesh/emit/object/partgen.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/emit/object/Jamfile
+END

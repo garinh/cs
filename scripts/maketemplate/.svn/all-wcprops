@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/20644/CS/trunk/scripts/maketemplate
+END
+appwrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/maketemplate/appwrap.sh
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/maketemplate/Jamfile
+END
+Makefile.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/20644/CS/trunk/scripts/maketemplate/Makefile.template
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/maketemplate/README
+END

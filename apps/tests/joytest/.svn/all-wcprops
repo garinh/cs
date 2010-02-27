@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/tests/joytest
+END
+joytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/tests/joytest/joytest.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/20643/CS/trunk/apps/tests/joytest/Jamfile
+END
+joytest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30418/CS/trunk/apps/tests/joytest/joytest.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33497/CS/trunk/plugins/sndsys/renderer/openal
+END
+source.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33497/CS/trunk/plugins/sndsys/renderer/openal/source.cpp
+END
+sndsysopenal.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/28235/CS/trunk/plugins/sndsys/renderer/openal/sndsysopenal.csplugin
+END
+listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/32771/CS/trunk/plugins/sndsys/renderer/openal/listener.cpp
+END
+source.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/32358/CS/trunk/plugins/sndsys/renderer/openal/source.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33250/CS/trunk/plugins/sndsys/renderer/openal/Jamfile
+END
+al_stringlists.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/30163/CS/trunk/plugins/sndsys/renderer/openal/al_stringlists.h
+END
+renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33250/CS/trunk/plugins/sndsys/renderer/openal/renderer.cpp
+END
+listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28235/CS/trunk/plugins/sndsys/renderer/openal/listener.h
+END
+renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28235/CS/trunk/plugins/sndsys/renderer/openal/renderer.h
+END
+scopedlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/28235/CS/trunk/plugins/sndsys/renderer/openal/scopedlock.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/snippets
+END
+fog-mappings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/fog-mappings.inc
+END
+shadercond-tools.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/shadercond-tools.inc
+END
+cg-common.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/cg-common.cginc
+END
+shaderframework-cg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/shaderframework-cg.inc
+END
+cg-mixmode-alpha.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/30182/CS/trunk/data/shader-old/snippets/cg-mixmode-alpha.inc
+END
+fog-pass.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/fog-pass.inc
+END
+projection-pass.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/projection-pass.inc
+END
+cg-instancing.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/snippets/cg-instancing.inc
+END
+fog-ffp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/fog-ffp.inc
+END
+fog-fvp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/fog-fvp.inc
+END
+shaderframework.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader-old/snippets/shaderframework.inc
+END

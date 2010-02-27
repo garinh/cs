@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33666/CS/trunk/plugins/csparser
+END
+loadtex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32311/CS/trunk/plugins/csparser/loadtex.cpp
+END
+csloadercontext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33666/CS/trunk/plugins/csparser/csloadercontext.cpp
+END
+csloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32168/CS/trunk/plugins/csparser/csloader.h
+END
+csthreadedloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/32850/CS/trunk/plugins/csparser/csthreadedloader.h
+END
+loadtex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/csparser/loadtex.h
+END
+csloadercontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32383/CS/trunk/plugins/csparser/csloadercontext.h
+END
+csloader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32503/CS/trunk/plugins/csparser/csloader.tok
+END
+ldrplug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32396/CS/trunk/plugins/csparser/ldrplug.cpp
+END
+prsseq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32164/CS/trunk/plugins/csparser/prsseq.cpp
+END
+ldrplug.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32239/CS/trunk/plugins/csparser/ldrplug.h
+END
+cubemaploader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/cubemaploader.tok
+END
+csparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32866/CS/trunk/plugins/csparser/csparser.cpp
+END
+loadsnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32245/CS/trunk/plugins/csparser/loadsnd.cpp
+END
+csparser.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31430/CS/trunk/plugins/csparser/csparser.csplugin
+END
+proxyimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32171/CS/trunk/plugins/csparser/proxyimage.cpp
+END
+prstex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32645/CS/trunk/plugins/csparser/prstex.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/Jamfile
+END
+proxyimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31346/CS/trunk/plugins/csparser/proxyimage.h
+END
+tex3dloader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/tex3dloader.tok
+END
+csloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/csparser/csloader.cpp
+END
+csthreadedloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/csparser/csthreadedloader.cpp
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/31193/CS/trunk/data/terraini
+END
+material_00.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/material_00.png
+END
+material_10.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/material_10.png
+END
+material.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/material.png
+END
+material_01.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/material_01.png
+END
+material_11.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/material_11.png
+END
+lightmaps.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30269/CS/trunk/data/terraini/lightmaps.cslib
+END
+grass.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/grass.lib
+END
+world
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31193/CS/trunk/data/terraini/world
+END
+bush2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/bush2.lib
+END
+material_blank.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/material_blank.png
+END
+heightmap_00.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/heightmap_00.png
+END
+heightmap_10.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/heightmap_10.png
+END
+heightmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/heightmap.png
+END
+heightmap_01.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/heightmap_01.png
+END
+heightmap_11.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/heightmap_11.png
+END
+shader_light.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/shader_light.xml
+END
+treebark_bare.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/treebark_bare.lib
+END
+shader_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/shader_base.xml
+END
+rock.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/rock.lib
+END
+tree.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/tree.lib
+END
+lava.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/26594/CS/trunk/data/terraini/lava.png
+END
+tree_skimp.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/tree_skimp.lib
+END
+materialmap_base_00.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/30377/CS/trunk/data/terraini/materialmap_base_00.png
+END
+shader_splat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/shader_splat.xml
+END
+materialmap_base_01.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/30377/CS/trunk/data/terraini/materialmap_base_01.png
+END
+materialmap_base.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/26896/CS/trunk/data/terraini/materialmap_base.png
+END
+materialmap_base_10.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/30377/CS/trunk/data/terraini/materialmap_base_10.png
+END
+materialmap_base_11.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/30377/CS/trunk/data/terraini/materialmap_base_11.png
+END
+heightmap_257x257.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/26896/CS/trunk/data/terraini/heightmap_257x257.png
+END
+geomorph.cgvp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/28284/CS/trunk/data/terraini/geomorph.cgvp
+END

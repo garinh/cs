@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/33509/CS/trunk/libs/csutil/win32
+END
+syminit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/23520/CS/trunk/libs/csutil/win32/syminit.h
+END
+callstack-dbghelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28800/CS/trunk/libs/csutil/win32/callstack-dbghelp.cpp
+END
+filesysconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27782/CS/trunk/libs/csutil/win32/filesysconfig.cpp
+END
+loadlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32732/CS/trunk/libs/csutil/win32/loadlib.cpp
+END
+winsyspath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/32154/CS/trunk/libs/csutil/win32/winsyspath.cpp
+END
+processorcount_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/29624/CS/trunk/libs/csutil/win32/processorcount_impl.cpp
+END
+dir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/23222/CS/trunk/libs/csutil/win32/dir.cpp
+END
+vfsplat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31332/CS/trunk/libs/csutil/win32/vfsplat.cpp
+END
+winprintf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/26590/CS/trunk/libs/csutil/win32/winprintf.cpp
+END
+expandname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/26590/CS/trunk/libs/csutil/win32/expandname.cpp
+END
+sysroot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/27782/CS/trunk/libs/csutil/win32/sysroot.cpp
+END
+bfd-module-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/28158/CS/trunk/libs/csutil/win32/bfd-module-win32.h
+END
+shellstuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32154/CS/trunk/libs/csutil/win32/shellstuff.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/31517/CS/trunk/libs/csutil/win32/Jamfile
+END
+win32kbd_identstrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/21210/CS/trunk/libs/csutil/win32/win32kbd_identstrs.h
+END
+win32kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/22650/CS/trunk/libs/csutil/win32/win32kbd.h
+END
+instpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32638/CS/trunk/libs/csutil/win32/instpath.cpp
+END
+mmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/23465/CS/trunk/libs/csutil/win32/mmap.cpp
+END
+timing32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26633/CS/trunk/libs/csutil/win32/timing32.cpp
+END
+syminit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/26590/CS/trunk/libs/csutil/win32/syminit.cpp
+END
+memutil_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/29626/CS/trunk/libs/csutil/win32/memutil_impl.cpp
+END
+DbgHelpAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33392/CS/trunk/libs/csutil/win32/DbgHelpAPI.cpp
+END
+win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32154/CS/trunk/libs/csutil/win32/win32.cpp
+END
+setenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29806/CS/trunk/libs/csutil/win32/setenv.cpp
+END
+callstack-dbghelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28800/CS/trunk/libs/csutil/win32/callstack-dbghelp.h
+END
+APIdefine.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33392/CS/trunk/libs/csutil/win32/APIdefine.inc
+END
+wintools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/28498/CS/trunk/libs/csutil/win32/wintools.cpp
+END
+cs1.ico
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17752/CS/trunk/libs/csutil/win32/cs1.ico
+END
+username.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27541/CS/trunk/libs/csutil/win32/username.cpp
+END
+win32kbd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27782/CS/trunk/libs/csutil/win32/win32kbd.cpp
+END
+Imm32API.fun
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/17294/CS/trunk/libs/csutil/win32/Imm32API.fun
+END
+registrycfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30800/CS/trunk/libs/csutil/win32/registrycfg.cpp
+END

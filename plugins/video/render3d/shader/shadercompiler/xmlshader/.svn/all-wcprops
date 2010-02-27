@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33561/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader
+END
+shadertech.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/crystal/!svn/ver/33523/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/shadertech.h
+END
+xmlshader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/crystal/!svn/ver/32416/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/xmlshader.tok
+END
+forcedprioshader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/33257/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/forcedprioshader.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/crystal/!svn/ver/31243/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/Jamfile
+END
+shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/crystal/!svn/ver/33540/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/shader.cpp
+END
+foreignnodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/32416/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/foreignnodes.h
+END
+xmlshader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/crystal/!svn/ver/33515/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/xmlshader.cpp
+END
+forcedprioshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/33257/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/forcedprioshader.h
+END
+xmlshader.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/16141/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/xmlshader.csplugin
+END
+iinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/crystal/!svn/ver/33540/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/iinternal.h
+END
+shadertech.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/33257/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/shadertech.cpp
+END
+shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/crystal/!svn/ver/33540/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/shader.h
+END
+xmlshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/crystal/!svn/ver/33515/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/xmlshader.h
+END

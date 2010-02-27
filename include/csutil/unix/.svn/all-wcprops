@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31243/CS/trunk/include/csutil/unix
+END
+csosdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31243/CS/trunk/include/csutil/unix/csosdefs.h
+END
+sanity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30489/CS/trunk/include/csutil/unix/sanity.inc
+END

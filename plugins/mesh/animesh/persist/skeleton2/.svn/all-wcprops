@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/animesh/persist/skeleton2
+END
+skeleton2ldr.tok
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/crystal/!svn/ver/30041/CS/trunk/plugins/mesh/animesh/persist/skeleton2/skeleton2ldr.tok
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/persist/skeleton2/Jamfile
+END
+skeleton2ldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/animesh/persist/skeleton2/skeleton2ldr.cpp
+END
+skeleton2ldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/persist/skeleton2/skeleton2ldr.csplugin
+END
+skeleton2ldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/animesh/persist/skeleton2/skeleton2ldr.h
+END

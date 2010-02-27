@@ -1,0 +1,92 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/apps
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-22T01:41:10.479412Z
+33696
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+tools
+dir
+
+pysimp
+dir
+
+tests
+dir
+
+tutorial
+dir
+
+demo
+dir
+
+waterdemo
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:36.066762Z
+1eca5be5fbb43565fe7d553770557cad
+2009-01-23T22:35:33.113363Z
+31977
+res2002
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+317
+
+waterdemo2
+dir
+
+import
+dir
+
+isotest
+dir
+
+walktest
+dir
+

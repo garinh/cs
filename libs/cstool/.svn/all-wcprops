@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/33573/CS/trunk/libs/cstool
+END
+csview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32852/CS/trunk/libs/cstool/csview.cpp
+END
+numberedfilename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/24895/CS/trunk/libs/cstool/numberedfilename.cpp
+END
+meshfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32895/CS/trunk/libs/cstool/meshfilter.cpp
+END
+importkit_glue.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30879/CS/trunk/libs/cstool/importkit_glue.h
+END
+materialbuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33573/CS/trunk/libs/cstool/materialbuilder.cpp
+END
+csapplicationframework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/28671/CS/trunk/libs/cstool/csapplicationframework.cpp
+END
+proctxtanim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/25967/CS/trunk/libs/cstool/proctxtanim.cpp
+END
+smartfileopen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33246/CS/trunk/libs/cstool/smartfileopen.cpp
+END
+normalcalc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/cstool/normalcalc.cpp
+END
+unusedresourcehelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29969/CS/trunk/libs/cstool/unusedresourcehelper.cpp
+END
+saverref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/27604/CS/trunk/libs/cstool/saverref.cpp
+END
+userrndbuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/cstool/userrndbuf.cpp
+END
+simplestaticlighter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33406/CS/trunk/libs/cstool/simplestaticlighter.cpp
+END
+pen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/cstool/pen.cpp
+END
+cspixmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/21850/CS/trunk/libs/cstool/cspixmap.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/cstool/Jamfile
+END
+rendermeshlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27648/CS/trunk/libs/cstool/rendermeshlist.cpp
+END
+rendermeshholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27975/CS/trunk/libs/cstool/rendermeshholder.cpp
+END
+objmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/28284/CS/trunk/libs/cstool/objmodel.cpp
+END
+keyval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/cstool/keyval.cpp
+END
+uberscreenshot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32164/CS/trunk/libs/cstool/uberscreenshot.cpp
+END
+collider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33203/CS/trunk/libs/cstool/collider.cpp
+END
+importkit_glue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32171/CS/trunk/libs/cstool/importkit_glue.cpp
+END
+csanim2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/18434/CS/trunk/libs/cstool/csanim2d.cpp
+END
+initapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32142/CS/trunk/libs/cstool/initapp.cpp
+END
+memory_pen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/cstool/memory_pen.cpp
+END
+rviewclipper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30388/CS/trunk/libs/cstool/rviewclipper.cpp
+END
+csfxscr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/21571/CS/trunk/libs/cstool/csfxscr.cpp
+END
+procmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32895/CS/trunk/libs/cstool/procmesh.cpp
+END
+saverfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/23658/CS/trunk/libs/cstool/saverfile.cpp
+END
+importkit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/26905/CS/trunk/libs/cstool/importkit.cpp
+END
+mapnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27745/CS/trunk/libs/cstool/mapnode.cpp
+END
+proctex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32417/CS/trunk/libs/cstool/proctex.cpp
+END
+meshobjtmpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/27519/CS/trunk/libs/cstool/meshobjtmpl.cpp
+END
+bitmasktostr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/21822/CS/trunk/libs/cstool/bitmasktostr.cpp
+END
+enginetools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32271/CS/trunk/libs/cstool/enginetools.cpp
+END
+basetexfact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/22651/CS/trunk/libs/cstool/basetexfact.cpp
+END
+vertexcompress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26550/CS/trunk/libs/cstool/vertexcompress.cpp
+END
+primitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33482/CS/trunk/libs/cstool/primitives.cpp
+END
+genmeshbuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27970/CS/trunk/libs/cstool/genmeshbuilder.cpp
+END

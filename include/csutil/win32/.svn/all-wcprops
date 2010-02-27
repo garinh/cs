@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33509/CS/trunk/include/csutil/win32
+END
+sanity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/29466/CS/trunk/include/csutil/win32/sanity.inc
+END
+mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/23431/CS/trunk/include/csutil/win32/mmap.h
+END
+cachedll.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33145/CS/trunk/include/csutil/win32/cachedll.h
+END
+DbgHelpAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/22207/CS/trunk/include/csutil/win32/DbgHelpAPI.h
+END
+DbgHelpAPI.fun
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/22207/CS/trunk/include/csutil/win32/DbgHelpAPI.fun
+END
+csconfig-msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33145/CS/trunk/include/csutil/win32/csconfig-msvc.h
+END
+callstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/22330/CS/trunk/include/csutil/win32/callstack.h
+END
+win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/27522/CS/trunk/include/csutil/win32/win32.h
+END
+msvc_deprecated_warn_off.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/27975/CS/trunk/include/csutil/win32/msvc_deprecated_warn_off.h
+END
+csosdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32113/CS/trunk/include/csutil/win32/csosdefs.h
+END
+msvc_deprecated_warn_on.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/27975/CS/trunk/include/csutil/win32/msvc_deprecated_warn_on.h
+END
+APIdeclare.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/32129/CS/trunk/include/csutil/win32/APIdeclare.inc
+END
+wintools.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/26637/CS/trunk/include/csutil/win32/wintools.h
+END
+psdk-compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32132/CS/trunk/include/csutil/win32/psdk-compat.h
+END
+registrycfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/26583/CS/trunk/include/csutil/win32/registrycfg.h
+END

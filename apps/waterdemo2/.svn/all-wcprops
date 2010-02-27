@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/32000/CS/trunk/apps/waterdemo2
+END
+waterdemo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31978/CS/trunk/apps/waterdemo2/waterdemo2.h
+END
+appwaterdemo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32000/CS/trunk/apps/waterdemo2/appwaterdemo2.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31978/CS/trunk/apps/waterdemo2/main.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31978/CS/trunk/apps/waterdemo2/Jamfile
+END
+appwaterdemo2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32000/CS/trunk/apps/waterdemo2/appwaterdemo2.cpp
+END

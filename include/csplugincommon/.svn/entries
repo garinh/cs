@@ -1,0 +1,67 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/include/csplugincommon
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-06T15:21:48.088056Z
+33653
+Khakilord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+directx
+dir
+
+win32
+dir
+
+sndsys
+dir
+
+opengl
+dir
+
+script
+dir
+
+render3d
+dir
+
+shader
+dir
+
+imageloader
+dir
+
+macosx
+dir
+
+rendermanager
+dir
+
+canvas
+dir
+
+renderstep
+dir
+
+iopengl
+dir
+

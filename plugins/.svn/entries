@@ -1,0 +1,143 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/plugins
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-19T15:24:31.652601Z
+33683
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+engseq
+dir
+
+csparser
+dir
+
+physics
+dir
+
+documentsystem
+dir
+
+sndsys
+dir
+
+gui
+dir
+
+proctex
+dir
+
+terraformer
+dir
+
+translator
+dir
+
+misc
+dir
+
+mesh
+dir
+
+culling
+dir
+
+device
+dir
+
+stdrep
+dir
+
+reporter
+dir
+
+console
+dir
+
+engine
+dir
+
+font
+dir
+
+cssaver
+dir
+
+video
+dir
+
+cscript
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:25:40.358015Z
+f09f8ef452af7da9baa38a70081a69cd
+2009-06-07T18:27:55.472325Z
+32460
+res2002
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1123
+
+decal
+dir
+
+sequence
+dir
+
+rendermanager
+dir
+
+collide
+dir
+
+utilities
+dir
+
+filesys
+dir
+

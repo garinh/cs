@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/shadow
+END
+shadow_depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/shadow/shadow_depth.xml
+END
+shadow_vsm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/shadow/shadow_vsm.xml
+END

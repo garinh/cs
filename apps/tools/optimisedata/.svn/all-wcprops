@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31502/CS/trunk/apps/tools/optimisedata
+END
+optimisedata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31502/CS/trunk/apps/tools/optimisedata/optimisedata.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31180/CS/trunk/apps/tools/optimisedata/Jamfile
+END
+optimisedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/31225/CS/trunk/apps/tools/optimisedata/optimisedata.h
+END

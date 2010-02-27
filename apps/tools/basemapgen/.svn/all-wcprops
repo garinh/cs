@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/tools/basemapgen
+END
+layers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/30378/CS/trunk/apps/tools/basemapgen/layers.cpp
+END
+basemapgen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/30376/CS/trunk/apps/tools/basemapgen/basemapgen.cpp
+END
+layers.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30376/CS/trunk/apps/tools/basemapgen/layers.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/tools/basemapgen/Jamfile
+END
+basemapgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/30376/CS/trunk/apps/tools/basemapgen/basemapgen.h
+END
+bmg_terrain_old.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/30376/CS/trunk/apps/tools/basemapgen/bmg_terrain_old.cpp
+END
+bmg_terrain2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/30376/CS/trunk/apps/tools/basemapgen/bmg_terrain2.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32933/CS/trunk/libs/csplugincommon/macosx
+END
+OSXView.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32208/CS/trunk/libs/csplugincommon/macosx/OSXView.m
+END
+OSXDelegate2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32294/CS/trunk/libs/csplugincommon/macosx/OSXDelegate2D.m
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csplugincommon/macosx/Jamfile
+END
+OSXDriver2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32933/CS/trunk/libs/csplugincommon/macosx/OSXDriver2D.cpp
+END
+OSXWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/20606/CS/trunk/libs/csplugincommon/macosx/OSXWindow.m
+END

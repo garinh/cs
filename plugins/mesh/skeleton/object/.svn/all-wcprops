@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/skeleton/object
+END
+skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/skeleton/object/skeleton.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/23637/CS/trunk/plugins/mesh/skeleton/object/Jamfile
+END
+skeleton.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/23662/CS/trunk/plugins/mesh/skeleton/object/skeleton.csplugin
+END
+skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/30364/CS/trunk/plugins/mesh/skeleton/object/skeleton.h
+END

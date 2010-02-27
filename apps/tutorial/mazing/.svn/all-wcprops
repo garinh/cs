@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33353/CS/trunk/apps/tutorial/mazing
+END
+gamestuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33353/CS/trunk/apps/tutorial/mazing/gamestuff.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/23473/CS/trunk/apps/tutorial/mazing/Jamfile
+END
+appmazing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/30446/CS/trunk/apps/tutorial/mazing/appmazing.cpp
+END
+gamestuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33353/CS/trunk/apps/tutorial/mazing/gamestuff.h
+END
+appmazing.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/30446/CS/trunk/apps/tutorial/mazing/appmazing.h
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/mk
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-22T18:36:43.083813Z
+33701
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+msvc8
+dir
+
+msvc9
+dir
+
+msvcgen
+dir
+
+jam
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:45.466765Z
+f4344dbf6b755786d951a4d9a9b924ed
+2004-11-04T21:01:05.000000Z
+19436
+sunshine
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+98
+
+msvc
+dir
+
+autoconf
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31404/CS/trunk/apps/tools/distfieldgen
+END
+distfieldgen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31404/CS/trunk/apps/tools/distfieldgen/distfieldgen.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/tools/distfieldgen/Jamfile
+END
+distfieldgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/29691/CS/trunk/apps/tools/distfieldgen/distfieldgen.h
+END

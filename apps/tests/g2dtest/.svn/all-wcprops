@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32718/CS/trunk/apps/tests/g2dtest
+END
+teststrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28355/CS/trunk/apps/tests/g2dtest/teststrings.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/20643/CS/trunk/apps/tests/g2dtest/Jamfile
+END
+g2dtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32718/CS/trunk/apps/tests/g2dtest/g2dtest.cpp
+END

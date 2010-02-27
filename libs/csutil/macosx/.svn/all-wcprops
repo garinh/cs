@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/33064/CS/trunk/libs/csutil/macosx
+END
+OSXInstPath.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/OSXInstPath.m
+END
+OSXConfigFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/OSXConfigFile.cpp
+END
+appicon.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/appicon.tiff
+END
+defaultsconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/26988/CS/trunk/libs/csutil/macosx/defaultsconfig.h
+END
+OSXMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/OSXMenu.h
+END
+OSXAssistant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33064/CS/trunk/libs/csutil/macosx/OSXAssistant.cpp
+END
+appicon.icns
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/appicon.icns
+END
+OSXConfigFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/OSXConfigFile.h
+END
+OSXMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/21134/CS/trunk/libs/csutil/macosx/OSXMenu.m
+END
+OSXAssistant.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32228/CS/trunk/libs/csutil/macosx/OSXAssistant.h
+END
+OSXGetUsername.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/22673/CS/trunk/libs/csutil/macosx/OSXGetUsername.cpp
+END
+OSXDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/32208/CS/trunk/libs/csutil/macosx/OSXDelegate.h
+END
+processorcount_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32045/CS/trunk/libs/csutil/macosx/processorcount_impl.cpp
+END
+OSXInstallPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32638/CS/trunk/libs/csutil/macosx/OSXInstallPath.cpp
+END
+OSXGetUsername.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/OSXGetUsername.h
+END
+OSXDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/32227/CS/trunk/libs/csutil/macosx/OSXDelegate.m
+END
+platformconfigpath.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/28280/CS/trunk/libs/csutil/macosx/platformconfigpath.mm
+END
+OSXInstallPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/macosx/OSXInstallPath.h
+END
+OSXUsername.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31588/CS/trunk/libs/csutil/macosx/OSXUsername.m
+END
+defaultsconfig.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/31588/CS/trunk/libs/csutil/macosx/defaultsconfig.mm
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32045/CS/trunk/libs/csutil/macosx/Jamfile
+END
+OSXTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/23799/CS/trunk/libs/csutil/macosx/OSXTime.cpp
+END
+OSXGetDirs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/23643/CS/trunk/libs/csutil/macosx/OSXGetDirs.cpp
+END

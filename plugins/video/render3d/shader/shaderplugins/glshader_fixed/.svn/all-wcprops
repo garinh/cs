@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed
+END
+glshader_ffp.tok
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/23370/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_ffp.tok
+END
+glshader_fvp.tok
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/29089/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_fvp.tok
+END
+glshader_ffp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/32123/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_ffp.cpp
+END
+glshader_fvp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/32123/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_fvp.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/crystal/!svn/ver/24386/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/Jamfile
+END
+glshader_fixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_fixed.cpp
+END
+glshader_ffp.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/31725/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_ffp.h
+END
+glshader_fvp.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/31725/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_fvp.h
+END
+glshader_fixed.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/crystal/!svn/ver/16141/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_fixed.csplugin
+END
+glshader_fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/30493/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_fixed/glshader_fixed.h
+END

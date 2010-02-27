@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/terrain/persist/terrain2
+END
+saver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/30455/CS/trunk/plugins/mesh/terrain/persist/terrain2/saver.cpp
+END
+loader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/29023/CS/trunk/plugins/mesh/terrain/persist/terrain2/loader.tok
+END
+saver.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/30344/CS/trunk/plugins/mesh/terrain/persist/terrain2/saver.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/31855/CS/trunk/plugins/mesh/terrain/persist/terrain2/Jamfile
+END
+loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/terrain/persist/terrain2/loader.cpp
+END
+terrain2ldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/crystal/!svn/ver/30244/CS/trunk/plugins/mesh/terrain/persist/terrain2/terrain2ldr.csplugin
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/terrain/persist/terrain2/loader.h
+END

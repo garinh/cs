@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/postproc
+END
+desaturate.cgfp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/desaturate.cgfp
+END
+desaturate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/desaturate.xml
+END
+blur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/blur.xml
+END
+gauss-v.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/gauss-v.xml
+END
+gauss.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/postproc/gauss.cginc
+END
+gauss-h.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/gauss-h.xml
+END
+add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/add.xml
+END
+add_squared.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/add_squared.xml
+END
+threshold.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/29874/CS/trunk/data/shader/postproc/threshold.xml
+END

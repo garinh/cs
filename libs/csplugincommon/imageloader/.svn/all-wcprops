@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33005/CS/trunk/libs/csplugincommon/imageloader
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csplugincommon/imageloader/Jamfile
+END
+optionsparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/30800/CS/trunk/libs/csplugincommon/imageloader/optionsparser.cpp
+END
+commonimagefile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33005/CS/trunk/libs/csplugincommon/imageloader/commonimagefile.cpp
+END

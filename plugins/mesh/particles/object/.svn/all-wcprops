@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33631/CS/trunk/plugins/mesh/particles/object
+END
+vertexsetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/28284/CS/trunk/plugins/mesh/particles/object/vertexsetup.cpp
+END
+builtinemitters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/27371/CS/trunk/plugins/mesh/particles/object/builtinemitters.cpp
+END
+vertexsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/28284/CS/trunk/plugins/mesh/particles/object/vertexsetup.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/particles/object/Jamfile
+END
+particles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/particles/object/particles.cpp
+END
+builtineffectors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33593/CS/trunk/plugins/mesh/particles/object/builtineffectors.cpp
+END
+builtinemitters.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/28284/CS/trunk/plugins/mesh/particles/object/builtinemitters.h
+END
+particles.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/25214/CS/trunk/plugins/mesh/particles/object/particles.csplugin
+END
+particles.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/32403/CS/trunk/plugins/mesh/particles/object/particles.h
+END
+builtineffectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33631/CS/trunk/plugins/mesh/particles/object/builtineffectors.h
+END

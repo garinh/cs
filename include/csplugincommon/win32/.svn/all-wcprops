@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32731/CS/trunk/include/csplugincommon/win32
+END
+icontools.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/32731/CS/trunk/include/csplugincommon/win32/icontools.h
+END
+csextern_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/20643/CS/trunk/include/csplugincommon/win32/csextern_win.h
+END
+customcursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/25351/CS/trunk/include/csplugincommon/win32/customcursor.h
+END

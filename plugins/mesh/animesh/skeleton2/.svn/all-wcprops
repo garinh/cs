@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33621/CS/trunk/plugins/mesh/animesh/skeleton2
+END
+blendnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/30004/CS/trunk/plugins/mesh/animesh/skeleton2/blendnode.h
+END
+fsmnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33532/CS/trunk/plugins/mesh/animesh/skeleton2/fsmnode.h
+END
+skeleton2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33317/CS/trunk/plugins/mesh/animesh/skeleton2/skeleton2.cpp
+END
+skeleton2.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/skeleton2/skeleton2.csplugin
+END
+nodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33479/CS/trunk/plugins/mesh/animesh/skeleton2/nodes.cpp
+END
+othernodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33621/CS/trunk/plugins/mesh/animesh/skeleton2/othernodes.cpp
+END
+skeleton2.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33317/CS/trunk/plugins/mesh/animesh/skeleton2/skeleton2.h
+END
+nodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33504/CS/trunk/plugins/mesh/animesh/skeleton2/nodes.h
+END
+othernodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33621/CS/trunk/plugins/mesh/animesh/skeleton2/othernodes.h
+END
+animation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33504/CS/trunk/plugins/mesh/animesh/skeleton2/animation.cpp
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/skeleton2/utilities.h
+END
+animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/30004/CS/trunk/plugins/mesh/animesh/skeleton2/animation.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/skeleton2/Jamfile
+END
+blendnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33317/CS/trunk/plugins/mesh/animesh/skeleton2/blendnode.cpp
+END
+fsmnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33532/CS/trunk/plugins/mesh/animesh/skeleton2/fsmnode.cpp
+END

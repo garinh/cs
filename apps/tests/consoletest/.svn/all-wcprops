@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/23805/CS/trunk/apps/tests/consoletest
+END
+teststrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/20379/CS/trunk/apps/tests/consoletest/teststrings.h
+END
+consoletest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/23805/CS/trunk/apps/tests/consoletest/consoletest.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/20643/CS/trunk/apps/tests/consoletest/Jamfile
+END

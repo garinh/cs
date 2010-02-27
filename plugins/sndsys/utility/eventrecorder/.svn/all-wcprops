@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/utility/eventrecorder
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/23697/CS/trunk/plugins/sndsys/utility/eventrecorder/Jamfile
+END
+eventrecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/utility/eventrecorder/eventrecorder.cpp
+END
+eventrecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/26988/CS/trunk/plugins/sndsys/utility/eventrecorder/eventrecorder.h
+END
+sndsyseventrecorder.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/crystal/!svn/ver/23697/CS/trunk/plugins/sndsys/utility/eventrecorder/sndsyseventrecorder.csplugin
+END

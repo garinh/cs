@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/protomesh/persist/standard
+END
+protomesh_meshobject.tok
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/crystal/!svn/ver/23465/CS/trunk/plugins/mesh/protomesh/persist/standard/protomesh_meshobject.tok
+END
+protomesh_factory.tok
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/crystal/!svn/ver/23465/CS/trunk/plugins/mesh/protomesh/persist/standard/protomesh_factory.tok
+END
+protomeshldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/protomesh/persist/standard/protomeshldr.cpp
+END
+protomeshldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/crystal/!svn/ver/19206/CS/trunk/plugins/mesh/protomesh/persist/standard/protomeshldr.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/23465/CS/trunk/plugins/mesh/protomesh/persist/standard/Jamfile
+END
+protomeshldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/protomesh/persist/standard/protomeshldr.h
+END

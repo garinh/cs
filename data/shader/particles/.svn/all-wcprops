@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/particles
+END
+basic_fixed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32200/CS/trunk/data/shader/particles/basic_fixed.xml
+END
+basic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/particles/basic.xml
+END
+soft-alpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/particles/soft-alpha.xml
+END

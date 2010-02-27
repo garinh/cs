@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/33669/CS/trunk/include/imesh
+END
+lookat.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33528/CS/trunk/include/imesh/lookat.h
+END
+objmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/27519/CS/trunk/include/imesh/objmodel.h
+END
+sprite2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32266/CS/trunk/include/imesh/sprite2d.h
+END
+sprite3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31839/CS/trunk/include/imesh/sprite3d.h
+END
+emit.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/24813/CS/trunk/include/imesh/emit.h
+END
+watermesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/31997/CS/trunk/include/imesh/watermesh.h
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31541/CS/trunk/include/imesh/particle.h
+END
+gmeshskel2.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/24555/CS/trunk/include/imesh/gmeshskel2.h
+END
+terrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28103/CS/trunk/include/imesh/terrain.h
+END
+partsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/23357/CS/trunk/include/imesh/partsys.h
+END
+basicskelanim.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33569/CS/trunk/include/imesh/basicskelanim.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32275/CS/trunk/include/imesh/object.h
+END
+skeleton2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33334/CS/trunk/include/imesh/skeleton2.h
+END
+gmeshanim.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/24555/CS/trunk/include/imesh/gmeshanim.h
+END
+bodymesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33669/CS/trunk/include/imesh/bodymesh.h
+END
+skeleton2anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33660/CS/trunk/include/imesh/skeleton2anim.h
+END
+spritecal3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33632/CS/trunk/include/imesh/spritecal3d.h
+END
+protomesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/23465/CS/trunk/include/imesh/protomesh.h
+END
+lghtng.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/24707/CS/trunk/include/imesh/lghtng.h
+END
+animesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33334/CS/trunk/include/imesh/animesh.h
+END
+ragdoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33528/CS/trunk/include/imesh/ragdoll.h
+END
+skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/28355/CS/trunk/include/imesh/skeleton.h
+END
+particles.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33631/CS/trunk/include/imesh/particles.h
+END
+genmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33656/CS/trunk/include/imesh/genmesh.h
+END
+terrain2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33583/CS/trunk/include/imesh/terrain2.h
+END
+nullmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33021/CS/trunk/include/imesh/nullmesh.h
+END
+haze.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/24813/CS/trunk/include/imesh/haze.h
+END

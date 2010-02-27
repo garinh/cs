@@ -1,0 +1,104 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/plugins/mesh
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-15T23:50:58.037636Z
+33669
+kickvb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+protomesh
+dir
+
+lghtng
+dir
+
+skeleton
+dir
+
+animesh
+dir
+
+particles
+dir
+
+genmesh
+dir
+
+haze
+dir
+
+spr2d
+dir
+
+spr3d
+dir
+
+emit
+dir
+
+watermesh
+dir
+
+terrain
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:25:28.137389Z
+95e324d679a1c9f0cddc053c61e2b128
+2009-01-23T21:57:34.990115Z
+31974
+res2002
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+553
+
+null
+dir
+
+sprcal3d
+dir
+

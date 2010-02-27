@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/20891/CS/trunk/apps/tools/jam
+END
+README.crystalspace
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/README.crystalspace
+END
+jamgramtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jamgramtab.h
+END
+execvms.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/execvms.c
+END
+Build.mpw
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Build.mpw
+END
+filent.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/filent.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/20798/CS/trunk/apps/tools/jam/hash.c
+END
+Jambase.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Jambase.html
+END
+yyacc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/yyacc
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/hash.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Makefile
+END
+jamgram.yy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jamgram.yy
+END
+make1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/make1.c
+END
+fileos2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/fileos2.c
+END
+jam.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jam.c
+END
+option.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/option.c
+END
+RELNOTES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/RELNOTES
+END
+jam.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/20891/CS/trunk/apps/tools/jam/jam.h
+END
+pathmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20798/CS/trunk/apps/tools/jam/pathmac.c
+END
+option.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/option.h
+END
+execcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/execcmd.h
+END
+Jambase
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Jambase
+END
+fileunix.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/fileunix.c
+END
+scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/scan.c
+END
+variable.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/variable.c
+END
+Jam.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Jam.html
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/scan.h
+END
+regexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/regexp.c
+END
+rules.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/rules.c
+END
+variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/variable.h
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/patchlevel.h
+END
+regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/regexp.h
+END
+rules.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/rules.h
+END
+pathunix.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/pathunix.c
+END
+filemac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/filemac.c
+END
+Porting
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Porting
+END
+timestamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/timestamp.c
+END
+timestamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/timestamp.h
+END
+headers.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20798/CS/trunk/apps/tools/jam/headers.c
+END
+jamgram.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jamgram.c
+END
+jam-2.5rc3-frankrichter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/20891/CS/trunk/apps/tools/jam/jam-2.5rc3-frankrichter.patch
+END
+headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/headers.h
+END
+pathvms.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20798/CS/trunk/apps/tools/jam/pathvms.c
+END
+newstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/newstr.c
+END
+jamgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jamgram.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Jamfile
+END
+newstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/newstr.h
+END
+compile.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/compile.c
+END
+builtins.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/builtins.c
+END
+Jamfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Jamfile.html
+END
+mkjambase.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/mkjambase.c
+END
+Build.com
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/Build.com
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/compile.h
+END
+lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/lists.c
+END
+builtins.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/builtins.h
+END
+pathsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/pathsys.h
+END
+jambase.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jambase.c
+END
+lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/lists.h
+END
+jamgram.y
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jamgram.y
+END
+execmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/execmac.c
+END
+filevms.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/filevms.c
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/20798/CS/trunk/apps/tools/jam/search.c
+END
+jambase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/jambase.h
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/parse.c
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/search.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/README
+END
+make.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/make.c
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/command.c
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/parse.h
+END
+expand.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/expand.c
+END
+make.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/make.h
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/command.h
+END
+filesys.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/filesys.h
+END
+glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/glob.c
+END
+expand.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/expand.h
+END
+execunix.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/17714/CS/trunk/apps/tools/jam/execunix.c
+END

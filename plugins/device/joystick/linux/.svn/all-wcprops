@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/device/joystick/linux
+END
+csjoylin.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/30429/CS/trunk/plugins/device/joystick/linux/csjoylin.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/21661/CS/trunk/plugins/device/joystick/linux/Jamfile
+END
+joylin.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/26099/CS/trunk/plugins/device/joystick/linux/joylin.csplugin
+END
+csjoylin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/device/joystick/linux/csjoylin.cpp
+END

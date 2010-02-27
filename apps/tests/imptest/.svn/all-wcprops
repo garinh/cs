@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32866/CS/trunk/apps/tests/imptest
+END
+imptest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32866/CS/trunk/apps/tests/imptest/imptest.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/28284/CS/trunk/apps/tests/imptest/Jamfile
+END
+imptest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30440/CS/trunk/apps/tests/imptest/imptest.h
+END

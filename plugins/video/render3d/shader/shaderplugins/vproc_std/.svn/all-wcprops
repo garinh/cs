@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std
+END
+vproc_program.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/30493/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/vproc_program.cpp
+END
+vproc_std.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/vproc_std.cpp
+END
+vproc_program.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/31725/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/vproc_program.h
+END
+vproc_std.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/crystal/!svn/ver/20689/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/vproc_std.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/crystal/!svn/ver/31243/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/Jamfile
+END
+vproc_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/crystal/!svn/ver/30493/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/vproc_std.h
+END
+vproc_program.tok
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/shader/shaderplugins/vproc_std/vproc_program.tok
+END

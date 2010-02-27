@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/manager
+END
+sndmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/manager/sndmanager.cpp
+END
+sndmanager.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/22390/CS/trunk/plugins/sndsys/manager/sndmanager.csplugin
+END
+sndmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29313/CS/trunk/plugins/sndsys/manager/sndmanager.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/22388/CS/trunk/plugins/sndsys/manager/Jamfile
+END

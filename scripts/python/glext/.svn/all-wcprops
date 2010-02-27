@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext
+END
+funcinit
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/14451/CS/trunk/scripts/python/glext/funcinit
+END
+extcheck_GL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/extcheck_GL
+END
+defs_GLver
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/defs_GLver
+END
+depends
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/19960/CS/trunk/scripts/python/glext/depends
+END
+ext_init
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/14140/CS/trunk/scripts/python/glext/ext_init
+END
+initext_GLver
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/initext_GLver
+END
+func_arg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/18207/CS/trunk/scripts/python/glext/func_arg
+END
+headerfiletemplate
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/headerfiletemplate
+END
+funcs_WGL
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/funcs_WGL
+END
+ext_flag_GLver
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/ext_flag_GLver
+END
+funcs_GLX
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/funcs_GLX
+END
+constant
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/14140/CS/trunk/scripts/python/glext/constant
+END
+defs_WGL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/defs_WGL
+END
+defs_GLX
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/defs_GLX
+END
+func
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/14140/CS/trunk/scripts/python/glext/func
+END
+func_type
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/14140/CS/trunk/scripts/python/glext/func_type
+END
+extcheck_GLver
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/extcheck_GLver
+END
+initext_WGL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/initext_WGL
+END
+extcheck_special
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/14140/CS/trunk/scripts/python/glext/extcheck_special
+END
+initext_GLX
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/initext_GLX
+END
+funcs_GL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/funcs_GL
+END
+ext_flag_WGL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/ext_flag_WGL
+END
+ext_flag_GLX
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/ext_flag_GLX
+END
+defs_GL
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/defs_GL
+END
+initext_GL
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/initext_GL
+END
+extcheck_WGL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/extcheck_WGL
+END
+extcheck_GLX
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glext/extcheck_GLX
+END
+ext_tested
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/14140/CS/trunk/scripts/python/glext/ext_tested
+END
+ext_flag_GL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/ext_flag_GL
+END
+funcs_GLver
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/25301/CS/trunk/scripts/python/glext/funcs_GLver
+END

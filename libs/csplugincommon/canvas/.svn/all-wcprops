@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33615/CS/trunk/libs/csplugincommon/canvas
+END
+cursorconvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/27782/CS/trunk/libs/csplugincommon/canvas/cursorconvert.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csplugincommon/canvas/Jamfile
+END
+graph2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/32716/CS/trunk/libs/csplugincommon/canvas/graph2d.cpp
+END
+fontcache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/30165/CS/trunk/libs/csplugincommon/canvas/fontcache.cpp
+END

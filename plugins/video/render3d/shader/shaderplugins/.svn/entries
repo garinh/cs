@@ -1,0 +1,77 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/plugins/video/render3d/shader/shaderplugins
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-19T15:24:31.652601Z
+33683
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+glshader_cg
+dir
+
+vproc_std
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:25:33.707277Z
+eb4999cc8ddae83fc922cc81d62b7202
+2008-09-20T05:48:55.153625Z
+31212
+jorrit
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+426
+
+glshader_fixed
+dir
+
+glshader_ps1
+dir
+
+glshader_arb
+dir
+

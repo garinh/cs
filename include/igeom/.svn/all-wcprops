@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/29866/CS/trunk/include/igeom
+END
+trimesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28284/CS/trunk/include/igeom/trimesh.h
+END
+path.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/29866/CS/trunk/include/igeom/path.h
+END
+clip2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/22659/CS/trunk/include/igeom/clip2d.h
+END

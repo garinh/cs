@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/33670/CS/trunk/scripts/perl5
+END
+cswigpl5.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33670/CS/trunk/scripts/perl5/cswigpl5.inc
+END
+perlsimp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/26922/CS/trunk/scripts/perl5/perlsimp.pl
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/perl5/Jamfile
+END
+cspace.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33670/CS/trunk/scripts/perl5/cspace.pm
+END

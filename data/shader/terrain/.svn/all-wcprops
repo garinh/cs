@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/terrain
+END
+splat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/terrain/splat.xml
+END
+splat_pvl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/terrain/splat_pvl.xml
+END
+alphasplat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/terrain/alphasplat.xml
+END
+alphasplat_pvl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/terrain/alphasplat_pvl.xml
+END

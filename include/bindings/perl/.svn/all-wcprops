@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/30916/CS/trunk/include/bindings/perl
+END
+perlpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/30916/CS/trunk/include/bindings/perl/perlpost.i
+END
+cstoolpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/cstoolpost.i
+END
+perlpre.i
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/30879/CS/trunk/include/bindings/perl/perlpre.i
+END
+perl1st.i
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/25088/CS/trunk/include/bindings/perl/perl1st.i
+END
+imeshpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/imeshpost.i
+END
+imappost.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/imappost.i
+END
+corepost.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/corepost.i
+END
+csgfxpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/csgfxpost.i
+END
+ivariapost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/ivariapost.i
+END
+isndsyspost.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/isndsyspost.i
+END
+csgeompost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/csgeompost.i
+END
+ienginepost.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/ienginepost.i
+END
+ivideopost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/perl/ivideopost.i
+END

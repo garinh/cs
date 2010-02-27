@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30238/CS/trunk/docs/support/docutils/readers
+END
+standalone.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/readers/standalone.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/readers/__init__.py
+END
+pep.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/readers/pep.py
+END
+doctree.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/readers/doctree.py
+END

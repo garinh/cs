@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32119/CS/trunk/plugins/video/loader/dds/ImageLib
+END
+LoadFromTGA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/21249/CS/trunk/plugins/video/loader/dds/ImageLib/LoadFromTGA.cpp
+END
+fCodeBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/fCodeBook.h
+END
+LoadFromBMP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/21249/CS/trunk/plugins/video/loader/dds/ImageLib/LoadFromBMP.cpp
+END
+ImageDXTC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/ImageDXTC.cpp
+END
+MedianCut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/MedianCut.cpp
+END
+cfVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/24068/CS/trunk/plugins/video/loader/dds/ImageLib/cfVector.cpp
+END
+LoadImageFrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/22542/CS/trunk/plugins/video/loader/dds/ImageLib/LoadImageFrom.h
+END
+Cclist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/Cclist.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/Image.cpp
+END
+ccDoubleHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/ccDoubleHeap.h
+END
+Lloyd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/Lloyd.cpp
+END
+ccHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/ccHeap.h
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/21249/CS/trunk/plugins/video/loader/dds/ImageLib/Readme.txt
+END
+CodeBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/CodeBook.h
+END
+fCodeBook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/fCodeBook.cpp
+END
+Table.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/24068/CS/trunk/plugins/video/loader/dds/ImageLib/Table.h
+END
+readme-cs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/21274/CS/trunk/plugins/video/loader/dds/ImageLib/readme-cs.txt
+END
+CodeBook4MMX.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/22542/CS/trunk/plugins/video/loader/dds/ImageLib/CodeBook4MMX.h
+END
+DXTCGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/DXTCGen.h
+END
+Usage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/21249/CS/trunk/plugins/video/loader/dds/ImageLib/Usage.cpp
+END
+LoadImageFrom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/21249/CS/trunk/plugins/video/loader/dds/ImageLib/LoadImageFrom.cpp
+END
+ImageDXTC.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/ImageDXTC.h
+END
+ccDoubleHeap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/ccDoubleHeap.cpp
+END
+MedianCut.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/MedianCut.h
+END
+cfVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/cfVector.h
+END
+ccHeap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/ccHeap.cpp
+END
+CodeBook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/CodeBook.cpp
+END
+Cclist.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/Cclist.h
+END
+Table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/24068/CS/trunk/plugins/video/loader/dds/ImageLib/Table.cpp
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/Image.h
+END
+Lloyd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/23573/CS/trunk/plugins/video/loader/dds/ImageLib/Lloyd.h
+END
+CodeBook4MMX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/21249/CS/trunk/plugins/video/loader/dds/ImageLib/CodeBook4MMX.cpp
+END
+DXTCGen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/32119/CS/trunk/plugins/video/loader/dds/ImageLib/DXTCGen.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/21392/CS/trunk/plugins/video/loader/dds/ImageLib/common.h
+END

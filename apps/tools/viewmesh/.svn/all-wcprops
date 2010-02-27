@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33644/CS/trunk/apps/tools/viewmesh
+END
+submeshtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33090/CS/trunk/apps/tools/viewmesh/submeshtab.h
+END
+sprite3dasset.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/sprite3dasset.h
+END
+tabbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33089/CS/trunk/apps/tools/viewmesh/tabbase.h
+END
+generaltab.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/generaltab.h
+END
+animationtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/animationtab.h
+END
+assetbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/assetbase.h
+END
+sockettab.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33090/CS/trunk/apps/tools/viewmesh/sockettab.h
+END
+animeshasset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33533/CS/trunk/apps/tools/viewmesh/animeshasset.cpp
+END
+genmeshasset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33597/CS/trunk/apps/tools/viewmesh/genmeshasset.cpp
+END
+cal3dasset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33597/CS/trunk/apps/tools/viewmesh/cal3dasset.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33197/CS/trunk/apps/tools/viewmesh/Jamfile
+END
+viewmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33644/CS/trunk/apps/tools/viewmesh/viewmesh.cpp
+END
+morphtargettab.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/morphtargettab.h
+END
+animeshasset.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33533/CS/trunk/apps/tools/viewmesh/animeshasset.h
+END
+materialtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/materialtab.h
+END
+genmeshasset.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/genmeshasset.h
+END
+cal3dasset.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/cal3dasset.h
+END
+viewmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33084/CS/trunk/apps/tools/viewmesh/viewmesh.h
+END
+sprite3dasset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33597/CS/trunk/apps/tools/viewmesh/sprite3dasset.cpp
+END

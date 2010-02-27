@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33487/CS/trunk/plugins/sndsys/element/ogg
+END
+oggstream2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28767/CS/trunk/plugins/sndsys/element/ogg/oggstream2.h
+END
+sndsysogg.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/22344/CS/trunk/plugins/sndsys/element/ogg/sndsysogg.csplugin
+END
+oggloader2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28767/CS/trunk/plugins/sndsys/element/ogg/oggloader2.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/22360/CS/trunk/plugins/sndsys/element/ogg/Jamfile
+END
+oggdata2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/element/ogg/oggdata2.cpp
+END
+oggloader2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28767/CS/trunk/plugins/sndsys/element/ogg/oggloader2.h
+END
+oggstream2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33487/CS/trunk/plugins/sndsys/element/ogg/oggstream2.cpp
+END
+oggdata2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28767/CS/trunk/plugins/sndsys/element/ogg/oggdata2.h
+END

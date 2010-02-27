@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33670/CS/trunk/scripts/python/frozen/cspace
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/core.py
+END
+csgfx.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/csgfx.py
+END
+ivaria.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33670/CS/trunk/scripts/python/frozen/cspace/ivaria.py
+END
+pycscegui.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/32759/CS/trunk/scripts/python/frozen/cspace/pycscegui.py
+END
+isndsys.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/isndsys.py
+END
+csgeom.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/csgeom.py
+END
+iengine.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/iengine.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/29553/CS/trunk/scripts/python/frozen/cspace/__init__.py
+END
+ivideo.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/ivideo.py
+END
+cstool.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/cstool.py
+END
+imesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33634/CS/trunk/scripts/python/frozen/cspace/imesh.py
+END
+imap.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33519/CS/trunk/scripts/python/frozen/cspace/imap.py
+END

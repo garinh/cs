@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/33200/CS/trunk/data/smoketest
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33200/CS/trunk/data/smoketest/Jamfile
+END
+smoketest.layout
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33196/CS/trunk/data/smoketest/smoketest.layout
+END

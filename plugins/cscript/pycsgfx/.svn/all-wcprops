@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33519/CS/trunk/plugins/cscript/pycsgfx
+END
+cs_csgfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33519/CS/trunk/plugins/cscript/pycsgfx/cs_csgfx.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/27769/CS/trunk/plugins/cscript/pycsgfx/Jamfile
+END
+csgfxmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/27769/CS/trunk/plugins/cscript/pycsgfx/csgfxmod.cpp
+END

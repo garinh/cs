@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/32162/CS/trunk/data/castle
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27832/CS/trunk/data/castle/license.txt
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/30908/CS/trunk/data/castle/Jamfile
+END
+world
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32162/CS/trunk/data/castle/world
+END

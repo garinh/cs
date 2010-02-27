@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30238/CS/trunk/docs/support/docutils/parsers/rst
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/__init__.py
+END
+states.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/states.py
+END
+roles.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/roles.py
+END
+tableparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/tableparser.py
+END

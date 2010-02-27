@@ -1,0 +1,1589 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/crystal/!svn/ver/33699/CS/trunk/mk/msvc8
+END
+plgsprcal3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsprcal3d.vcproj
+END
+grpplugins_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpplugins_typical.vcproj
+END
+plgglshader_arb.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgglshader_arb.vcproj
+END
+dllpy_iengine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_iengine.vcproj
+END
+appisotest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appisotest.vcproj
+END
+appdocconv.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appdocconv.vcproj
+END
+libcrystalspace_windows.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/libcrystalspace_windows.vcproj
+END
+plgvfs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgvfs.vcproj
+END
+plgemitldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgemitldr.vcproj
+END
+appdocconv_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appdocconv_static.vcproj
+END
+plgcolladaconvertor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcolladaconvertor.vcproj
+END
+appvsh_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appvsh_static.vcproj
+END
+plgcssaver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcssaver.vcproj
+END
+grprenderers_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprenderers_static.vcproj
+END
+plgsprcal3dldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsprcal3dldr.vcproj
+END
+appsimpcd.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsimpcd.vcproj
+END
+plgpagingformer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgpagingformer.vcproj
+END
+dllpy_ivideo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_ivideo.vcproj
+END
+grpapps_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpapps_static.vcproj
+END
+appoptimisedata.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appoptimisedata.vcproj
+END
+applghtngtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/applghtngtest.vcproj
+END
+appmdl2spr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appmdl2spr.vcproj
+END
+plgprofiler.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgprofiler.vcproj
+END
+plgpagingformerldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgpagingformerldr.vcproj
+END
+appmazing.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appmazing.vcproj
+END
+plgglwin32.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgglwin32.vcproj
+END
+plganimeshldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plganimeshldr.vcproj
+END
+appheightmapproc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appheightmapproc.vcproj
+END
+grpshaders_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpshaders_pytypical.vcproj
+END
+plgcsopcode.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsopcode.vcproj
+END
+plgvproc_std.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgvproc_std.vcproj
+END
+plggmeshanim.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggmeshanim.vcproj
+END
+plgsndsyssoft.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsyssoft.vcproj
+END
+plgrm_rlcompat.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrm_rlcompat.vcproj
+END
+plgcscegui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcscegui.vcproj
+END
+grpwalkall_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpwalkall_typical.vcproj
+END
+plgcsgifimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsgifimg.vcproj
+END
+grpbindings_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpbindings_typical.vcproj
+END
+plgnullmeshldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgnullmeshldr.vcproj
+END
+appviewmesh_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33699/CS/trunk/mk/msvc8/appviewmesh_static.vcproj
+END
+appmaya2spr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appmaya2spr.vcproj
+END
+plgembedgl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgembedgl.vcproj
+END
+plgskelldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgskelldr.vcproj
+END
+plgdyndebug.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc8/plgdyndebug.vcproj
+END
+plgglshader_cg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgglshader_cg.vcproj
+END
+plgsimpleformer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsimpleformer.vcproj
+END
+grpbindings_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpbindings_static.vcproj
+END
+dllpy_csgfx.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_csgfx.vcproj
+END
+appphystut.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc8/appphystut.vcproj
+END
+appsimpvs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsimpvs.vcproj
+END
+grpopenglrenderer_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpopenglrenderer_pytypical.vcproj
+END
+grpproctexes_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpproctexes_pytypical.vcproj
+END
+appimptest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appimptest.vcproj
+END
+plglghtngldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plglghtngldr.vcproj
+END
+plgterrain2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgterrain2.vcproj
+END
+grpimageloaders_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpimageloaders_pytypical.vcproj
+END
+plgcssynldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcssynldr.vcproj
+END
+grpbindings_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpbindings_pytypical.vcproj
+END
+appwalktest_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33699/CS/trunk/mk/msvc8/appwalktest_static.vcproj
+END
+plgcspython.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcspython.vcproj
+END
+grpapps_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpapps_pytypical.vcproj
+END
+grpproctexes_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpproctexes_typical.vcproj
+END
+plggmeshanimpdl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggmeshanimpdl.vcproj
+END
+appsimple1.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsimple1.vcproj
+END
+plgbodymeshldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33581/CS/trunk/mk/msvc8/plgbodymeshldr.vcproj
+END
+plgragdoll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgragdoll.vcproj
+END
+appwaterdemo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appwaterdemo.vcproj
+END
+grprenderall_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprenderall_static.vcproj
+END
+grpimageloaders_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpimageloaders_typical.vcproj
+END
+appdistfieldgen.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appdistfieldgen.vcproj
+END
+plgwatermeshldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgwatermeshldr.vcproj
+END
+wksstatic.sln
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33380/CS/trunk/mk/msvc8/wksstatic.sln
+END
+dllpy_cstool.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_cstool.vcproj
+END
+liblighter2_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/liblighter2_static_plugins.vcproj
+END
+plgsndsysopenal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsysopenal.vcproj
+END
+libviewmesh_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33699/CS/trunk/mk/msvc8/libviewmesh_static_plugins.vcproj
+END
+plganimesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plganimesh.vcproj
+END
+grpfontservers_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpfontservers_pytypical.vcproj
+END
+grplibs_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grplibs_typical.vcproj
+END
+grpopenglcanvas_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpopenglcanvas_pytypical.vcproj
+END
+grpall_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpall_static.vcproj
+END
+plgxmlshader.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgxmlshader.vcproj
+END
+plgterrain2ldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgterrain2ldr.vcproj
+END
+grprendermanagers_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprendermanagers_typical.vcproj
+END
+grpproctexes_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpproctexes_static.vcproj
+END
+libcrystalspace_staticplugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc8/libcrystalspace_staticplugins.vcproj
+END
+grprenderers_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprenderers_pytypical.vcproj
+END
+plgdsplex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgdsplex.vcproj
+END
+plgnull2d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgnull2d.vcproj
+END
+plgreporter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgreporter.vcproj
+END
+plgskeleton2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgskeleton2.vcproj
+END
+grpopenglrenderer_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpopenglrenderer_typical.vcproj
+END
+plgdecal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgdecal.vcproj
+END
+grpimageloaders_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpimageloaders_static.vcproj
+END
+plgbodymesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgbodymesh.vcproj
+END
+grprendermanagers_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprendermanagers_static.vcproj
+END
+grprenderall_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprenderall_pytypical.vcproj
+END
+plgdynavis.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgdynavis.vcproj
+END
+plgsndsysogg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsysogg.vcproj
+END
+grpcanvases_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpcanvases_static.vcproj
+END
+plgwxgl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgwxgl.vcproj
+END
+plgcsparser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsparser.vcproj
+END
+apptri3dtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/apptri3dtest.vcproj
+END
+plgrendstep_stencil2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrendstep_stencil2.vcproj
+END
+plgcsconout.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsconout.vcproj
+END
+plgemit.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgemit.vcproj
+END
+plgcstgaimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcstgaimg.vcproj
+END
+grpapps_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpapps_typical.vcproj
+END
+libbasemapgen_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/libbasemapgen_static_plugins.vcproj
+END
+plgtrans_std.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgtrans_std.vcproj
+END
+plgcsbmpimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsbmpimg.vcproj
+END
+grprendermanagers_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprendermanagers_pytypical.vcproj
+END
+plgcscursor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcscursor.vcproj
+END
+plggmeshldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggmeshldr.vcproj
+END
+plgbugplug.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgbugplug.vcproj
+END
+plgglshader_ps1.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgglshader_ps1.vcproj
+END
+grpall_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpall_pytypical.vcproj
+END
+applighter2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/applighter2.vcproj
+END
+plgptanimimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgptanimimg.vcproj
+END
+plghaze.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plghaze.vcproj
+END
+appceguitest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appceguitest.vcproj
+END
+plgspr3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgspr3d.vcproj
+END
+grpwalkall_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpwalkall_pytypical.vcproj
+END
+plgwatermesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgwatermesh.vcproj
+END
+plgsndsyswav.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsyswav.vcproj
+END
+plgcsjngimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsjngimg.vcproj
+END
+grpmeshes_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpmeshes_static.vcproj
+END
+appsimpmap.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsimpmap.vcproj
+END
+plgengine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgengine.vcproj
+END
+plgterrainldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgterrainldr.vcproj
+END
+plgskeleton2ldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgskeleton2ldr.vcproj
+END
+grpshaders_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpshaders_typical.vcproj
+END
+grpopenglrenderer_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpopenglrenderer_static.vcproj
+END
+plgcsconin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsconin.vcproj
+END
+plgspr3dldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgspr3dldr.vcproj
+END
+plgrm_unshadowed.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrm_unshadowed.vcproj
+END
+appcsbench.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appcsbench.vcproj
+END
+grpwalkall_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpwalkall_static.vcproj
+END
+plgimgplex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgimgplex.vcproj
+END
+appcollada2cs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appcollada2cs.vcproj
+END
+grpcanvases_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpcanvases_pytypical.vcproj
+END
+plgsndmanager.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndmanager.vcproj
+END
+plgjoywin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgjoywin.vcproj
+END
+plgshaderweaver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgshaderweaver.vcproj
+END
+wkstypical.sln
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc8/wkstypical.sln
+END
+plgbasic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33508/CS/trunk/mk/msvc8/plgbasic.vcproj
+END
+plgpathloader.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgpathloader.vcproj
+END
+grpplugins_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpplugins_pytypical.vcproj
+END
+apppathtut.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/apppathtut.vcproj
+END
+plgsndsysspeex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsysspeex.vcproj
+END
+plgspr3md2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgspr3md2.vcproj
+END
+plgcsddsimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsddsimg.vcproj
+END
+grpsndsys_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpsndsys_static.vcproj
+END
+appshagnetron.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appshagnetron.vcproj
+END
+grplibs_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grplibs_static.vcproj
+END
+plgrendloop_loader.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrendloop_loader.vcproj
+END
+plglghtng.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plglghtng.vcproj
+END
+plgspr3dbin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgspr3dbin.vcproj
+END
+plgphysldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgphysldr.vcproj
+END
+applighter2_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/applighter2_static.vcproj
+END
+plglookat.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33433/CS/trunk/mk/msvc8/plglookat.vcproj
+END
+plgtlfunc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgtlfunc.vcproj
+END
+appwxtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appwxtest.vcproj
+END
+appgenmeshify.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appgenmeshify.vcproj
+END
+plgrendstep_std.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrendstep_std.vcproj
+END
+plgstdrep.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgstdrep.vcproj
+END
+appsimple2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsimple2.vcproj
+END
+plgshadermgr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgshadermgr.vcproj
+END
+plggmesh3ds.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggmesh3ds.vcproj
+END
+libcrystalspace_opengl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/libcrystalspace_opengl.vcproj
+END
+plgxmlread.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgxmlread.vcproj
+END
+grpfontservers_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpfontservers_static.vcproj
+END
+grpopenglcanvas_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpopenglcanvas_static.vcproj
+END
+plgstdpt.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgstdpt.vcproj
+END
+grpcanvases_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpcanvases_typical.vcproj
+END
+appjoytest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appjoytest.vcproj
+END
+appthreadtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appthreadtest.vcproj
+END
+plgfreefnt2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgfreefnt2.vcproj
+END
+grprenderers_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprenderers_typical.vcproj
+END
+plgrm_shadow_pssm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrm_shadow_pssm.vcproj
+END
+plgfrustvis.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgfrustvis.vcproj
+END
+dllpy_imap.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_imap.vcproj
+END
+grpsndsys_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpsndsys_pytypical.vcproj
+END
+appmd32spr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appmd32spr.vcproj
+END
+plghazeldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plghazeldr.vcproj
+END
+plgcsfont.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsfont.vcproj
+END
+dllpy_pycscegui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_pycscegui.vcproj
+END
+grpplugins_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpplugins_static.vcproj
+END
+plgptpdlight.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgptpdlight.vcproj
+END
+plgfontplex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgfontplex.vcproj
+END
+appconsoletest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appconsoletest.vcproj
+END
+appcsimagetool.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appcsimagetool.vcproj
+END
+grpshaders_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpshaders_static.vcproj
+END
+appwaterdemo2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appwaterdemo2.vcproj
+END
+appavatartest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33640/CS/trunk/mk/msvc8/appavatartest.vcproj
+END
+dllpy_ivaria.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_ivaria.vcproj
+END
+appsndtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsndtest.vcproj
+END
+plgparticles.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgparticles.vcproj
+END
+plgnullmesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgnullmesh.vcproj
+END
+libdocconv_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/libdocconv_static_plugins.vcproj
+END
+grpmeshes_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpmeshes_pytypical.vcproj
+END
+dllpy_core.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_core.vcproj
+END
+wkspytypical.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc8/wkspytypical.sln
+END
+appsimdtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appsimdtest.vcproj
+END
+apppartconv.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/apppartconv.vcproj
+END
+plgspr2dldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgspr2dldr.vcproj
+END
+libvsh_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/libvsh_static_plugins.vcproj
+END
+appvsh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appvsh.vcproj
+END
+plgodedynam.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgodedynam.vcproj
+END
+plgfancycon.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgfancycon.vcproj
+END
+plgnull3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgnull3d.vcproj
+END
+plgcsjpgimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcsjpgimg.vcproj
+END
+appcsfgen.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appcsfgen.vcproj
+END
+libcrystalspace_directx.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/libcrystalspace_directx.vcproj
+END
+plgrendstep_stencil.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgrendstep_stencil.vcproj
+END
+plgsequence.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsequence.vcproj
+END
+appjobtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appjobtest.vcproj
+END
+plgsndsysloader.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsysloader.vcproj
+END
+plgsndsyseventrecorder.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsyseventrecorder.vcproj
+END
+grpfontservers_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpfontservers_typical.vcproj
+END
+grpopenglcanvas_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpopenglcanvas_typical.vcproj
+END
+appstartme.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appstartme.vcproj
+END
+plgsndsysnull.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsysnull.vcproj
+END
+grpmeshes_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpmeshes_typical.vcproj
+END
+libcrystalspace.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33628/CS/trunk/mk/msvc8/libcrystalspace.vcproj
+END
+plgengseq.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgengseq.vcproj
+END
+applevtool.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/applevtool.vcproj
+END
+plgskeleton.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgskeleton.vcproj
+END
+appviewmesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appviewmesh.vcproj
+END
+plggenmesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggenmesh.vcproj
+END
+libwalktest_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33699/CS/trunk/mk/msvc8/libwalktest_static_plugins.vcproj
+END
+appwalktest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appwalktest.vcproj
+END
+grplibs_pytypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grplibs_pytypical.vcproj
+END
+appbasemapgen.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appbasemapgen.vcproj
+END
+appshadertut.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appshadertut.vcproj
+END
+grprenderall_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grprenderall_typical.vcproj
+END
+plgmovierecorder.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgmovierecorder.vcproj
+END
+plgsimpleformerldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsimpleformerldr.vcproj
+END
+dllpy_imesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_imesh.vcproj
+END
+appcsdemo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appcsdemo.vcproj
+END
+plggmeshskelanim2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggmeshskelanim2.vcproj
+END
+appg2dtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appg2dtest.vcproj
+END
+dllpy_csgeom.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_csgeom.vcproj
+END
+grpsndsys_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpsndsys_typical.vcproj
+END
+apppysimp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/apppysimp.vcproj
+END
+appeventtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appeventtest.vcproj
+END
+plgprotomesh.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgprotomesh.vcproj
+END
+app3ds2lev.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/app3ds2lev.vcproj
+END
+plgprotomeshldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgprotomeshldr.vcproj
+END
+appasndtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appasndtest.vcproj
+END
+plgbullet.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgbullet.vcproj
+END
+plgparticlesldr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgparticlesldr.vcproj
+END
+plggl3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plggl3d.vcproj
+END
+plgspr2d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgspr2d.vcproj
+END
+plgbruteblock.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgbruteblock.vcproj
+END
+dllpy_isndsys.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/dllpy_isndsys.vcproj
+END
+plgbindoc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgbindoc.vcproj
+END
+appheightmapgen.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appheightmapgen.vcproj
+END
+plgsndsyswin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgsndsyswin.vcproj
+END
+grpall_typical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/grpall_typical.vcproj
+END
+plgxmltiny.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgxmltiny.vcproj
+END
+plgcspngimg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgcspngimg.vcproj
+END
+appbasemapgen_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/appbasemapgen_static.vcproj
+END
+plgglshader_fixed.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33391/CS/trunk/mk/msvc8/plgglshader_fixed.vcproj
+END

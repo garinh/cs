@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/crystal/!svn/ver/31689/CS/trunk/data/terrain
+END
+materialmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/20381/CS/trunk/data/terrain/materialmap.png
+END
+grass.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/grass.png
+END
+swiss1_l.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/swiss1_l.jpg
+END
+world
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/31689/CS/trunk/data/terrain/world
+END
+heightmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/20381/CS/trunk/data/terrain/heightmap.png
+END
+materialmap_base.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/26925/CS/trunk/data/terrain/materialmap_base.png
+END
+normalmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/20381/CS/trunk/data/terrain/normalmap.png
+END
+swiss1_b.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/swiss1_b.jpg
+END
+swiss1_r.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/swiss1_r.jpg
+END
+swiss1_d.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/swiss1_d.jpg
+END
+grassDOT3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/grassDOT3.png
+END
+heightmap_257x257.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/heightmap_257x257.png
+END
+swiss1_u.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/swiss1_u.jpg
+END
+swiss1_f.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/15501/CS/trunk/data/terrain/swiss1_f.jpg
+END

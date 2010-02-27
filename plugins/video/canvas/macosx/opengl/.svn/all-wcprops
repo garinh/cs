@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/macosx/opengl
+END
+GLOSXDriver2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/macosx/opengl/GLOSXDriver2D.cpp
+END
+GLOSXDriver2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/32990/CS/trunk/plugins/video/canvas/macosx/opengl/GLOSXDriver2D.h
+END
+OSXDelegate2D_OpenGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/24443/CS/trunk/plugins/video/canvas/macosx/opengl/OSXDelegate2D_OpenGL.h
+END
+glosx2d.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/canvas/macosx/opengl/glosx2d.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/video/canvas/macosx/opengl/Jamfile
+END
+OSXDelegate2D_OpenGL.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/31598/CS/trunk/plugins/video/canvas/macosx/opengl/OSXDelegate2D_OpenGL.m
+END

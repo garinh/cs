@@ -1,0 +1,2483 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc
+END
+libcsjpgimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsjpgimg_staticreg.cpp
+END
+libengine_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libengine_staticreg.cpp
+END
+dllpy_ivideo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_ivideo.rc
+END
+plgpagingformer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgpagingformer.rc
+END
+libshadermgr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/libshadermgr_staticreg.cpp
+END
+appimptest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appimptest.manifest
+END
+libsndsyssoft_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsyssoft_staticreg.cpp
+END
+libprotomesh_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libprotomesh_staticreg.cpp
+END
+libdocconv_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libdocconv_static_plugins.rc
+END
+plgnullmesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgnullmesh.rc
+END
+appheightmapproc.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appheightmapproc.rc
+END
+libsndsysopenal_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsysopenal_staticreg.cpp
+END
+plgspr3md2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgspr3md2.rc
+END
+OPENAL.fake_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33251/CS/trunk/mk/msvc/OPENAL.fake_stub.c
+END
+libanimeshldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29403/CS/trunk/mk/msvc/libanimeshldr_staticreg.cpp
+END
+appviewmesh_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/31899/CS/trunk/mk/msvc/appviewmesh_static_static_glue_app.cpp
+END
+appvsh.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appvsh.manifest
+END
+appjoytest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appjoytest.manifest
+END
+libcrystalspace_directx.rc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libcrystalspace_directx.rc
+END
+appcsfgen.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appcsfgen.rc
+END
+plgcsjpgimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsjpgimg.rc
+END
+libspr3dldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libspr3dldr_staticreg.cpp
+END
+appwalktest_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appwalktest_static.manifest
+END
+appshagnetron.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appshagnetron.rc
+END
+plggmeshanim.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggmeshanim.rc
+END
+libreporter_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libreporter_staticreg.cpp
+END
+plgsndsyseventrecorder.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsyseventrecorder.rc
+END
+libskeleton2_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/29403/CS/trunk/mk/msvc/libskeleton2_staticreg.cpp
+END
+plgdynavis.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgdynavis.rc
+END
+libsndsysloader_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsysloader_staticreg.cpp
+END
+plgwxgl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgwxgl.rc
+END
+libbodymeshldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33581/CS/trunk/mk/msvc/libbodymeshldr_staticreg.cpp
+END
+libbasic_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33508/CS/trunk/mk/msvc/libbasic_staticreg.cpp
+END
+plgcsgifimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsgifimg.rc
+END
+libengseq_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libengseq_staticreg.cpp
+END
+libcsparser_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31436/CS/trunk/mk/msvc/libcsparser_staticreg.cpp
+END
+appmaya2spr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appmaya2spr.rc
+END
+appviewmesh_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appviewmesh_static.rc
+END
+libgenmesh_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libgenmesh_staticreg.cpp
+END
+plgcsconout.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsconout.rc
+END
+appmaya2spr.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appmaya2spr.manifest
+END
+appviewmesh_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/31899/CS/trunk/mk/msvc/appviewmesh_static.manifest
+END
+plgrendstep_std.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrendstep_std.rc
+END
+plgskelldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgskelldr.rc
+END
+plgcsbmpimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsbmpimg.rc
+END
+plgtrans_std.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgtrans_std.rc
+END
+appdocconv_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28275/CS/trunk/mk/msvc/appdocconv_static_staticuse.cpp
+END
+libcsddsimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsddsimg_staticreg.cpp
+END
+plgsimpleformer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsimpleformer.rc
+END
+plgbugplug.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgbugplug.rc
+END
+plggmeshldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggmeshldr.rc
+END
+libwatermesh_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31987/CS/trunk/mk/msvc/libwatermesh_staticreg.cpp
+END
+appvsh_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appvsh_static.manifest
+END
+appwaterdemo2.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31987/CS/trunk/mk/msvc/appwaterdemo2.manifest
+END
+appbasemapgen_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/30386/CS/trunk/mk/msvc/appbasemapgen_static_staticuse.cpp
+END
+libsimpleformerldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsimpleformerldr_staticreg.cpp
+END
+libcspython_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcspython_staticreg.cpp
+END
+appeventtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appeventtest.rc
+END
+apppysimp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/apppysimp.rc
+END
+appsimpcd.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsimpcd.manifest
+END
+appasndtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appasndtest.rc
+END
+plgptanimimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgptanimimg.rc
+END
+plgbullet.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgbullet.rc
+END
+plugin_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33146/CS/trunk/mk/msvc/plugin_impl.cpp
+END
+appceguitest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appceguitest.manifest
+END
+plgstdpt.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgstdpt.rc
+END
+appheightmapgen.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appheightmapgen.manifest
+END
+appdocconv_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/27944/CS/trunk/mk/msvc/appdocconv_static_static_glue_app.cpp
+END
+plgcsjngimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsjngimg.rc
+END
+plgsndsyswav.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsyswav.rc
+END
+plgengine.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgengine.rc
+END
+librm_unshadowed_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/librm_unshadowed_staticreg.cpp
+END
+libfontplex_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libfontplex_staticreg.cpp
+END
+appbasemapgen_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appbasemapgen_static.rc
+END
+plgcspngimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcspngimg.rc
+END
+appsimple1.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsimple1.rc
+END
+plggmeshanimpdl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggmeshanimpdl.rc
+END
+plgsprcal3d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsprcal3d.rc
+END
+libmovierecorder_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libmovierecorder_staticreg.cpp
+END
+libbugplug_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libbugplug_staticreg.cpp
+END
+plgbodymeshldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33581/CS/trunk/mk/msvc/plgbodymeshldr.rc
+END
+libsequence_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsequence_staticreg.cpp
+END
+dllpy_iengine.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_iengine.rc
+END
+libgmeshskelanim2_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libgmeshskelanim2_staticreg.cpp
+END
+libgmesh3ds_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libgmesh3ds_staticreg.cpp
+END
+plgragdoll.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33488/CS/trunk/mk/msvc/plgragdoll.rc
+END
+apptri3dtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/apptri3dtest.manifest
+END
+libpathloader_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/libpathloader_staticreg.cpp
+END
+appmd32spr.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appmd32spr.manifest
+END
+appwalktest_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/28325/CS/trunk/mk/msvc/appwalktest_static_static_glue_lib.cpp
+END
+libcrystalspace_windows.rc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libcrystalspace_windows.rc
+END
+libspr3dbin_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libspr3dbin_staticreg.cpp
+END
+plgspr3dldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgspr3dldr.rc
+END
+appbasemapgen_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/28325/CS/trunk/mk/msvc/appbasemapgen_static_static_glue_lib.cpp
+END
+appconsoletest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appconsoletest.manifest
+END
+dllpy_cstool.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_cstool.rc
+END
+appcollada2cs.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appcollada2cs.rc
+END
+plgimgplex.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgimgplex.rc
+END
+libdsplex_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libdsplex_staticreg.cpp
+END
+appvsh_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/27944/CS/trunk/mk/msvc/appvsh_static_static_glue_app.cpp
+END
+appsimple2.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsimple2.manifest
+END
+liblighter2_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/liblighter2_static_plugins.rc
+END
+applighter2_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/28325/CS/trunk/mk/msvc/applighter2_static_static_glue_lib.cpp
+END
+libcssaver_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcssaver_staticreg.cpp
+END
+appeventtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appeventtest.manifest
+END
+apppysimp.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/apppysimp.manifest
+END
+plgbasic.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33508/CS/trunk/mk/msvc/plgbasic.rc
+END
+libsndsyseventrecorder_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsyseventrecorder_staticreg.cpp
+END
+appsndtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsndtest.rc
+END
+appmazing.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appmazing.rc
+END
+plganimesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plganimesh.rc
+END
+librm_rlcompat_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/librm_rlcompat_staticreg.cpp
+END
+plgparticles.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgparticles.rc
+END
+plgterrain2ldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgterrain2ldr.rc
+END
+liblghtng_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/liblghtng_staticreg.cpp
+END
+apppartconv.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/apppartconv.rc
+END
+appsimdtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsimdtest.rc
+END
+librm_shadow_pssm_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/librm_shadow_pssm_staticreg.cpp
+END
+plgcsddsimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsddsimg.rc
+END
+appvsh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appvsh.rc
+END
+libparticlesldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libparticlesldr_staticreg.cpp
+END
+plgcsopcode.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsopcode.rc
+END
+libhazeldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libhazeldr_staticreg.cpp
+END
+plgnull2d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgnull2d.rc
+END
+plgvproc_std.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgvproc_std.rc
+END
+libembedgl_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libembedgl_staticreg.cpp
+END
+appvsh_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28275/CS/trunk/mk/msvc/appvsh_static_staticuse.cpp
+END
+libcolladaconvertor_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28284/CS/trunk/mk/msvc/libcolladaconvertor_staticreg.cpp
+END
+plgdecal.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgdecal.rc
+END
+appbasemapgen_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appbasemapgen_static.manifest
+END
+appjobtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33006/CS/trunk/mk/msvc/appjobtest.manifest
+END
+plgsndsysloader.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsysloader.rc
+END
+libxmltiny_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libxmltiny_staticreg.cpp
+END
+libimgplex_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libimgplex_staticreg.cpp
+END
+plgsndsysnull.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsysnull.rc
+END
+plgrm_rlcompat.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrm_rlcompat.rc
+END
+plgsndsyssoft.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsyssoft.rc
+END
+plgsndsysogg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsysogg.rc
+END
+applevtool.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/applevtool.rc
+END
+plgengseq.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgengseq.rc
+END
+libsprcal3dldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsprcal3dldr_staticreg.cpp
+END
+libsndsysnull_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsysnull_staticreg.cpp
+END
+applighter2_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/applighter2_static.rc
+END
+plgphysldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgphysldr.rc
+END
+crystalspace_staticplugins_msvc8.jam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc/crystalspace_staticplugins_msvc8.jam
+END
+plggenmesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggenmesh.rc
+END
+appwaterdemo.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appwaterdemo.manifest
+END
+plglookat.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33488/CS/trunk/mk/msvc/plglookat.rc
+END
+libwalktest_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libwalktest_static_plugins.rc
+END
+libhaze_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libhaze_staticreg.cpp
+END
+libbullet_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libbullet_staticreg.cpp
+END
+plgembedgl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgembedgl.rc
+END
+plgstdrep.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgstdrep.rc
+END
+appbasemapgen.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appbasemapgen.manifest
+END
+libspr3d_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libspr3d_staticreg.cpp
+END
+libcsfont_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsfont_staticreg.cpp
+END
+libcsconin_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsconin_staticreg.cpp
+END
+libemit_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libemit_staticreg.cpp
+END
+libcstgaimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcstgaimg_staticreg.cpp
+END
+appcsbench.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appcsbench.manifest
+END
+dllpy_imesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_imesh.rc
+END
+plgsimpleformerldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsimpleformerldr.rc
+END
+appsimple2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsimple2.rc
+END
+appg2dtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appg2dtest.rc
+END
+appcsdemo.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appcsdemo.manifest
+END
+dllpy_csgfx.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_csgfx.rc
+END
+plgglshader_ps1.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgglshader_ps1.rc
+END
+plggmesh3ds.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggmesh3ds.rc
+END
+dllpy_csgeom.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_csgeom.rc
+END
+appsimpvs.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsimpvs.rc
+END
+appphystut.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appphystut.manifest
+END
+libfreefnt2_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libfreefnt2_staticreg.cpp
+END
+app3ds2lev.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/app3ds2lev.manifest
+END
+plgprotomeshldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgprotomeshldr.rc
+END
+appimptest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appimptest.rc
+END
+libcrystalspace_opengl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libcrystalspace_opengl.rc
+END
+libshaderweaver_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libshaderweaver_staticreg.cpp
+END
+plgspr2d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgspr2d.rc
+END
+libphysldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libphysldr_staticreg.cpp
+END
+appheightmapgen.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appheightmapgen.rc
+END
+plgbindoc.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgbindoc.rc
+END
+libterrain2ldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/30260/CS/trunk/mk/msvc/libterrain2ldr_staticreg.cpp
+END
+libspr2d_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libspr2d_staticreg.cpp
+END
+appwalktest_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appwalktest_static.rc
+END
+appsimpmap.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsimpmap.rc
+END
+libbindoc_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libbindoc_staticreg.cpp
+END
+appthreadtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appthreadtest.rc
+END
+libptpdlight_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libptpdlight_staticreg.cpp
+END
+appsimpmap.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsimpmap.manifest
+END
+plgcspython.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcspython.rc
+END
+libdyndebug_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc/libdyndebug_staticreg.cpp
+END
+libstdrep_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libstdrep_staticreg.cpp
+END
+plgskeleton2ldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgskeleton2ldr.rc
+END
+libgmeshldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libgmeshldr_staticreg.cpp
+END
+libterrainldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libterrainldr_staticreg.cpp
+END
+appviewmesh_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/31899/CS/trunk/mk/msvc/appviewmesh_static_static_glue_lib.cpp
+END
+plgfrustvis.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgfrustvis.rc
+END
+plgrm_shadow_pssm.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrm_shadow_pssm.rc
+END
+libsndmanager_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndmanager_staticreg.cpp
+END
+libjoywin_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libjoywin_staticreg.cpp
+END
+libsndsysogg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsysogg_staticreg.cpp
+END
+plghazeldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plghazeldr.rc
+END
+appisotest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appisotest.manifest
+END
+libskeleton_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libskeleton_staticreg.cpp
+END
+liblghtngldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/liblghtngldr_staticreg.cpp
+END
+plgcsconin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsconin.rc
+END
+appviewmesh_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31926/CS/trunk/mk/msvc/appviewmesh_static_staticuse.cpp
+END
+libxmlshader_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libxmlshader_staticreg.cpp
+END
+plgvfs.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgvfs.rc
+END
+libcsgifimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsgifimg_staticreg.cpp
+END
+appdistfieldgen.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appdistfieldgen.rc
+END
+appdocconv_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appdocconv_static.manifest
+END
+appshadertut.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31266/CS/trunk/mk/msvc/appshadertut.manifest
+END
+libcsopcode_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsopcode_staticreg.cpp
+END
+plgcssaver.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcssaver.rc
+END
+libcssynldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcssynldr_staticreg.cpp
+END
+libsndsyswin_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsyswin_staticreg.cpp
+END
+libvproc_std_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libvproc_std_staticreg.cpp
+END
+plgshaderweaver.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgshaderweaver.rc
+END
+appsimpvs.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsimpvs.manifest
+END
+plgpagingformerldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgpagingformerldr.rc
+END
+plgprofiler.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgprofiler.rc
+END
+libglshader_ps1_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libglshader_ps1_staticreg.cpp
+END
+libviewmesh_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libviewmesh_static_plugins.rc
+END
+libglshader_arb_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libglshader_arb_staticreg.cpp
+END
+appsndtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsndtest.manifest
+END
+plganimeshldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plganimeshldr.rc
+END
+plgxmlshader.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgxmlshader.rc
+END
+plgsndsysspeex.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsysspeex.rc
+END
+libpagingformerldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libpagingformerldr_staticreg.cpp
+END
+dllpy_core.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_core.rc
+END
+appheightmapproc.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31987/CS/trunk/mk/msvc/appheightmapproc.manifest
+END
+apppartconv.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/apppartconv.manifest
+END
+appsimdtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsimdtest.manifest
+END
+libparticles_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libparticles_staticreg.cpp
+END
+librendstep_stencil2_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/librendstep_stencil2_staticreg.cpp
+END
+plgdsplex.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgdsplex.rc
+END
+libspr3md2_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libspr3md2_staticreg.cpp
+END
+plgnull3d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgnull3d.rc
+END
+libbruteblock_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libbruteblock_staticreg.cpp
+END
+libxmlread_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libxmlread_staticreg.cpp
+END
+plgrendstep_stencil.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrendstep_stencil.rc
+END
+libwatermeshldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/31987/CS/trunk/mk/msvc/libwatermeshldr_staticreg.cpp
+END
+plgrendloop_loader.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrendloop_loader.rc
+END
+libcscursor_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcscursor_staticreg.cpp
+END
+appstartme.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appstartme.rc
+END
+libgmeshanimpdl_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libgmeshanimpdl_staticreg.cpp
+END
+libcrystalspace.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libcrystalspace.rc
+END
+libbodymesh_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33433/CS/trunk/mk/msvc/libbodymesh_staticreg.cpp
+END
+plgcscegui.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33206/CS/trunk/mk/msvc/plgcscegui.rc
+END
+apptri3dtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/apptri3dtest.rc
+END
+applevtool.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/applevtool.manifest
+END
+plgspr3dbin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgspr3dbin.rc
+END
+appviewmesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appviewmesh.rc
+END
+crystalspace_staticplugins_msvc9.jam
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc/crystalspace_staticplugins_msvc9.jam
+END
+appdocconv_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/28325/CS/trunk/mk/msvc/appdocconv_static_static_glue_lib.cpp
+END
+plgrendstep_stencil2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrendstep_stencil2.rc
+END
+libcscegui_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33206/CS/trunk/mk/msvc/libcscegui_staticreg.cpp
+END
+libragdoll_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33488/CS/trunk/mk/msvc/libragdoll_staticreg.cpp
+END
+appdocconv.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appdocconv.manifest
+END
+appwxtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appwxtest.rc
+END
+appgenmeshify.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appgenmeshify.rc
+END
+appwxtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appwxtest.manifest
+END
+appgenmeshify.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appgenmeshify.manifest
+END
+appdistfieldgen.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appdistfieldgen.manifest
+END
+appshadertut.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appshadertut.rc
+END
+plgglshader_cg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgglshader_cg.rc
+END
+plgcscursor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcscursor.rc
+END
+librendstep_std_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/librendstep_std_staticreg.cpp
+END
+appwalktest_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31743/CS/trunk/mk/msvc/appwalktest_static_staticuse.cpp
+END
+plgmovierecorder.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgmovierecorder.rc
+END
+libemitldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libemitldr_staticreg.cpp
+END
+appcollada2cs.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30591/CS/trunk/mk/msvc/appcollada2cs.manifest
+END
+libnull3d_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libnull3d_staticreg.cpp
+END
+libglshader_cg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libglshader_cg_staticreg.cpp
+END
+plggmeshskelanim2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggmeshskelanim2.rc
+END
+appg2dtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appg2dtest.manifest
+END
+plgshadermgr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgshadermgr.rc
+END
+appphystut.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appphystut.rc
+END
+applighter2.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/applighter2.manifest
+END
+libsprcal3d_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsprcal3d_staticreg.cpp
+END
+applghtngtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/applghtngtest.manifest
+END
+appmdl2spr.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appmdl2spr.manifest
+END
+appoptimisedata.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31182/CS/trunk/mk/msvc/appoptimisedata.manifest
+END
+libdynavis_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libdynavis_staticreg.cpp
+END
+plgterrain2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgterrain2.rc
+END
+plghaze.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plghaze.rc
+END
+libwxgl_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libwxgl_staticreg.cpp
+END
+libprotomeshldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libprotomeshldr_staticreg.cpp
+END
+plggl3d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plggl3d.rc
+END
+libanimesh_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29403/CS/trunk/mk/msvc/libanimesh_staticreg.cpp
+END
+plgspr3d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgspr3d.rc
+END
+appvsh_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28325/CS/trunk/mk/msvc/appvsh_static_static_glue_lib.cpp
+END
+plgxmlread.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgxmlread.rc
+END
+dllpy_isndsys.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_isndsys.rc
+END
+libterrain2_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libterrain2_staticreg.cpp
+END
+libsndsysspeex_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32153/CS/trunk/mk/msvc/libsndsysspeex_staticreg.cpp
+END
+plgwatermesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgwatermesh.rc
+END
+libnullmeshldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libnullmeshldr_staticreg.cpp
+END
+plgsndsyswin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsyswin.rc
+END
+appcsfgen.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appcsfgen.manifest
+END
+libodedynam_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libodedynam_staticreg.cpp
+END
+libnull2d_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libnull2d_staticreg.cpp
+END
+libfancycon_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libfancycon_staticreg.cpp
+END
+libcsbmpimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsbmpimg_staticreg.cpp
+END
+appsimple1.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appsimple1.manifest
+END
+plgglshader_arb.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgglshader_arb.rc
+END
+librendloop_loader_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/librendloop_loader_staticreg.cpp
+END
+libgmeshanim_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libgmeshanim_staticreg.cpp
+END
+applighter2_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/applighter2_static.manifest
+END
+appmd32spr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appmd32spr.rc
+END
+appdocconv.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appdocconv.rc
+END
+libptanimimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libptanimimg_staticreg.cpp
+END
+dllpy_pycscegui.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_pycscegui.rc
+END
+plgcsfont.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsfont.rc
+END
+libnullmesh_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libnullmesh_staticreg.cpp
+END
+plgrm_unshadowed.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgrm_unshadowed.rc
+END
+libgl3d_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libgl3d_staticreg.cpp
+END
+appconsoletest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appconsoletest.rc
+END
+plgcolladaconvertor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcolladaconvertor.rc
+END
+appcsbench.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appcsbench.rc
+END
+appcsimagetool.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appcsimagetool.rc
+END
+appvsh_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appvsh_static.rc
+END
+libvfs_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libvfs_staticreg.cpp
+END
+appcsimagetool.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appcsimagetool.manifest
+END
+libskelldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libskelldr_staticreg.cpp
+END
+libcsjngimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsjngimg_staticreg.cpp
+END
+libsimpleformer_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsimpleformer_staticreg.cpp
+END
+dllpy_ivaria.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_ivaria.rc
+END
+appavatartest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33433/CS/trunk/mk/msvc/appavatartest.rc
+END
+appsimpcd.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appsimpcd.rc
+END
+plgsprcal3dldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsprcal3dldr.rc
+END
+appavatartest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33433/CS/trunk/mk/msvc/appavatartest.manifest
+END
+plgjoywin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgjoywin.rc
+END
+plgsndmanager.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndmanager.rc
+END
+applghtngtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/applghtngtest.rc
+END
+appmdl2spr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appmdl2spr.rc
+END
+appoptimisedata.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appoptimisedata.rc
+END
+plgsndsysopenal.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsndsysopenal.rc
+END
+plgpathloader.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgpathloader.rc
+END
+appasndtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appasndtest.manifest
+END
+plgglwin32.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgglwin32.rc
+END
+apppathtut.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/apppathtut.rc
+END
+libprofiler_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libprofiler_staticreg.cpp
+END
+libfrustvis_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libfrustvis_staticreg.cpp
+END
+libvsh_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libvsh_static_plugins.rc
+END
+plgspr2dldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgspr2dldr.rc
+END
+plgfancycon.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgfancycon.rc
+END
+plgodedynam.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgodedynam.rc
+END
+libtlfunc_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libtlfunc_staticreg.cpp
+END
+plgreporter.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgreporter.rc
+END
+appwalktest_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/27944/CS/trunk/mk/msvc/appwalktest_static_static_glue_app.cpp
+END
+plgskeleton2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgskeleton2.rc
+END
+appthreadtest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31182/CS/trunk/mk/msvc/appthreadtest.manifest
+END
+appjobtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33006/CS/trunk/mk/msvc/appjobtest.rc
+END
+appbasemapgen_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/27944/CS/trunk/mk/msvc/appbasemapgen_static_static_glue_app.cpp
+END
+appshagnetron.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30214/CS/trunk/mk/msvc/appshagnetron.manifest
+END
+plgsequence.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgsequence.rc
+END
+plgbodymesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33433/CS/trunk/mk/msvc/plgbodymesh.rc
+END
+libskeleton2ldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/29403/CS/trunk/mk/msvc/libskeleton2ldr_staticreg.cpp
+END
+libglshader_fixed_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libglshader_fixed_staticreg.cpp
+END
+plgcsparser.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcsparser.rc
+END
+plglghtng.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plglghtng.rc
+END
+plgskeleton.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgskeleton.rc
+END
+applighter2_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/27944/CS/trunk/mk/msvc/applighter2_static_static_glue_app.cpp
+END
+plgnullmeshldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgnullmeshldr.rc
+END
+plgtlfunc.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgtlfunc.rc
+END
+libglwin32_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libglwin32_staticreg.cpp
+END
+appwalktest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appwalktest.rc
+END
+libbasemapgen_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/libbasemapgen_static_plugins.rc
+END
+appwalktest.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appwalktest.manifest
+END
+plgcstgaimg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcstgaimg.rc
+END
+plgemit.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgemit.rc
+END
+appbasemapgen.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appbasemapgen.rc
+END
+plgdyndebug.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33604/CS/trunk/mk/msvc/plgdyndebug.rc
+END
+appcsdemo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appcsdemo.rc
+END
+librendstep_stencil_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/librendstep_stencil_staticreg.cpp
+END
+libcspngimg_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcspngimg_staticreg.cpp
+END
+applighter2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/applighter2.rc
+END
+app3ds2lev.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/app3ds2lev.rc
+END
+plgprotomesh.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgprotomesh.rc
+END
+appmazing.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appmazing.manifest
+END
+plglghtngldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plglghtngldr.rc
+END
+libpagingformer_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libpagingformer_staticreg.cpp
+END
+applighter2_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31921/CS/trunk/mk/msvc/applighter2_static_staticuse.cpp
+END
+plgparticlesldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgparticlesldr.rc
+END
+apppathtut.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/apppathtut.manifest
+END
+appceguitest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appceguitest.rc
+END
+plgbruteblock.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgbruteblock.rc
+END
+appjoytest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appjoytest.rc
+END
+liblookat_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33488/CS/trunk/mk/msvc/liblookat_staticreg.cpp
+END
+plgcssynldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgcssynldr.rc
+END
+libspr2dldr_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libspr2dldr_staticreg.cpp
+END
+libcsconout_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libcsconout_staticreg.cpp
+END
+plgxmltiny.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgxmltiny.rc
+END
+libstdpt_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libstdpt_staticreg.cpp
+END
+plgterrainldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgterrainldr.rc
+END
+libtrans_std_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libtrans_std_staticreg.cpp
+END
+plgglshader_fixed.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgglshader_fixed.rc
+END
+plgfreefnt2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgfreefnt2.rc
+END
+libdecal_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27933/CS/trunk/mk/msvc/libdecal_staticreg.cpp
+END
+appstartme.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appstartme.manifest
+END
+appwaterdemo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appwaterdemo.rc
+END
+dllpy_imap.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/dllpy_imap.rc
+END
+appviewmesh.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29902/CS/trunk/mk/msvc/appviewmesh.manifest
+END
+appisotest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appisotest.rc
+END
+plgfontplex.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgfontplex.rc
+END
+plgptpdlight.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgptpdlight.rc
+END
+appdocconv_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appdocconv_static.rc
+END
+plgemitldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgemitldr.rc
+END
+plgwatermeshldr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/plgwatermeshldr.rc
+END
+appwaterdemo2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32617/CS/trunk/mk/msvc/appwaterdemo2.rc
+END
+libsndsyswav_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28235/CS/trunk/mk/msvc/libsndsyswav_staticreg.cpp
+END

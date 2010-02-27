@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/sprcal3d/persist
+END
+sprcal3dldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/14876/CS/trunk/plugins/mesh/sprcal3d/persist/sprcal3dldr.csplugin
+END
+sprcal3dldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/sprcal3d/persist/sprcal3dldr.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/sprcal3d/persist/Jamfile
+END
+dwarf.cal3d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/16734/CS/trunk/plugins/mesh/sprcal3d/persist/dwarf.cal3d
+END
+sprcal3dldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/sprcal3d/persist/sprcal3dldr.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33145/CS/trunk/data/castle-staticlit
+END
+bindata.zip
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32409/CS/trunk/data/castle-staticlit/bindata.zip
+END
+lightmaps.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/31836/CS/trunk/data/castle-staticlit/lightmaps.cslib
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31836/CS/trunk/data/castle-staticlit/Jamfile
+END
+world
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32907/CS/trunk/data/castle-staticlit/world
+END

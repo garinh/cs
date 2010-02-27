@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/crystal/!svn/ver/33561/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi
+END
+docwrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/33549/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/docwrap.cpp
+END
+condeval_eval_svvalues.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_eval_svvalues.h
+END
+condeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/33514/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval.h
+END
+condeval_var.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_var.cpp
+END
+tempheap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33552/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/tempheap.cpp
+END
+docwrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/crystal/!svn/ver/33548/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/docwrap.h
+END
+condeval_var.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_var.h
+END
+condconstbuiltin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/crystal/!svn/ver/26228/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condconstbuiltin.inc
+END
+tempheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/33552/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/tempheap.h
+END
+expparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/crystal/!svn/ver/26228/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/expparser.cpp
+END
+condeval_eval_sv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_eval_sv.cpp
+END
+docwrap.tok
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/26228/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/docwrap.tok
+END
+docwrap_replacer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/crystal/!svn/ver/32569/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/docwrap_replacer.cpp
+END
+expparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/26332/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/expparser.h
+END
+condeval_eval_sv.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_eval_sv.h
+END
+docwrap_replacer.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/crystal/!svn/ver/26634/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/docwrap_replacer.h
+END
+condeval_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_io.cpp
+END
+mybitarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/26228/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/mybitarray.cpp
+END
+condeval_eval_svsimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_eval_svsimple.cpp
+END
+logic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/crystal/!svn/ver/29887/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/logic3.h
+END
+tokenhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/crystal/!svn/ver/26228/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/tokenhelper.h
+END
+condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/crystal/!svn/ver/26228/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condition.cpp
+END
+mybitarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33401/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/mybitarray.h
+END
+valueset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/26332/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/valueset.cpp
+END
+condeval_eval_svsimple.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_eval_svsimple.h
+END
+condeval_slicealloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_slicealloc.h
+END
+condeval_eval_svvalues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/crystal/!svn/ver/33360/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval_eval_svvalues.cpp
+END
+condition.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/31463/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condition.h
+END
+condeval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/33561/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/condeval.cpp
+END
+valueset.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/shader/shadercompiler/xmlshader/cpi/valueset.h
+END

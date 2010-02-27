@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/rendermanager/rlcompat
+END
+rm_compat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/rendermanager/rlcompat/rm_compat.cpp
+END
+rm_rlcompat.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/rendermanager/rlcompat/rm_rlcompat.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/rendermanager/rlcompat/Jamfile
+END
+rm_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/rendermanager/rlcompat/rm_compat.h
+END

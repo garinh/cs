@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/30799/CS/trunk/apps/import/md22spr
+END
+m2s_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/23457/CS/trunk/apps/import/md22spr/m2s_base.h
+END
+m2s_img.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29282/CS/trunk/apps/import/md22spr/m2s_img.h
+END
+m2s_mdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/23457/CS/trunk/apps/import/md22spr/m2s_mdl.h
+END
+m2s_pal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/18097/CS/trunk/apps/import/md22spr/m2s_pal.h
+END
+mdl2spr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/30799/CS/trunk/apps/import/md22spr/mdl2spr.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/import/md22spr/Jamfile
+END
+m2s_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/18097/CS/trunk/apps/import/md22spr/m2s_base.cpp
+END
+m2s_img.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/24646/CS/trunk/apps/import/md22spr/m2s_img.cpp
+END
+m2s_mdl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/25982/CS/trunk/apps/import/md22spr/m2s_mdl.cpp
+END
+m2s_pal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/18097/CS/trunk/apps/import/md22spr/m2s_pal.cpp
+END

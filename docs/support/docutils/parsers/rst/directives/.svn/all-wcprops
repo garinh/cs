@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/30238/CS/trunk/docs/support/docutils/parsers/rst/directives
+END
+parts.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/parts.py
+END
+tables.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/tables.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/misc.py
+END
+body.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/body.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/__init__.py
+END
+references.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/references.py
+END
+admonitions.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/admonitions.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/html.py
+END
+images.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/parsers/rst/directives/images.py
+END

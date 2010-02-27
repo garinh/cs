@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32932/CS/trunk/data/renderlayers
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/30749/CS/trunk/data/renderlayers/Jamfile
+END
+lighting_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/32932/CS/trunk/data/renderlayers/lighting_default.xml
+END
+lighting_default_pvl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32932/CS/trunk/data/renderlayers/lighting_default_pvl.xml
+END
+lighting_default_shadowmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/32932/CS/trunk/data/renderlayers/lighting_default_shadowmap.xml
+END

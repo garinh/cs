@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/gif
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/video/loader/gif/Jamfile
+END
+gifimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/gif/gifimage.cpp
+END
+csgifimg.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/loader/gif/csgifimg.csplugin
+END
+gifimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27975/CS/trunk/plugins/video/loader/gif/gifimage.h
+END

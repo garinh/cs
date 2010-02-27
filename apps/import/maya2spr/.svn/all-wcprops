@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/30800/CS/trunk/apps/import/maya2spr
+END
+maya2spr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/26332/CS/trunk/apps/import/maya2spr/maya2spr.cpp
+END
+mayabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/14169/CS/trunk/apps/import/maya2spr/mayabase.cpp
+END
+mayanode.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28659/CS/trunk/apps/import/maya2spr/mayanode.h
+END
+maya_mdl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28659/CS/trunk/apps/import/maya2spr/maya_mdl.cpp
+END
+binarytree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/23222/CS/trunk/apps/import/maya2spr/binarytree.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/import/maya2spr/Jamfile
+END
+mayabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/13751/CS/trunk/apps/import/maya2spr/mayabase.h
+END
+mayafile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30800/CS/trunk/apps/import/maya2spr/mayafile.cpp
+END
+maya_mdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/13553/CS/trunk/apps/import/maya2spr/maya_mdl.h
+END
+binarytree.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/12419/CS/trunk/apps/import/maya2spr/binarytree.h
+END
+mayafile.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28672/CS/trunk/apps/import/maya2spr/mayafile.h
+END
+mayanode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30799/CS/trunk/apps/import/maya2spr/mayanode.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/tutorial/simpcd
+END
+simpcd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/tutorial/simpcd/simpcd.cpp
+END
+simpcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30394/CS/trunk/apps/tutorial/simpcd/simpcd.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/20643/CS/trunk/apps/tutorial/simpcd/Jamfile
+END

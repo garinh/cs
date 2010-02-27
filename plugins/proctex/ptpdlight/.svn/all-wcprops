@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33294/CS/trunk/plugins/proctex/ptpdlight
+END
+ptpdlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33294/CS/trunk/plugins/proctex/ptpdlight/ptpdlight.cpp
+END
+ptpdlight_loader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/28284/CS/trunk/plugins/proctex/ptpdlight/ptpdlight_loader.tok
+END
+ptpdlight_mmx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33110/CS/trunk/plugins/proctex/ptpdlight/ptpdlight_mmx.cpp
+END
+ptpdlight.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/25119/CS/trunk/plugins/proctex/ptpdlight/ptpdlight.csplugin
+END
+ptpdlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33245/CS/trunk/plugins/proctex/ptpdlight/ptpdlight.h
+END
+ptpdlight_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/proctex/ptpdlight/ptpdlight_loader.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31855/CS/trunk/plugins/proctex/ptpdlight/Jamfile
+END
+ptpdlight_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/ptpdlight/ptpdlight_loader.h
+END
+ptpdlight_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/27988/CS/trunk/plugins/proctex/ptpdlight/ptpdlight_generic.cpp
+END

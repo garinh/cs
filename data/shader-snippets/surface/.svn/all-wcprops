@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33679/CS/trunk/data/shader-snippets/surface
+END
+specular-default-nodiffuse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/33296/CS/trunk/data/shader-snippets/surface/specular-default-nodiffuse.xml
+END
+alpha-none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/alpha-none.xml
+END
+normalmap-none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/normalmap-none.xml
+END
+specular-weirdold.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33296/CS/trunk/data/shader-snippets/surface/specular-weirdold.xml
+END
+normalmap-tiled.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/normalmap-tiled.xml
+END
+normalmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33450/CS/trunk/data/shader-snippets/surface/normalmap.xml
+END
+surface-tiled.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/surface-tiled.xml
+END
+surface-detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33180/CS/trunk/data/shader-snippets/surface/surface-detail.xml
+END
+tc-offset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/tc-offset.xml
+END
+surface-sky.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33679/CS/trunk/data/shader-snippets/surface/surface-sky.xml
+END
+specular-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33296/CS/trunk/data/shader-snippets/surface/specular-default.xml
+END
+parallax-occlusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/parallax-occlusion.xml
+END
+surface-modulate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33414/CS/trunk/data/shader-snippets/surface/surface-modulate.xml
+END
+parallax-none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/parallax-none.xml
+END
+envmap-cube.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/envmap-cube.xml
+END
+parallax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33296/CS/trunk/data/shader-snippets/surface/parallax.xml
+END
+alpha-nochange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/alpha-nochange.xml
+END
+spheremap.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/spheremap.cginc
+END
+surface-classic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/surface-classic.xml
+END
+surface-modulate-alpha_instance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/surface-modulate-alpha_instance.xml
+END
+surface-overlay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/surface-overlay.xml
+END
+normalmap-alpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/normalmap-alpha.xml
+END
+surface-splat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/surface-splat.xml
+END
+envmap-sphere.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/envmap-sphere.xml
+END
+specular-none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/specular-none.xml
+END
+alpha-premult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/alpha-premult.xml
+END
+surface-flatcolor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/surface-flatcolor.xml
+END
+surface-clear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/surface/surface-clear.xml
+END
+surface-alphasplat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/surface/surface-alphasplat.xml
+END

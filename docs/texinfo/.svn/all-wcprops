@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/crystal/!svn/ver/33473/CS/trunk/docs/texinfo
+END
+macdef.txi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/3212/CS/trunk/docs/texinfo/macdef.txi
+END
+unixdef.txi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/3210/CS/trunk/docs/texinfo/unixdef.txi
+END
+cs-mac.txi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/11580/CS/trunk/docs/texinfo/cs-mac.txi
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/21638/CS/trunk/docs/texinfo/Jamfile
+END
+dosdef.txi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/3210/CS/trunk/docs/texinfo/dosdef.txi
+END
+version.txi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31468/CS/trunk/docs/texinfo/version.txi
+END
+cs.txi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/26990/CS/trunk/docs/texinfo/cs.txi
+END
+cs-unix.txi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/11580/CS/trunk/docs/texinfo/cs-unix.txi
+END
+cs-dos.txi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/11580/CS/trunk/docs/texinfo/cs-dos.txi
+END
+texinfo.tex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29950/CS/trunk/docs/texinfo/texinfo.tex
+END
+cpyright.txi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/28457/CS/trunk/docs/texinfo/cpyright.txi
+END
+epsf.tex
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/3210/CS/trunk/docs/texinfo/epsf.tex
+END

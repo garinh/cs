@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting
+END
+light-classic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/lighting/light-classic.xml
+END
+lighting_imposter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/lighting/lighting_imposter.xml
+END
+lighting_default_pvl_binalpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_pvl_binalpha.xml
+END
+vproc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/lighting/vproc.xml
+END
+lighting_default_pvl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_pvl.xml
+END
+lighting_default_instance_binalpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_instance_binalpha.xml
+END
+lighting_default_instance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_instance.xml
+END
+fullbright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/lighting/fullbright.xml
+END
+lighting_default_binalpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_binalpha.xml
+END
+glow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/lighting/glow.xml
+END
+vproc_fixed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/lighting/vproc_fixed.xml
+END
+lighting_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default.xml
+END
+lighting_default_shadowmap_binalpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/lighting/lighting_default_shadowmap_binalpha.xml
+END
+lighting_imposter_instance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/lighting/lighting_imposter_instance.xml
+END
+lighting_default_shadowmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/lighting/lighting_default_shadowmap.xml
+END
+lighting_default_instance_pvl_binalpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_instance_pvl_binalpha.xml
+END
+lighting_default_instance_pvl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader/lighting/lighting_default_instance_pvl.xml
+END

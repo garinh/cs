@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/tga
+END
+tgaimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/tga/tgaimage.cpp
+END
+cstgaimg.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/loader/tga/cstgaimg.csplugin
+END
+tgaimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27975/CS/trunk/plugins/video/loader/tga/tgaimage.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/video/loader/tga/Jamfile
+END

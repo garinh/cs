@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/31578/CS/trunk/libs/csutil/t
+END
+inputdef.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/23122/CS/trunk/libs/csutil/t/inputdef.t
+END
+strset.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/20946/CS/trunk/libs/csutil/t/strset.t
+END
+eventqueue.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/30428/CS/trunk/libs/csutil/t/eventqueue.t
+END
+verbosity.t
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/20947/CS/trunk/libs/csutil/t/verbosity.t
+END
+objreg.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/25407/CS/trunk/libs/csutil/t/objreg.t
+END
+partialorder.t
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/24541/CS/trunk/libs/csutil/t/partialorder.t
+END
+blockallocator.t
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31578/CS/trunk/libs/csutil/t/blockallocator.t
+END
+pathslist.t
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/21642/CS/trunk/libs/csutil/t/pathslist.t
+END
+scf.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31574/CS/trunk/libs/csutil/t/scf.t
+END

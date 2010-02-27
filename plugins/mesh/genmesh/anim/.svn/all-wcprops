@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/genmesh/anim
+END
+gmeshanim.tok
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/19001/CS/trunk/plugins/mesh/genmesh/anim/gmeshanim.tok
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/23234/CS/trunk/plugins/mesh/genmesh/anim/Jamfile
+END
+gmeshanim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/genmesh/anim/gmeshanim.cpp
+END
+gmeshanim.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/18952/CS/trunk/plugins/mesh/genmesh/anim/gmeshanim.csplugin
+END
+gmeshanim.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32474/CS/trunk/plugins/mesh/genmesh/anim/gmeshanim.h
+END

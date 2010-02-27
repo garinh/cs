@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/crystal/!svn/ver/32552/CS/trunk/docs/support
+END
+MySimple.pod
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/20933/CS/trunk/docs/support/MySimple.pod
+END
+prepare_online_publish.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/28949/CS/trunk/docs/support/prepare_online_publish.sh
+END
+texi2html.init
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/26726/CS/trunk/docs/support/texi2html.init
+END
+roman.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/21818/CS/trunk/docs/support/roman.py
+END
+nodefix.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/20951/CS/trunk/docs/support/nodefix.pl
+END
+T2h_i18n.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20933/CS/trunk/docs/support/T2h_i18n.pm
+END
+csep2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/21818/CS/trunk/docs/support/csep2html.py
+END
+texi2html.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/31722/CS/trunk/docs/support/texi2html.pl
+END
+MySimple.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20933/CS/trunk/docs/support/MySimple.pm
+END
+translations.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/20933/CS/trunk/docs/support/translations.pl
+END
+doc-open.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32552/CS/trunk/docs/support/doc-open.sh
+END
+texi2html.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31722/CS/trunk/docs/support/texi2html.patch
+END

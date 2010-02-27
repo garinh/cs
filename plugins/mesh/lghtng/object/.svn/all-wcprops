@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/lghtng/object
+END
+lghtng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/lghtng/object/lghtng.cpp
+END
+lghtng.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/lghtng/object/lghtng.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/lghtng/object/Jamfile
+END
+lghtng.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/mesh/lghtng/object/lghtng.h
+END

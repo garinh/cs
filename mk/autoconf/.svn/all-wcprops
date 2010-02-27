@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/33696/CS/trunk/mk/autoconf
+END
+checkcswin32libs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/25824/CS/trunk/mk/autoconf/checkcswin32libs.m4
+END
+checkstl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28445/CS/trunk/mk/autoconf/checkstl.m4
+END
+checklib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32723/CS/trunk/mk/autoconf/checklib.m4
+END
+textcache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/17469/CS/trunk/mk/autoconf/textcache.m4
+END
+listutil.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29230/CS/trunk/mk/autoconf/listutil.m4
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20413/CS/trunk/mk/autoconf/config.guess
+END
+trim.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/17469/CS/trunk/mk/autoconf/trim.m4
+END
+embed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/22758/CS/trunk/mk/autoconf/embed.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/20413/CS/trunk/mk/autoconf/config.sub
+END
+checkpython.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/30544/CS/trunk/mk/autoconf/checkpython.m4
+END
+checkopengl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/24965/CS/trunk/mk/autoconf/checkopengl.m4
+END
+progver.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30541/CS/trunk/mk/autoconf/progver.m4
+END
+checkpthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/24735/CS/trunk/mk/autoconf/checkpthread.m4
+END
+checkcommon.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33696/CS/trunk/mk/autoconf/checkcommon.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/28746/CS/trunk/mk/autoconf/visibility.m4
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/19541/CS/trunk/mk/autoconf/Jamfile
+END
+warnings.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29218/CS/trunk/mk/autoconf/warnings.m4
+END
+jamcache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29230/CS/trunk/mk/autoconf/jamcache.m4
+END
+cs_check_host.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32305/CS/trunk/mk/autoconf/cs_check_host.m4
+END
+makecache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29230/CS/trunk/mk/autoconf/makecache.m4
+END
+checklibtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/19693/CS/trunk/mk/autoconf/checklibtool.m4
+END
+checkprog.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/27236/CS/trunk/mk/autoconf/checkprog.m4
+END
+mkdir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/17876/CS/trunk/mk/autoconf/mkdir.m4
+END
+checktt2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32195/CS/trunk/mk/autoconf/checktt2.m4
+END
+packageinfo.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29230/CS/trunk/mk/autoconf/packageinfo.m4
+END
+checkpic.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/22805/CS/trunk/mk/autoconf/checkpic.m4
+END
+compiler.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32947/CS/trunk/mk/autoconf/compiler.m4
+END
+qualify.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30491/CS/trunk/mk/autoconf/qualify.m4
+END
+headercache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29230/CS/trunk/mk/autoconf/headercache.m4
+END
+checkjava.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33000/CS/trunk/mk/autoconf/checkjava.m4
+END
+checkcppunit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/20414/CS/trunk/mk/autoconf/checkcppunit.m4
+END
+crystal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32039/CS/trunk/mk/autoconf/crystal.m4
+END
+language.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28442/CS/trunk/mk/autoconf/language.m4
+END
+checkbinutils.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30960/CS/trunk/mk/autoconf/checkbinutils.m4
+END
+installdirs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/26251/CS/trunk/mk/autoconf/installdirs.m4
+END
+diagnose.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/17469/CS/trunk/mk/autoconf/diagnose.m4
+END
+split.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/32685/CS/trunk/mk/autoconf/split.m4
+END
+path.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31050/CS/trunk/mk/autoconf/path.m4
+END
+checkbuild.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/29220/CS/trunk/mk/autoconf/checkbuild.m4
+END
+emit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/29230/CS/trunk/mk/autoconf/emit.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/20413/CS/trunk/mk/autoconf/install-sh
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/33696/CS/trunk/apps/tools/startme
+END
+startme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31270/CS/trunk/apps/tools/startme/startme.cpp
+END
+startme.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30449/CS/trunk/apps/tools/startme/startme.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33696/CS/trunk/apps/tools/startme/Jamfile
+END
+startme.ico
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33689/CS/trunk/apps/tools/startme/startme.ico
+END
+startme.icns
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33694/CS/trunk/apps/tools/startme/startme.icns
+END

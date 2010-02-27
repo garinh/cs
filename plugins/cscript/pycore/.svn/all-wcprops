@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33519/CS/trunk/plugins/cscript/pycore
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27769/CS/trunk/plugins/cscript/pycore/Jamfile
+END
+coremod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31313/CS/trunk/plugins/cscript/pycore/coremod.cpp
+END
+cs_core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33519/CS/trunk/plugins/cscript/pycore/cs_core.cpp
+END

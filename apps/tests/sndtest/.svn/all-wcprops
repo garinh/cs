@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/32803/CS/trunk/apps/tests/sndtest
+END
+sndtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32803/CS/trunk/apps/tests/sndtest/sndtest.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/22400/CS/trunk/apps/tests/sndtest/Jamfile
+END
+sndtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30444/CS/trunk/apps/tests/sndtest/sndtest.h
+END

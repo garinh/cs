@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/reporter
+END
+reporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/reporter/reporter.cpp
+END
+reporter.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/reporter/reporter.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/reporter/Jamfile
+END
+reporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/31653/CS/trunk/plugins/reporter/reporter.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33616/CS/trunk/plugins/console/input/standard
+END
+csconin.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/console/input/standard/csconin.csplugin
+END
+csconin.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/24864/CS/trunk/plugins/console/input/standard/csconin.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/console/input/standard/Jamfile
+END
+csconin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33616/CS/trunk/plugins/console/input/standard/csconin.cpp
+END

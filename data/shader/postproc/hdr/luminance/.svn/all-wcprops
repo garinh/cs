@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33106/CS/trunk/data/shader/postproc/hdr/luminance
+END
+average_n.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33106/CS/trunk/data/shader/postproc/hdr/luminance/average_n.xml
+END
+logaverage_n.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33106/CS/trunk/data/shader/postproc/hdr/luminance/logaverage_n.xml
+END
+average_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33106/CS/trunk/data/shader/postproc/hdr/luminance/average_1.xml
+END
+logaverage_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33106/CS/trunk/data/shader/postproc/hdr/luminance/logaverage_1.xml
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/crystal/!svn/ver/32356/CS/trunk/libs/csgeom
+END
+polyclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/23520/CS/trunk/libs/csgeom/polyclip.h
+END
+frustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31413/CS/trunk/libs/csgeom/frustum.cpp
+END
+triangulate3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31892/CS/trunk/libs/csgeom/triangulate3d.cpp
+END
+poly2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/21850/CS/trunk/libs/csgeom/poly2d.cpp
+END
+trimeshlod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31375/CS/trunk/libs/csgeom/trimeshlod.cpp
+END
+csrectrg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/24673/CS/trunk/libs/csgeom/csrectrg.cpp
+END
+triangulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/26332/CS/trunk/libs/csgeom/triangulate.cpp
+END
+math2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/27479/CS/trunk/libs/csgeom/math2d.cpp
+END
+edgeclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/25109/CS/trunk/libs/csgeom/edgeclip.h
+END
+math3d_d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20010/CS/trunk/libs/csgeom/math3d_d.cpp
+END
+vector2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29096/CS/trunk/libs/csgeom/vector2.cpp
+END
+vector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29096/CS/trunk/libs/csgeom/vector3.cpp
+END
+sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/20010/CS/trunk/libs/csgeom/sphere.cpp
+END
+solidspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/27970/CS/trunk/libs/csgeom/solidspace.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csgeom/Jamfile
+END
+matrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29096/CS/trunk/libs/csgeom/matrix3.cpp
+END
+box.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32356/CS/trunk/libs/csgeom/box.cpp
+END
+matrix4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31981/CS/trunk/libs/csgeom/matrix4.cpp
+END
+spline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/27235/CS/trunk/libs/csgeom/spline.cpp
+END
+polyclip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/25624/CS/trunk/libs/csgeom/polyclip.cpp
+END
+transfrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31003/CS/trunk/libs/csgeom/transfrm.cpp
+END
+chainhull2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/21850/CS/trunk/libs/csgeom/chainhull2d.cpp
+END
+obb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csgeom/obb.cpp
+END
+bsptree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27970/CS/trunk/libs/csgeom/bsptree.cpp
+END
+subrec2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27792/CS/trunk/libs/csgeom/subrec2.cpp
+END
+boxclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/23520/CS/trunk/libs/csgeom/boxclip.h
+END
+obb_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/12165/CS/trunk/libs/csgeom/obb_priv.h
+END
+tcovbuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29874/CS/trunk/libs/csgeom/tcovbuf.cpp
+END
+poly3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/26314/CS/trunk/libs/csgeom/poly3d.cpp
+END
+trimesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28284/CS/trunk/libs/csgeom/trimesh.cpp
+END
+tritri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/31378/CS/trunk/libs/csgeom/tritri.cpp
+END
+kdtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32225/CS/trunk/libs/csgeom/kdtree.cpp
+END
+math3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/28409/CS/trunk/libs/csgeom/math3d.cpp
+END
+plane3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/29912/CS/trunk/libs/csgeom/plane3.cpp
+END
+csrect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/22147/CS/trunk/libs/csgeom/csrect.cpp
+END
+quaterni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/25543/CS/trunk/libs/csgeom/quaterni.cpp
+END
+polyidx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31412/CS/trunk/libs/csgeom/polyidx.cpp
+END
+trimeshtools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/27970/CS/trunk/libs/csgeom/trimeshtools.cpp
+END

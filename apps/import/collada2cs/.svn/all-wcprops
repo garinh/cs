@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32341/CS/trunk/apps/import/collada2cs
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/import/collada2cs/Jamfile
+END
+collada2cs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32341/CS/trunk/apps/import/collada2cs/collada2cs.cpp
+END

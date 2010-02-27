@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/crystal/!svn/ver/33701/CS/trunk/mk/jam
+END
+swig.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/33170/CS/trunk/mk/jam/swig.jam
+END
+icons.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33701/CS/trunk/mk/jam/icons.jam
+END
+filelist.jam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33052/CS/trunk/mk/jam/filelist.jam
+END
+unix.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/30755/CS/trunk/mk/jam/unix.jam
+END
+pythmod.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/31083/CS/trunk/mk/jam/pythmod.jam
+END
+property.jam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/17494/CS/trunk/mk/jam/property.jam
+END
+upload.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/31091/CS/trunk/mk/jam/upload.jam
+END
+resource.jam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/20242/CS/trunk/mk/jam/resource.jam
+END
+subdir.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/19392/CS/trunk/mk/jam/subdir.jam
+END
+docs.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/27340/CS/trunk/mk/jam/docs.jam
+END
+objects.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/27855/CS/trunk/mk/jam/objects.jam
+END
+plugin.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/33270/CS/trunk/mk/jam/plugin.jam
+END
+crystalspace_staticplugins_msvc.jam
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33189/CS/trunk/mk/jam/crystalspace_staticplugins_msvc.jam
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/19436/CS/trunk/mk/jam/Jamfile
+END
+msvcgen.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/33690/CS/trunk/mk/jam/msvcgen.jam
+END
+debuginfo.jam
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/28305/CS/trunk/mk/jam/debuginfo.jam
+END
+application.jam
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/30751/CS/trunk/mk/jam/application.jam
+END
+library.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/31224/CS/trunk/mk/jam/library.jam
+END
+dump.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/28315/CS/trunk/mk/jam/dump.jam
+END
+compiler.jam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/21172/CS/trunk/mk/jam/compiler.jam
+END
+objectivec.jam
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/21483/CS/trunk/mk/jam/objectivec.jam
+END
+assembler.jam
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/21172/CS/trunk/mk/jam/assembler.jam
+END
+groups.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/17642/CS/trunk/mk/jam/groups.jam
+END
+helper.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/29297/CS/trunk/mk/jam/helper.jam
+END
+unittest.jam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/31576/CS/trunk/mk/jam/unittest.jam
+END
+clean.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/17642/CS/trunk/mk/jam/clean.jam
+END
+static.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/33271/CS/trunk/mk/jam/static.jam
+END
+msi.jam
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/31139/CS/trunk/mk/jam/msi.jam
+END
+help.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/21188/CS/trunk/mk/jam/help.jam
+END
+bisonflex.jam
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/24735/CS/trunk/mk/jam/bisonflex.jam
+END
+macosx.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32234/CS/trunk/mk/jam/macosx.jam
+END
+options.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/17469/CS/trunk/mk/jam/options.jam
+END
+flags.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33252/CS/trunk/mk/jam/flags.jam
+END
+build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/30932/CS/trunk/mk/jam/build.jam
+END
+jamcompatibility.jam
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/20965/CS/trunk/mk/jam/jamcompatibility.jam
+END
+win32.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/32549/CS/trunk/mk/jam/win32.jam
+END
+variant.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/26850/CS/trunk/mk/jam/variant.jam
+END
+install.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/27769/CS/trunk/mk/jam/install.jam
+END

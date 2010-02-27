@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/haze/persist/standard
+END
+hazeldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/haze/persist/standard/hazeldr.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/haze/persist/standard/Jamfile
+END
+hazeldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/haze/persist/standard/hazeldr.cpp
+END
+hazeldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/haze/persist/standard/hazeldr.csplugin
+END

@@ -1,0 +1,21 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 1327
+/CS/branches/feature/jobqueue2/plugins/video/canvas/xwindow/xalert_gtk/gtk_alert.cpp:32936,32954,32969,32978-32979
+/CS/branches/feature/plugin-merge/plugins/video/canvas/xwindow/xalert_gtk/alert.cpp:31103,31131-31137
+/CS/branches/feature/plugin-merge/plugins/video/canvas/xwindow/xalert_gtk/gtk_alert.cpp:32591
+/CS/branches/feature/pseudoinstancing/plugins/video/canvas/xwindow/xalert_gtk/alert.cpp:31879-31880
+/CS/branches/release/V1.4/plugins/video/canvas/xwindow/xalert_gtk/alert.cpp:30463
+/CS/branches/release/V1.4/plugins/video/canvas/xwindow/xalert_gtk/gtk_alert.cpp:32131,32539,32541-32551
+/CS/branches/soc2008/threadcomm/plugins/video/canvas/xwindow/xalert_gtk/alert.cpp:29857,30131-30132,30341,30352-30353,30471,30486,30517,30531,30644-30649,30651-30654,30656-30661,30663-30665,30671,30673-30674,30676,30678,30681,30683-30685,30690-30691,30693-30697,30701,30703-30707,30709,30711-30718,30720-30722,30724-30726,30738-30744,30753,30769-30770,30782-30783,30804,30905,31142-31152,31157-31158,31167-31172,31175-31179
+/CS/branches/soc2009/imposters/plugins/video/canvas/xwindow/xalert_gtk/gtk_alert.cpp:32566,32596-32604,32666-32670,32679-32750,32778-32801,32807-32843
+/CS/branches/soc2009/postprocessing/plugins/video/canvas/xwindow/xalert_gtk/gtk_alert.cpp:32464-32467,32693-32762,32779-32820,32889,32924-32930,33104-33105
+K 13
+svn:mime-type
+V 10
+text/plain
+END

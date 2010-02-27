@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/28334/CS/trunk/scripts/deb/core/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28334/CS/trunk/scripts/deb/core/debian/control
+END
+addmissing
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/core/debian/addmissing
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/18269/CS/trunk/scripts/deb/core/debian/postinst
+END
+automan
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/26893/CS/trunk/scripts/deb/core/debian/automan
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/core/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/core/debian/preinst
+END
+control-fr
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/17742/CS/trunk/scripts/deb/core/debian/control-fr
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/core/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28334/CS/trunk/scripts/deb/core/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/23428/CS/trunk/scripts/deb/core/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28334/CS/trunk/scripts/deb/core/debian/rules
+END
+createmenus
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/18313/CS/trunk/scripts/deb/core/debian/createmenus
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/core/debian/README
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/25662/CS/trunk/scripts/deb/core/debian/README.Debian
+END

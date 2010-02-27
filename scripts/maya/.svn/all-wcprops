@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/crystal/!svn/ver/19615/CS/trunk/scripts/maya
+END
+exportsprite.mel
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/maya/exportsprite.mel
+END
+CrystalExporter.mel
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/19615/CS/trunk/scripts/maya/CrystalExporter.mel
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/maya/Jamfile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/19436/CS/trunk/scripts/maya/README
+END

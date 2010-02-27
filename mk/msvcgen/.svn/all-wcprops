@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/crystal/!svn/ver/33539/CS/trunk/mk/msvcgen
+END
+custom.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27852/CS/trunk/mk/msvcgen/custom.cslib
+END
+project6.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/23861/CS/trunk/mk/msvcgen/project6.tlib
+END
+project7.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33383/CS/trunk/mk/msvcgen/project7.tlib
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/crystal/!svn/ver/33539/CS/trunk/mk/msvcgen/Jamfile
+END
+custom2.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32286/CS/trunk/mk/msvcgen/custom2.cslib
+END
+workspaces.jam
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32455/CS/trunk/mk/msvcgen/workspaces.jam
+END
+control.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32096/CS/trunk/mk/msvcgen/control.tlib
+END
+config.jam
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33347/CS/trunk/mk/msvcgen/config.jam
+END
+macros.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33382/CS/trunk/mk/msvcgen/macros.tlib
+END
+projectx6.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/19036/CS/trunk/mk/msvcgen/projectx6.tlib
+END
+workspace6.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/20394/CS/trunk/mk/msvcgen/workspace6.tlib
+END
+projectx7.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32146/CS/trunk/mk/msvcgen/projectx7.tlib
+END
+workspace7.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31849/CS/trunk/mk/msvcgen/workspace7.tlib
+END

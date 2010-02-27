@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/openglx
+END
+iogldisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/31396/CS/trunk/plugins/video/canvas/openglx/iogldisp.h
+END
+glx2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/openglx/glx2d.cpp
+END
+glx2d.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/canvas/openglx/glx2d.csplugin
+END
+glx2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32716/CS/trunk/plugins/video/canvas/openglx/glx2d.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/24965/CS/trunk/plugins/video/canvas/openglx/Jamfile
+END

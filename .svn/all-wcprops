@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/crystal/!svn/ver/33701/CS/trunk
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/crystal/!svn/ver/33698/CS/trunk/configure
+END
+Jamrules
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/crystal/!svn/ver/32609/CS/trunk/Jamrules
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/crystal/!svn/ver/20750/CS/trunk/LICENSE
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/crystal/!svn/ver/33347/CS/trunk/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/crystal/!svn/ver/23894/CS/trunk/INSTALL
+END
+vfs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/crystal/!svn/ver/33637/CS/trunk/vfs.cfg
+END
+Jamfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/crystal/!svn/ver/33379/CS/trunk/Jamfile.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/crystal/!svn/ver/32515/CS/trunk/README
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/particles
+END
+fragment-dist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/particles/fragment-dist.xml
+END
+fade-alpha-linear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/particles/fade-alpha-linear.xml
+END

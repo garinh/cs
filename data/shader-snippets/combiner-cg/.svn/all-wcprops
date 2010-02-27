@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33526/CS/trunk/data/shader-snippets/combiner-cg
+END
+Bitangent.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33440/CS/trunk/data/shader-snippets/combiner-cg/Bitangent.inp
+END
+ModelView.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33440/CS/trunk/data/shader-snippets/combiner-cg/ModelView.inp
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33526/CS/trunk/data/shader-snippets/combiner-cg/library.xml
+END
+Tangent.inp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33440/CS/trunk/data/shader-snippets/combiner-cg/Tangent.inp
+END
+objectToWorld.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33440/CS/trunk/data/shader-snippets/combiner-cg/objectToWorld.inp
+END
+Normal.inp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33440/CS/trunk/data/shader-snippets/combiner-cg/Normal.inp
+END

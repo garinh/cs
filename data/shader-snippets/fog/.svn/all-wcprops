@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/fog
+END
+fog-sector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/fog/fog-sector.xml
+END
+fog-distance-exp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/fog/fog-distance-exp.xml
+END

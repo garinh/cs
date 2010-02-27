@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/terraformer/pagingformer/loader
+END
+loader.tok
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/23946/CS/trunk/plugins/terraformer/pagingformer/loader/loader.tok
+END
+pagingformerldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/crystal/!svn/ver/23624/CS/trunk/plugins/terraformer/pagingformer/loader/pagingformerldr.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/23624/CS/trunk/plugins/terraformer/pagingformer/loader/Jamfile
+END
+loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/terraformer/pagingformer/loader/loader.cpp
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/terraformer/pagingformer/loader/loader.h
+END

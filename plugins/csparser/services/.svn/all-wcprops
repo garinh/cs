@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/csparser/services
+END
+syntxldr.tok
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/services/syntxldr.tok
+END
+cssynldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/services/cssynldr.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/services/Jamfile
+END
+shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/32992/CS/trunk/plugins/csparser/services/shader.cpp
+END
+syntxldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/csparser/services/syntxldr.cpp
+END
+renderbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/31646/CS/trunk/plugins/csparser/services/renderbuffer.cpp
+END
+syntxldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/csparser/services/syntxldr.h
+END

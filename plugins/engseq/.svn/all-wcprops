@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/engseq
+END
+engseq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/engseq/engseq.cpp
+END
+engseq.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/engseq/engseq.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/engseq/Jamfile
+END
+engseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/31859/CS/trunk/plugins/engseq/engseq.h
+END

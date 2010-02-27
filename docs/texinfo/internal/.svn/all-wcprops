@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/31500/CS/trunk/docs/texinfo/internal
+END
+render.txi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31287/CS/trunk/docs/texinfo/internal/render.txi
+END
+engine.txi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31287/CS/trunk/docs/texinfo/internal/engine.txi
+END
+chapter.txi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/21624/CS/trunk/docs/texinfo/internal/chapter.txi
+END
+threads.txi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31500/CS/trunk/docs/texinfo/internal/threads.txi
+END

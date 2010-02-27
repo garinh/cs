@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/crystal/!svn/ver/30749/CS/trunk/data/cube
+END
+cubemap_up.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/15583/CS/trunk/data/cube/cubemap_up.jpg
+END
+cubemap_rt.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/15583/CS/trunk/data/cube/cubemap_rt.jpg
+END
+cubemap_fr.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/15583/CS/trunk/data/cube/cubemap_fr.jpg
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/30749/CS/trunk/data/cube/Jamfile
+END
+cubemap_bk.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/15583/CS/trunk/data/cube/cubemap_bk.jpg
+END
+cubemap_dn.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/15583/CS/trunk/data/cube/cubemap_dn.jpg
+END
+cubemap_lf.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/15583/CS/trunk/data/cube/cubemap_lf.jpg
+END

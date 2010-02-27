@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33565/CS/trunk/plugins/video/render3d/shader/shadermgr
+END
+shadermgr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/shader/shadermgr/shadermgr.csplugin
+END
+loadercontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/crystal/!svn/ver/32383/CS/trunk/plugins/video/render3d/shader/shadermgr/loadercontext.h
+END
+shadermgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/32641/CS/trunk/plugins/video/render3d/shader/shadermgr/shadermgr.h
+END
+plexhiercache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/33538/CS/trunk/plugins/video/render3d/shader/shadermgr/plexhiercache.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/31243/CS/trunk/plugins/video/render3d/shader/shadermgr/Jamfile
+END
+nullshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33257/CS/trunk/plugins/video/render3d/shader/shadermgr/nullshader.h
+END
+shadermgr.tok
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/shader/shadermgr/shadermgr.tok
+END
+plexhiercache.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/crystal/!svn/ver/33538/CS/trunk/plugins/video/render3d/shader/shadermgr/plexhiercache.h
+END
+loadercontext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/32383/CS/trunk/plugins/video/render3d/shader/shadermgr/loadercontext.cpp
+END
+shadermgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/33565/CS/trunk/plugins/video/render3d/shader/shadermgr/shadermgr.cpp
+END

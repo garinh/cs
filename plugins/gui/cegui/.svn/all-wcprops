@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/33222/CS/trunk/plugins/gui/cegui
+END
+ceguiwindowtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguiwindowtarget.h
+END
+ceguigeometrybuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33198/CS/trunk/plugins/gui/cegui/ceguigeometrybuffer.cpp
+END
+ceguirendertarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguirendertarget.cpp
+END
+ceguigeometrybuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33198/CS/trunk/plugins/gui/cegui/ceguigeometrybuffer.h
+END
+ceguirendertarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguirendertarget.h
+END
+ceguievthandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguievthandler.cpp
+END
+ceguitexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33222/CS/trunk/plugins/gui/cegui/ceguitexture.cpp
+END
+ceguievthandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguievthandler.h
+END
+ceguiresourceprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33222/CS/trunk/plugins/gui/cegui/ceguiresourceprovider.cpp
+END
+ceguitexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguitexture.h
+END
+ceguirenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguirenderer.cpp
+END
+ceguicsimagecodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguicsimagecodec.cpp
+END
+ceguiresourceprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguiresourceprovider.h
+END
+ceguitexturetarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguitexturetarget.cpp
+END
+cscegui.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33193/CS/trunk/plugins/gui/cegui/cscegui.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/25378/CS/trunk/plugins/gui/cegui/Jamfile
+END
+ceguiscriptmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33222/CS/trunk/plugins/gui/cegui/ceguiscriptmodule.cpp
+END
+ceguirenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguirenderer.h
+END
+ceguicsimagecodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguicsimagecodec.h
+END
+ceguitexturetarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguitexturetarget.h
+END
+ceguiwindowtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguiwindowtarget.cpp
+END
+ceguiscriptmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33192/CS/trunk/plugins/gui/cegui/ceguiscriptmodule.h
+END

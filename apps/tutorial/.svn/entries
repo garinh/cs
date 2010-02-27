@@ -1,0 +1,92 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/apps/tutorial
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-04T20:36:36.975053Z
+33644
+kickvb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+simpcd
+dir
+
+phystut
+dir
+
+simpvs
+dir
+
+shadertut
+dir
+
+mazing
+dir
+
+simpmap
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:34.496764Z
+96510de1cf5532c8396d4b862caef6a7
+2008-09-24T14:20:44.779692Z
+31267
+jorrit
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+419
+
+pathtut
+dir
+
+simple1
+dir
+
+simple2
+dir
+
+simplept
+dir
+

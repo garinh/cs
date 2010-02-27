@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33540/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver
+END
+weaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/33515/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/weaver.h
+END
+docnodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/crystal/!svn/ver/26434/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/docnodes.cpp
+END
+combiner_default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/crystal/!svn/ver/33295/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/combiner_default.cpp
+END
+docnodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/crystal/!svn/ver/26634/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/docnodes.h
+END
+weaver.tok
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/weaver.tok
+END
+synth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/crystal/!svn/ver/33448/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/synth.cpp
+END
+shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/crystal/!svn/ver/33540/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/shader.cpp
+END
+combiner_default.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/crystal/!svn/ver/33295/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/combiner_default.h
+END
+synth.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/33300/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/synth.h
+END
+basiciter.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/basiciter.h
+END
+shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/33540/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/shader.h
+END
+snippet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/crystal/!svn/ver/33448/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/snippet.cpp
+END
+shaderweaver.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/26404/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/shaderweaver.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/26434/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/Jamfile
+END
+snippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/crystal/!svn/ver/33448/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/snippet.h
+END
+weaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/crystal/!svn/ver/33515/CS/trunk/plugins/video/render3d/shader/shadercompiler/weaver/weaver.cpp
+END

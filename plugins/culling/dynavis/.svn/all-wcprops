@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/culling/dynavis
+END
+exvis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27385/CS/trunk/plugins/culling/dynavis/exvis.cpp
+END
+dynavis.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/culling/dynavis/dynavis.csplugin
+END
+wqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28409/CS/trunk/plugins/culling/dynavis/wqueue.h
+END
+dynavis.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/31270/CS/trunk/plugins/culling/dynavis/dynavis.h
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/15864/CS/trunk/plugins/culling/dynavis/todo.txt
+END
+exvis.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/27385/CS/trunk/plugins/culling/dynavis/exvis.h
+END
+dmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28162/CS/trunk/plugins/culling/dynavis/dmodel.cpp
+END
+dynavis_debug.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/21045/CS/trunk/plugins/culling/dynavis/dynavis_debug.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/culling/dynavis/Jamfile
+END
+dhistmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/24966/CS/trunk/plugins/culling/dynavis/dhistmgr.h
+END
+dmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27385/CS/trunk/plugins/culling/dynavis/dmodel.h
+END
+wqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28409/CS/trunk/plugins/culling/dynavis/wqueue.cpp
+END
+dynavis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/culling/dynavis/dynavis.cpp
+END

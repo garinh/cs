@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33537/CS/trunk/plugins/mesh/animesh/controllers/basic
+END
+basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33537/CS/trunk/plugins/mesh/animesh/controllers/basic/basic.cpp
+END
+basic.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/33505/CS/trunk/plugins/mesh/animesh/controllers/basic/basic.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33505/CS/trunk/plugins/mesh/animesh/controllers/basic/Jamfile
+END
+basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33505/CS/trunk/plugins/mesh/animesh/controllers/basic/basic.h
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33633/CS/trunk/data/shader-snippets/lighting
+END
+lighting_default_shadowmap-shared.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/lighting/lighting_default_shadowmap-shared.xml
+END
+staticspec-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33296/CS/trunk/data/shader-snippets/lighting/staticspec-default.xml
+END
+ambient-null.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33366/CS/trunk/data/shader-snippets/lighting/ambient-null.xml
+END
+shadowclip.block
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/shadowclip.block
+END
+apply-lighting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33513/CS/trunk/data/shader-snippets/lighting/apply-lighting.xml
+END
+lightfuncs.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/lightfuncs.cginc
+END
+directional_lms.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/directional_lms.cginc
+END
+lighting-ppl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/lighting-ppl.xml
+END
+ambient-one.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/ambient-one.xml
+END
+lighting-none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33403/CS/trunk/data/shader-snippets/lighting/lighting-none.xml
+END
+lighting-pvl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33513/CS/trunk/data/shader-snippets/lighting/lighting-pvl.xml
+END
+ambient-static.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33520/CS/trunk/data/shader-snippets/lighting/ambient-static.xml
+END
+ambient-simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/ambient-simple.xml
+END
+shadowfuncs.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/lighting/shadowfuncs.cginc
+END
+shadow-depth.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/lighting/shadow-depth.cginc
+END
+staticspec-null.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/staticspec-null.xml
+END
+shadow-vsm.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/lighting/shadow-vsm.cginc
+END
+lighting-tools.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/lighting/lighting-tools.inc
+END
+ambient-ao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/ambient-ao.xml
+END
+lighting_default-shared.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/33633/CS/trunk/data/shader-snippets/lighting/lighting_default-shared.xml
+END
+lighting-ppl-shadowmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/lighting/lighting-ppl-shadowmap.xml
+END

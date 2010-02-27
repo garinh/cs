@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/33518/CS/trunk/plugins/engine/3d
+END
+material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32248/CS/trunk/plugins/engine/3d/material.cpp
+END
+meshfact.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32866/CS/trunk/plugins/engine/3d/meshfact.h
+END
+meshlod.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/meshlod.h
+END
+lghthalo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/lghthalo.cpp
+END
+impmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33518/CS/trunk/plugins/engine/3d/impmesh.cpp
+END
+portalcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/32810/CS/trunk/plugins/engine/3d/portalcontainer.cpp
+END
+sector.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33225/CS/trunk/plugins/engine/3d/sector.h
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32248/CS/trunk/plugins/engine/3d/texture.h
+END
+objwatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/objwatch.h
+END
+portal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31274/CS/trunk/plugins/engine/3d/portal.h
+END
+engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33025/CS/trunk/plugins/engine/3d/engine.h
+END
+reflectomotron3000.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/engine/3d/reflectomotron3000.h
+END
+sharevar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32248/CS/trunk/plugins/engine/3d/sharevar.cpp
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32994/CS/trunk/plugins/engine/3d/light.h
+END
+lightmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32375/CS/trunk/plugins/engine/3d/lightmgr.cpp
+END
+renderloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/renderloop.h
+END
+campos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/campos.cpp
+END
+halogen.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/halogen.h
+END
+movable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33025/CS/trunk/plugins/engine/3d/movable.cpp
+END
+meshgen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33103/CS/trunk/plugins/engine/3d/meshgen.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/engine/3d/Jamfile
+END
+impman.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33510/CS/trunk/plugins/engine/3d/impman.h
+END
+camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31806/CS/trunk/plugins/engine/3d/camera.cpp
+END
+meshfact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/32866/CS/trunk/plugins/engine/3d/meshfact.cpp
+END
+meshlod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/meshlod.cpp
+END
+meshobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33025/CS/trunk/plugins/engine/3d/meshobj.h
+END
+halogen2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/halogen2.cpp
+END
+sector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33225/CS/trunk/plugins/engine/3d/sector.cpp
+END
+collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31666/CS/trunk/plugins/engine/3d/collection.h
+END
+texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32248/CS/trunk/plugins/engine/3d/texture.cpp
+END
+objwatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/objwatch.cpp
+END
+portal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31282/CS/trunk/plugins/engine/3d/portal.cpp
+END
+material.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32248/CS/trunk/plugins/engine/3d/material.h
+END
+engine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33249/CS/trunk/plugins/engine/3d/engine.cpp
+END
+reflectomotron3000.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/32164/CS/trunk/plugins/engine/3d/reflectomotron3000.cpp
+END
+light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33249/CS/trunk/plugins/engine/3d/light.cpp
+END
+impmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33510/CS/trunk/plugins/engine/3d/impmesh.h
+END
+engine.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/engine/3d/engine.csplugin
+END
+scenenode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33025/CS/trunk/plugins/engine/3d/scenenode.h
+END
+portalcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33025/CS/trunk/plugins/engine/3d/portalcontainer.h
+END
+renderloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31330/CS/trunk/plugins/engine/3d/renderloop.cpp
+END
+halogen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/halogen.cpp
+END
+sharevar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32248/CS/trunk/plugins/engine/3d/sharevar.h
+END
+impman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33518/CS/trunk/plugins/engine/3d/impman.cpp
+END
+lightmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31757/CS/trunk/plugins/engine/3d/lightmgr.h
+END
+meshobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33024/CS/trunk/plugins/engine/3d/meshobj.cpp
+END
+campos.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/campos.h
+END
+halo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/31236/CS/trunk/plugins/engine/3d/halo.h
+END
+movable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33025/CS/trunk/plugins/engine/3d/movable.h
+END
+meshgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32273/CS/trunk/plugins/engine/3d/meshgen.h
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32338/CS/trunk/plugins/engine/3d/camera.h
+END

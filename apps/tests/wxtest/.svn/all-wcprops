@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/crystal/!svn/ver/32344/CS/trunk/apps/tests/wxtest
+END
+wxtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/32344/CS/trunk/apps/tests/wxtest/wxtest.cpp
+END
+wxtest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/24619/CS/trunk/apps/tests/wxtest/wxtest.rc
+END
+wxtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32344/CS/trunk/apps/tests/wxtest/wxtest.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/28201/CS/trunk/apps/tests/wxtest/Jamfile
+END

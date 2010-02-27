@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30238/CS/trunk/docs/support/docutils/writers
+END
+pep_html.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/pep_html.py
+END
+null.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/null.py
+END
+newlatex2e.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/newlatex2e.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/__init__.py
+END
+pseudoxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/pseudoxml.py
+END
+html4css1.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/html4css1.py
+END
+unicode_latex.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/unicode_latex.py
+END
+latex2e.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/latex2e.py
+END
+docutils_xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/writers/docutils_xml.py
+END

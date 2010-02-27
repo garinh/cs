@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/specular
+END
+bump.cgvp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/specular/bump.cgvp
+END
+light_spec_bumpmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/specular/light_spec_bumpmap.xml
+END
+specular.cgfp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/specular/specular.cgfp
+END

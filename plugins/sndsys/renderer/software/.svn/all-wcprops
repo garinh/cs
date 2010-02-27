@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software
+END
+filterqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/23983/CS/trunk/plugins/sndsys/renderer/software/filterqueue.h
+END
+source.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/23985/CS/trunk/plugins/sndsys/renderer/software/source.cpp
+END
+compressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/24005/CS/trunk/plugins/sndsys/renderer/software/compressor.h
+END
+sndsyssoft.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/22401/CS/trunk/plugins/sndsys/renderer/software/sndsyssoft.csplugin
+END
+listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/23867/CS/trunk/plugins/sndsys/renderer/software/listener.cpp
+END
+source.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/32318/CS/trunk/plugins/sndsys/renderer/software/source.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/22376/CS/trunk/plugins/sndsys/renderer/software/Jamfile
+END
+renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/renderer.cpp
+END
+filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/23867/CS/trunk/plugins/sndsys/renderer/software/filters.cpp
+END
+filterqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/23964/CS/trunk/plugins/sndsys/renderer/software/filterqueue.cpp
+END
+listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/23983/CS/trunk/plugins/sndsys/renderer/software/listener.h
+END
+renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/30773/CS/trunk/plugins/sndsys/renderer/software/renderer.h
+END
+compressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/24005/CS/trunk/plugins/sndsys/renderer/software/compressor.cpp
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/23983/CS/trunk/plugins/sndsys/renderer/software/filters.h
+END

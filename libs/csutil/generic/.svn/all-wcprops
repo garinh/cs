@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33255/CS/trunk/libs/csutil/generic
+END
+runloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/28350/CS/trunk/libs/csutil/generic/runloop.cpp
+END
+callstack-bfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28800/CS/trunk/libs/csutil/generic/callstack-bfd.h
+END
+regex_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/16940/CS/trunk/libs/csutil/generic/regex_internal.c
+END
+loadlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33255/CS/trunk/libs/csutil/generic/loadlib.cpp
+END
+findlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/17062/CS/trunk/libs/csutil/generic/findlib.cpp
+END
+regex_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/16940/CS/trunk/libs/csutil/generic/regex_internal.h
+END
+vfsplat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/26449/CS/trunk/libs/csutil/generic/vfsplat.cpp
+END
+expandname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32341/CS/trunk/libs/csutil/generic/expandname.cpp
+END
+appfilename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/22878/CS/trunk/libs/csutil/generic/appfilename.cpp
+END
+regexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/16940/CS/trunk/libs/csutil/generic/regexec.c
+END
+sysroot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/21228/CS/trunk/libs/csutil/generic/sysroot.cpp
+END
+callstack-backtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/28800/CS/trunk/libs/csutil/generic/callstack-backtrace.h
+END
+scanplugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28154/CS/trunk/libs/csutil/generic/scanplugins.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csutil/generic/Jamfile
+END
+platformconfigpath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/22004/CS/trunk/libs/csutil/generic/platformconfigpath.cpp
+END
+timing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/23799/CS/trunk/libs/csutil/generic/timing.cpp
+END
+pathutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/32341/CS/trunk/libs/csutil/generic/pathutil.cpp
+END
+callstack-bfd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/28851/CS/trunk/libs/csutil/generic/callstack-bfd.cpp
+END
+mmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/23431/CS/trunk/libs/csutil/generic/mmap.cpp
+END
+regcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/19050/CS/trunk/libs/csutil/generic/regcomp.c
+END
+apppath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/22980/CS/trunk/libs/csutil/generic/apppath.cpp
+END
+memutil_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29448/CS/trunk/libs/csutil/generic/memutil_impl.cpp
+END
+pluginpaths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/21223/CS/trunk/libs/csutil/generic/pluginpaths.cpp
+END
+sysinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/generic/sysinit.cpp
+END
+printf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/30503/CS/trunk/libs/csutil/generic/printf.cpp
+END
+getopt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/26590/CS/trunk/libs/csutil/generic/getopt.cpp
+END
+setenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/29596/CS/trunk/libs/csutil/generic/setenv.cpp
+END
+regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/27757/CS/trunk/libs/csutil/generic/regex.c
+END
+platformconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/19546/CS/trunk/libs/csutil/generic/platformconfig.cpp
+END
+bfd-module-dladdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/28152/CS/trunk/libs/csutil/generic/bfd-module-dladdr.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/generic/README
+END
+callstack-backtrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/28800/CS/trunk/libs/csutil/generic/callstack-backtrace.cpp
+END
+appdir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/21850/CS/trunk/libs/csutil/generic/appdir.cpp
+END
+username.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/16571/CS/trunk/libs/csutil/generic/username.cpp
+END
+resdir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/21223/CS/trunk/libs/csutil/generic/resdir.cpp
+END
+processorcount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/29624/CS/trunk/libs/csutil/generic/processorcount.cpp
+END

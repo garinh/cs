@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/21661/CS/trunk/docs/support/winhelp
+END
+gendoctoc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/21508/CS/trunk/docs/support/winhelp/gendoctoc.pl
+END
+csmanual.hhp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/21508/CS/trunk/docs/support/winhelp/csmanual.hhp
+END
+HTMLEntities.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/10211/CS/trunk/docs/support/winhelp/HTMLEntities.pm
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/21661/CS/trunk/docs/support/winhelp/README.txt
+END
+csapi.hhp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/20967/CS/trunk/docs/support/winhelp/csapi.hhp
+END

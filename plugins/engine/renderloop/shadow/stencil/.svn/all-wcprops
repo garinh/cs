@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/engine/renderloop/shadow/stencil
+END
+trimesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/26834/CS/trunk/plugins/engine/renderloop/shadow/stencil/trimesh.h
+END
+stencil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/engine/renderloop/shadow/stencil/stencil.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/23234/CS/trunk/plugins/engine/renderloop/shadow/stencil/Jamfile
+END
+stencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/engine/renderloop/shadow/stencil/stencil.h
+END
+rendstep_stencil.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/crystal/!svn/ver/15337/CS/trunk/plugins/engine/renderloop/shadow/stencil/rendstep_stencil.csplugin
+END
+stencil.tok
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/15337/CS/trunk/plugins/engine/renderloop/shadow/stencil/stencil.tok
+END

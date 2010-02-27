@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/cssaver
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/cssaver/Jamfile
+END
+cssaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/cssaver/cssaver.cpp
+END
+cssaver.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/cssaver/cssaver.csplugin
+END
+cssaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/29947/CS/trunk/plugins/cssaver/cssaver.h
+END

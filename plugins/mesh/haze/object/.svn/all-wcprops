@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/haze/object
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/haze/object/Jamfile
+END
+haze.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/haze/object/haze.cpp
+END
+haze.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/haze/object/haze.csplugin
+END
+haze.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/mesh/haze/object/haze.h
+END

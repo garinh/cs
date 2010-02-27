@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/surface
+END
+cg-parallax.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/surface/cg-parallax.inc
+END
+cg-surface-classic.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-old/surface/cg-surface-classic.inc
+END

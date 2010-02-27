@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/31302/CS/trunk/include/csplugincommon/directx
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/26590/CS/trunk/include/csplugincommon/directx/error.h
+END
+guids.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/28730/CS/trunk/include/csplugincommon/directx/guids.h
+END
+csextern_dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/20643/CS/trunk/include/csplugincommon/directx/csextern_dx.h
+END

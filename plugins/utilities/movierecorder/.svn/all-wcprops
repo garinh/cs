@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/utilities/movierecorder
+END
+lzoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/lzoconf.h
+END
+nuppelvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/nuppelvideo.h
+END
+nuppelwriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/nuppelwriter.cpp
+END
+rtjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/rtjpeg.h
+END
+minilzo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/minilzo.cpp
+END
+movierecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/utilities/movierecorder/movierecorder.cpp
+END
+nuppelwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/nuppelwriter.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/26243/CS/trunk/plugins/utilities/movierecorder/Jamfile
+END
+minilzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/minilzo.h
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/mmx.h
+END
+rgb2yuv420.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/rgb2yuv420.cpp
+END
+movierecorder.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/movierecorder.csplugin
+END
+movierecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/30412/CS/trunk/plugins/utilities/movierecorder/movierecorder.h
+END
+rtjpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/26240/CS/trunk/plugins/utilities/movierecorder/rtjpeg.cpp
+END

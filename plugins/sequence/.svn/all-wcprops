@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sequence
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/sequence/Jamfile
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sequence/sequence.cpp
+END
+sequence.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/sequence/sequence.csplugin
+END
+sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30365/CS/trunk/plugins/sequence/sequence.h
+END

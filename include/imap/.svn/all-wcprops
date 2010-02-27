@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/crystal/!svn/ver/33597/CS/trunk/include/imap
+END
+streamsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/22462/CS/trunk/include/imap/streamsource.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/30244/CS/trunk/include/imap/writer.h
+END
+saverref.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27604/CS/trunk/include/imap/saverref.h
+END
+renderbufferpersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/26540/CS/trunk/include/imap/renderbufferpersistence.h
+END
+modelload.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/23379/CS/trunk/include/imap/modelload.h
+END
+saver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/29947/CS/trunk/include/imap/saver.h
+END
+saverfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/23658/CS/trunk/include/imap/saverfile.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/31503/CS/trunk/include/imap/reader.h
+END
+services.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32637/CS/trunk/include/imap/services.h
+END
+ldrctxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/32383/CS/trunk/include/imap/ldrctxt.h
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33597/CS/trunk/include/imap/loader.h
+END

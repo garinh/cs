@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/font/server/csfont
+END
+csfont.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/font/server/csfont/csfont.csplugin
+END
+font_tiny.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/24307/CS/trunk/plugins/font/server/csfont/font_tiny.h
+END
+font_italic.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/24307/CS/trunk/plugins/font/server/csfont/font_italic.h
+END
+csfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/font/server/csfont/csfont.h
+END
+font_courier.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/24307/CS/trunk/plugins/font/server/csfont/font_courier.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/font/server/csfont/Jamfile
+END
+font_police.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/24307/CS/trunk/plugins/font/server/csfont/font_police.h
+END
+hex2csf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/15126/CS/trunk/plugins/font/server/csfont/hex2csf.pl
+END
+csfont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/font/server/csfont/csfont.cpp
+END

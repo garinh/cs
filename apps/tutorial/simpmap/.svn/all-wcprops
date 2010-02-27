@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/30443/CS/trunk/apps/tutorial/simpmap
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/20643/CS/trunk/apps/tutorial/simpmap/Jamfile
+END
+simpmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30443/CS/trunk/apps/tutorial/simpmap/simpmap.cpp
+END
+simpmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/30443/CS/trunk/apps/tutorial/simpmap/simpmap.h
+END

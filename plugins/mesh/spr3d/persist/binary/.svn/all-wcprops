@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/spr3d/persist/binary
+END
+spr3dbin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/spr3d/persist/binary/spr3dbin.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/23315/CS/trunk/plugins/mesh/spr3d/persist/binary/Jamfile
+END
+spr3dbin.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/spr3d/persist/binary/spr3dbin.csplugin
+END
+spr3dbin.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31180/CS/trunk/plugins/mesh/spr3d/persist/binary/spr3dbin.h
+END

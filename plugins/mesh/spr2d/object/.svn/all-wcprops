@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/spr2d/object
+END
+spr2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/mesh/spr2d/object/spr2d.h
+END
+spr2duv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/26332/CS/trunk/plugins/mesh/spr2d/object/spr2duv.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/spr2d/object/Jamfile
+END
+spr2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/spr2d/object/spr2d.cpp
+END
+spr2duv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/mesh/spr2d/object/spr2duv.h
+END
+spr2d.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/spr2d/object/spr2d.csplugin
+END

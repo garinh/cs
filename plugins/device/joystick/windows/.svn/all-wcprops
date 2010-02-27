@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33347/CS/trunk/plugins/device/joystick/windows
+END
+joywin.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/26175/CS/trunk/plugins/device/joystick/windows/joywin.csplugin
+END
+csjoywin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/device/joystick/windows/csjoywin.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33347/CS/trunk/plugins/device/joystick/windows/Jamfile
+END
+csjoywin.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33141/CS/trunk/plugins/device/joystick/windows/csjoywin.h
+END
+dinputdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/24913/CS/trunk/plugins/device/joystick/windows/dinputdefs.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/32341/CS/trunk/apps/import/3ds2lev
+END
+3ds2lev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/32341/CS/trunk/apps/import/3ds2lev/3ds2lev.cpp
+END
+levelwriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27371/CS/trunk/apps/import/3ds2lev/levelwriter.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/30751/CS/trunk/apps/import/3ds2lev/Jamfile
+END
+levelwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/14580/CS/trunk/apps/import/3ds2lev/levelwriter.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/14098/CS/trunk/apps/import/3ds2lev/README.txt
+END

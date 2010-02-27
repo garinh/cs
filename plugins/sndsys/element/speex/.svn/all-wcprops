@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33425/CS/trunk/plugins/sndsys/element/speex
+END
+speexdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/element/speex/speexdata.cpp
+END
+speexloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/31606/CS/trunk/plugins/sndsys/element/speex/speexloader.h
+END
+speexstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31642/CS/trunk/plugins/sndsys/element/speex/speexstream.cpp
+END
+speexdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31608/CS/trunk/plugins/sndsys/element/speex/speexdata.h
+END
+speexstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33425/CS/trunk/plugins/sndsys/element/speex/speexstream.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/31634/CS/trunk/plugins/sndsys/element/speex/Jamfile
+END
+sndsysspeex.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/31606/CS/trunk/plugins/sndsys/element/speex/sndsysspeex.csplugin
+END
+speexloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31606/CS/trunk/plugins/sndsys/element/speex/speexloader.cpp
+END

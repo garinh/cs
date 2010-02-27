@@ -1,0 +1,98 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/data/shader
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-19T21:53:46.227314Z
+33685
+mgist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+water
+dir
+
+reflect
+dir
+
+terrain
+dir
+
+early_z
+dir
+
+lighting
+dir
+
+shadow
+dir
+
+foliage
+dir
+
+particles
+dir
+
+sky
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:27:17.007416Z
+fa3cadc4d05cc6c8cb4c94c8b924c339
+2008-09-12T18:27:54.711539Z
+31128
+res2002
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+404
+
+surface
+dir
+
+postproc
+dir
+
+fur
+dir
+

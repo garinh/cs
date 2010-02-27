@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33496/CS/trunk/libs/csplugincommon/sndsys
+END
+snddata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/28767/CS/trunk/libs/csplugincommon/sndsys/snddata.cpp
+END
+convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/26424/CS/trunk/libs/csplugincommon/sndsys/convert.cpp
+END
+sndstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33496/CS/trunk/libs/csplugincommon/sndsys/sndstream.cpp
+END
+cyclicbuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/28767/CS/trunk/libs/csplugincommon/sndsys/cyclicbuf.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/22352/CS/trunk/libs/csplugincommon/sndsys/Jamfile
+END

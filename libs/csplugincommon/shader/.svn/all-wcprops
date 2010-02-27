@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/33538/CS/trunk/libs/csplugincommon/shader
+END
+shaderprogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31725/CS/trunk/libs/csplugincommon/shader/shaderprogram.cpp
+END
+weavertypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/30869/CS/trunk/libs/csplugincommon/shader/weavertypes.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csplugincommon/shader/Jamfile
+END
+shadercachehelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33538/CS/trunk/libs/csplugincommon/shader/shadercachehelper.cpp
+END

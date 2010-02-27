@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/embedgl
+END
+embedgl.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/26033/CS/trunk/plugins/video/canvas/embedgl/embedgl.csplugin
+END
+embedgl2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/embedgl/embedgl2d.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/26033/CS/trunk/plugins/video/canvas/embedgl/Jamfile
+END
+embedgl2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31397/CS/trunk/plugins/video/canvas/embedgl/embedgl2d.h
+END

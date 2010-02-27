@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb
+END
+glshader_afp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/30493/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_afp.cpp
+END
+glshader_arb.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/crystal/!svn/ver/16141/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_arb.csplugin
+END
+glshader_avp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/30493/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_avp.cpp
+END
+glshader_arb.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/30493/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_arb.h
+END
+glshader_afp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/31725/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_afp.h
+END
+glshader_avp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/crystal/!svn/ver/31725/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_avp.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/crystal/!svn/ver/22681/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/Jamfile
+END
+glshader_arb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/render3d/shader/shaderplugins/glshader_arb/glshader_arb.cpp
+END

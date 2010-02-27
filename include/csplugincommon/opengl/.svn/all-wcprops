@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33653/CS/trunk/include/csplugincommon/opengl
+END
+csextern_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/20643/CS/trunk/include/csplugincommon/opengl/csextern_gl.h
+END
+glfontcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/29874/CS/trunk/include/csplugincommon/opengl/glfontcache.h
+END
+glextmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31321/CS/trunk/include/csplugincommon/opengl/glextmanager.h
+END
+driverdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/31781/CS/trunk/include/csplugincommon/opengl/driverdb.h
+END
+glcommon2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33015/CS/trunk/include/csplugincommon/opengl/glcommon2d.h
+END
+assumedstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/29623/CS/trunk/include/csplugincommon/opengl/assumedstate.h
+END
+glhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/29874/CS/trunk/include/csplugincommon/opengl/glhelper.h
+END
+shaderplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31399/CS/trunk/include/csplugincommon/opengl/shaderplugin.h
+END
+glenum_identstrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33557/CS/trunk/include/csplugincommon/opengl/glenum_identstrs.h
+END
+glstates.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33653/CS/trunk/include/csplugincommon/opengl/glstates.h
+END
+glss.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/31304/CS/trunk/include/csplugincommon/opengl/glss.h
+END

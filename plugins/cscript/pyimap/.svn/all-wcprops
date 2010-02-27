@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33519/CS/trunk/plugins/cscript/pyimap
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27769/CS/trunk/plugins/cscript/pyimap/Jamfile
+END
+imapmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/plugins/cscript/pyimap/imapmod.cpp
+END
+cs_imap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33519/CS/trunk/plugins/cscript/pyimap/cs_imap.cpp
+END

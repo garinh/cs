@@ -1,0 +1,24 @@
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 727
+/CS/branches/feature/jobqueue2/bin/guidregistry.py:32936,32954,32969,32978-32979
+/CS/branches/feature/plugin-merge/bin/guidregistry.py:31069,31103,31131-31137,32591
+/CS/branches/feature/pseudoinstancing/bin/guidregistry.py:31877-31928,31930
+/CS/branches/release/V1.4/bin/guidregistry.py:31900-31902,32131,32539,32541-32551
+/CS/branches/release/V1.4/scripts/msi/csguidregistry.py:30463
+/CS/branches/soc2008/threadcomm/scripts/msi/csguidregistry.py:30471,30486,30678,30681,30720,30722,30753
+/CS/branches/soc2009/imposters/bin/guidregistry.py:32566,32596-32604,32666-32670,32679-32750,32778-32801,32807-32843
+/CS/branches/soc2009/postprocessing/bin/guidregistry.py:32464-32467,32693-32762,32779-32820,32889,32924-32930,33104-33105
+K 13
+svn:mime-type
+V 10
+text/plain
+END

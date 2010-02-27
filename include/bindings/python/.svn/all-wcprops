@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32482/CS/trunk/include/bindings/python
+END
+pyshadervar.i
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/25816/CS/trunk/include/bindings/python/pyshadervar.i
+END
+pythpre.i
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/30513/CS/trunk/include/bindings/python/pythpre.i
+END
+pycscegui.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/25959/CS/trunk/include/bindings/python/pycscegui.i
+END
+imappost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/python/imappost.i
+END
+csstring.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28012/CS/trunk/include/bindings/python/csstring.i
+END
+corepost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32482/CS/trunk/include/bindings/python/corepost.i
+END
+pyattributes.i
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/27936/CS/trunk/include/bindings/python/pyattributes.i
+END
+pyeventh.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/30127/CS/trunk/include/bindings/python/pyeventh.i
+END
+isndsyspost.i
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/python/isndsyspost.i
+END
+pythvarg.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/28653/CS/trunk/include/bindings/python/pythvarg.i
+END
+cstoolpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/python/cstoolpost.i
+END
+imeshpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/30916/CS/trunk/include/bindings/python/imeshpost.i
+END
+csgfxpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/32481/CS/trunk/include/bindings/python/csgfxpost.i
+END
+ivariapost.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/python/ivariapost.i
+END
+csgeompost.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/27833/CS/trunk/include/bindings/python/csgeompost.i
+END
+ienginepost.i
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/python/ienginepost.i
+END
+ivideopost.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/python/ivideopost.i
+END

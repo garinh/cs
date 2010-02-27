@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33525/CS/trunk/include/csplugincommon/rendermanager
+END
+autofx_framebuffertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/33262/CS/trunk/include/csplugincommon/rendermanager/autofx_framebuffertex.h
+END
+autofx_reflrefr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33262/CS/trunk/include/csplugincommon/rendermanager/autofx_reflrefr.h
+END
+shadow_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/30289/CS/trunk/include/csplugincommon/rendermanager/shadow_common.h
+END
+rendertree.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/32774/CS/trunk/include/csplugincommon/rendermanager/rendertree.h
+END
+renderlayers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/32373/CS/trunk/include/csplugincommon/rendermanager/renderlayers.h
+END
+debugcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/30253/CS/trunk/include/csplugincommon/rendermanager/debugcommon.h
+END
+standardsorter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/31108/CS/trunk/include/csplugincommon/rendermanager/standardsorter.h
+END
+hdrexposure_luminance.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/csplugincommon/rendermanager/hdrexposure_luminance.h
+END
+svtraverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33260/CS/trunk/include/csplugincommon/rendermanager/svtraverse.h
+END
+standardtreetraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/30315/CS/trunk/include/csplugincommon/rendermanager/standardtreetraits.h
+END
+hdrexposure.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33165/CS/trunk/include/csplugincommon/rendermanager/hdrexposure.h
+END
+svsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/31864/CS/trunk/include/csplugincommon/rendermanager/svsetup.h
+END
+renderview.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/31096/CS/trunk/include/csplugincommon/rendermanager/renderview.h
+END
+hdrhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/csplugincommon/rendermanager/hdrhelper.h
+END
+dependenttarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/33261/CS/trunk/include/csplugincommon/rendermanager/dependenttarget.h
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/32851/CS/trunk/include/csplugincommon/rendermanager/render.h
+END
+viscull.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/31749/CS/trunk/include/csplugincommon/rendermanager/viscull.h
+END
+portalsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33292/CS/trunk/include/csplugincommon/rendermanager/portalsetup.h
+END
+operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/30321/CS/trunk/include/csplugincommon/rendermanager/operations.h
+END
+texturecache.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/32185/CS/trunk/include/csplugincommon/rendermanager/texturecache.h
+END
+posteffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/csplugincommon/rendermanager/posteffects.h
+END
+svarrayholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/30317/CS/trunk/include/csplugincommon/rendermanager/svarrayholder.h
+END
+shadersetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/30321/CS/trunk/include/csplugincommon/rendermanager/shadersetup.h
+END
+shadow_pssm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/32774/CS/trunk/include/csplugincommon/rendermanager/shadow_pssm.h
+END
+lightsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33525/CS/trunk/include/csplugincommon/rendermanager/lightsetup.h
+END

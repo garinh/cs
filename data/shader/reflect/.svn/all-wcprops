@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/reflect
+END
+water_plane.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/reflect/water_plane.xml
+END
+reflect_environment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/reflect/reflect_environment.xml
+END
+glass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/reflect/glass.xml
+END
+water_simple_cube.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader/reflect/water_simple_cube.xml
+END
+reflectsphere.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader/reflect/reflectsphere.xml
+END

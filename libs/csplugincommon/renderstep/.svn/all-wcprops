@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/27523/CS/trunk/libs/csplugincommon/renderstep
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csplugincommon/renderstep/Jamfile
+END
+parserenderstep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/27523/CS/trunk/libs/csplugincommon/renderstep/parserenderstep.cpp
+END
+basesteptype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/22649/CS/trunk/libs/csplugincommon/renderstep/basesteptype.cpp
+END
+basesteploader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/25967/CS/trunk/libs/csplugincommon/renderstep/basesteploader.cpp
+END

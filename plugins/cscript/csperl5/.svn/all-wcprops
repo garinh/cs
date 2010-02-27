@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/cscript/csperl5
+END
+csperl5.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/cscript/csperl5/csperl5.csplugin
+END
+csperl5.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/28852/CS/trunk/plugins/cscript/csperl5/csperl5.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/27769/CS/trunk/plugins/cscript/csperl5/Jamfile
+END
+perl5mod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/19795/CS/trunk/plugins/cscript/csperl5/perl5mod.cpp
+END
+csperl5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/cscript/csperl5/csperl5.cpp
+END
+cswigpl5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/18975/CS/trunk/plugins/cscript/csperl5/cswigpl5.cpp
+END

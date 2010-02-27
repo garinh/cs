@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33639/CS/trunk/plugins/mesh/genmesh/object
+END
+submeshes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/32554/CS/trunk/plugins/mesh/genmesh/object/submeshes.cpp
+END
+legacy_buffers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/30229/CS/trunk/plugins/mesh/genmesh/object/legacy_buffers.cpp
+END
+submeshes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/32554/CS/trunk/plugins/mesh/genmesh/object/submeshes.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/genmesh/object/Jamfile
+END
+genmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33639/CS/trunk/plugins/mesh/genmesh/object/genmesh.cpp
+END
+genmesh.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/genmesh/object/genmesh.csplugin
+END
+legacy_lighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/31674/CS/trunk/plugins/mesh/genmesh/object/legacy_lighting.cpp
+END
+genmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33307/CS/trunk/plugins/mesh/genmesh/object/genmesh.h
+END

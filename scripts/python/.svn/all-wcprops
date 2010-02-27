@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/33670/CS/trunk/scripts/python
+END
+pysimpcd.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32085/CS/trunk/scripts/python/pysimpcd.py
+END
+glextgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/glextgen.py
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/31083/CS/trunk/scripts/python/Jamfile
+END
+pysimp.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/27959/CS/trunk/scripts/python/pysimp.py
+END
+metaglext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31321/CS/trunk/scripts/python/metaglext.xml
+END
+pysimp2.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32085/CS/trunk/scripts/python/pysimp2.py
+END
+tutorial0.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/27959/CS/trunk/scripts/python/tutorial0.py
+END
+tutorial1.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32072/CS/trunk/scripts/python/tutorial1.py
+END
+cshelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/19445/CS/trunk/scripts/python/cshelper.py
+END
+pyceguitest.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/32085/CS/trunk/scripts/python/pyceguitest.py
+END
+tutorial2.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32085/CS/trunk/scripts/python/tutorial2.py
+END
+csutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/29560/CS/trunk/scripts/python/csutils.py
+END
+tutorial3.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/27959/CS/trunk/scripts/python/tutorial3.py
+END
+tutorial4.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/27950/CS/trunk/scripts/python/tutorial4.py
+END

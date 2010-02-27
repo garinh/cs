@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/cursor
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/30374/CS/trunk/plugins/video/cursor/cursor.h
+END
+cscursor.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/19922/CS/trunk/plugins/video/cursor/cscursor.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/video/cursor/Jamfile
+END
+cursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/cursor/cursor.cpp
+END

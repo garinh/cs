@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/crystal/!svn/ver/33679/CS/trunk/data/shader-snippets
+END
+position-instance-camface-wind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position-instance-camface-wind.xml
+END
+position-instance-camface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position-instance-camface.xml
+END
+blend4tex_rgba.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/blend4tex_rgba.xml
+END
+eye-direction-world.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/eye-direction-world.xml
+END
+add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/add.xml
+END
+lerp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/lerp.xml
+END
+instancingTransforms.inp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/instancingTransforms.inp
+END
+cg-common.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/cg-common.cginc
+END
+position.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position.xml
+END
+position-instance-wind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position-instance-wind.xml
+END
+tcoffset2-perturb-normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/tcoffset2-perturb-normal.xml
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/Jamfile
+END
+primaryColor.inp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33412/CS/trunk/data/shader-snippets/primaryColor.inp
+END
+hdr-prescale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33415/CS/trunk/data/shader-snippets/hdr-prescale.xml
+END
+texcoord-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33366/CS/trunk/data/shader-snippets/texcoord-default.xml
+END
+modulate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/modulate.xml
+END
+cg-global_objectToWorld.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/cg-global_objectToWorld.cginc
+END
+modulate-float.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/modulate-float.xml
+END
+texCoord.inp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/texCoord.inp
+END
+normal.inp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/normal.inp
+END
+inverse-float.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/inverse-float.xml
+END
+position-camface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position-camface.xml
+END
+ModelView.inp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/ModelView.inp
+END
+primary_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/primary_color.xml
+END
+mixmode-alpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33415/CS/trunk/data/shader-snippets/mixmode-alpha.xml
+END
+rgba-black.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/rgba-black.xml
+END
+eye-direction-camera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/eye-direction-camera.xml
+END
+position-noclip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/position-noclip.xml
+END
+texcoord-lightmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33366/CS/trunk/data/shader-snippets/texcoord-lightmap.xml
+END
+alpha-premult-blend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/alpha-premult-blend.xml
+END
+eye-direction-tangent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/eye-direction-tangent.xml
+END
+modulate_rgb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/modulate_rgb.xml
+END
+tcoffset2-perturb-normal-cam.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/tcoffset2-perturb-normal-cam.xml
+END
+lightScale.inp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33513/CS/trunk/data/shader-snippets/lightScale.inp
+END
+position-instance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position-instance.xml
+END
+worldToCameraInv.inp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/worldToCameraInv.inp
+END
+eye-direction-obj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/eye-direction-obj.xml
+END
+hdr-postscale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/33415/CS/trunk/data/shader-snippets/hdr-postscale.xml
+END
+texcoord2-scale-xlate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/texcoord2-scale-xlate.xml
+END
+position-instance-camface-yaxis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/33385/CS/trunk/data/shader-snippets/position-instance-camface-yaxis.xml
+END

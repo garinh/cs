@@ -1,0 +1,77 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/libs
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-22T01:20:13.796014Z
+33695
+sunshine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+cstool
+dir
+
+csutil
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:29.458014Z
+e0b366934dbcee2d57709d0f05411c1a
+2008-09-04T17:22:58.681769Z
+31039
+erluk
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4609
+
+csgfx
+dir
+
+csgeom
+dir
+
+csplugincommon
+dir
+

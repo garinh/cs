@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/19612/CS/trunk/scripts/deb/data/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/18319/CS/trunk/scripts/deb/data/debian/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/postinst
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/preinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/postrm
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/prerm
+END
+control-fr
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/control-fr
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/18320/CS/trunk/scripts/deb/data/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/12933/CS/trunk/scripts/deb/data/debian/rules
+END
+substvars
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/substvars
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/README
+END
+crystalspace-data.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/crystalspace-data.dirs
+END
+crystalspace-data.files
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/crystalspace-data.files
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/19612/CS/trunk/scripts/deb/data/debian/copyright
+END
+createmenus
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/18320/CS/trunk/scripts/deb/data/debian/createmenus
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/12383/CS/trunk/scripts/deb/data/debian/README.Debian
+END

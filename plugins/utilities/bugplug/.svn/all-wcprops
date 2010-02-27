@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/utilities/bugplug
+END
+bugplug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/utilities/bugplug/bugplug.cpp
+END
+shadow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/utilities/bugplug/shadow.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/26224/CS/trunk/plugins/utilities/bugplug/Jamfile
+END
+bugplug.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/26224/CS/trunk/plugins/utilities/bugplug/bugplug.csplugin
+END
+bugplug.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/32635/CS/trunk/plugins/utilities/bugplug/bugplug.h
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/utilities/bugplug/shadow.h
+END

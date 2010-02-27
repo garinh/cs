@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/crystal/!svn/ver/33196/CS/trunk/data/viewmesh
+END
+morphtargettab.layout
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/morphtargettab.layout
+END
+generaltab.layout
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/generaltab.layout
+END
+materialtab.layout
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/materialtab.layout
+END
+animationtab.layout
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/animationtab.layout
+END
+viewmesh.layout
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33196/CS/trunk/data/viewmesh/viewmesh.layout
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/Jamfile
+END
+submeshtab.layout
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/submeshtab.layout
+END
+sockettab.layout
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33089/CS/trunk/data/viewmesh/sockettab.layout
+END

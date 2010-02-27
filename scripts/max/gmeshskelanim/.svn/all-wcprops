@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/25834/CS/trunk/scripts/max/gmeshskelanim
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/20428/CS/trunk/scripts/max/gmeshskelanim/Jamfile
+END
+IPhysique.gup
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/20423/CS/trunk/scripts/max/gmeshskelanim/IPhysique.gup
+END
+export_genmesh_skelanim.mcr
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/25834/CS/trunk/scripts/max/gmeshskelanim/export_genmesh_skelanim.mcr
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/25566/CS/trunk/scripts/max/gmeshskelanim/README
+END

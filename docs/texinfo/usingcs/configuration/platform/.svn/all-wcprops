@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/21622/CS/trunk/docs/texinfo/usingcs/configuration/platform
+END
+win32.txi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/crystal/!svn/ver/21622/CS/trunk/docs/texinfo/usingcs/configuration/platform/win32.txi
+END
+unix.txi
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/21622/CS/trunk/docs/texinfo/usingcs/configuration/platform/unix.txi
+END
+macosx.txi
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/21622/CS/trunk/docs/texinfo/usingcs/configuration/platform/macosx.txi
+END

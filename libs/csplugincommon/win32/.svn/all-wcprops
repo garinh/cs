@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32731/CS/trunk/libs/csplugincommon/win32
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/20643/CS/trunk/libs/csplugincommon/win32/Jamfile
+END
+customcursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32731/CS/trunk/libs/csplugincommon/win32/customcursor.cpp
+END
+staticvarcleanup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/29068/CS/trunk/libs/csplugincommon/win32/staticvarcleanup.cpp
+END
+icontools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/32731/CS/trunk/libs/csplugincommon/win32/icontools.cpp
+END

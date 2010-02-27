@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/genmesh/skelanim2
+END
+gmeshskelanim.tok
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/24308/CS/trunk/plugins/mesh/genmesh/skelanim2/gmeshskelanim.tok
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/24297/CS/trunk/plugins/mesh/genmesh/skelanim2/Jamfile
+END
+gmeshskelanim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/genmesh/skelanim2/gmeshskelanim.cpp
+END
+gmeshskelanim2.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/crystal/!svn/ver/24297/CS/trunk/plugins/mesh/genmesh/skelanim2/gmeshskelanim2.csplugin
+END
+gmeshskelanim.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/32474/CS/trunk/plugins/mesh/genmesh/skelanim2/gmeshskelanim.h
+END

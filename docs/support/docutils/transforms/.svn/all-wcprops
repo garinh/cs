@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/30238/CS/trunk/docs/support/docutils/transforms
+END
+universal.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/universal.py
+END
+parts.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/parts.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/misc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/__init__.py
+END
+references.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/references.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/html.py
+END
+components.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/components.py
+END
+frontmatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/frontmatter.py
+END
+peps.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/crystal/!svn/ver/21817/CS/trunk/docs/support/docutils/transforms/peps.py
+END

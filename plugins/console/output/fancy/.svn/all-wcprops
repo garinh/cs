@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/console/output/fancy
+END
+fancycon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/console/output/fancy/fancycon.cpp
+END
+fancycon.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/console/output/fancy/fancycon.csplugin
+END
+fancycon.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/32145/CS/trunk/plugins/console/output/fancy/fancycon.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/console/output/fancy/Jamfile
+END

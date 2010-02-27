@@ -1,0 +1,77 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/plugins/mesh/animesh
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-15T23:50:58.037636Z
+33669
+kickvb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+controllers
+dir
+
+object
+dir
+
+skeleton2
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:25:25.417387Z
+7b74219dca8267540d15fcf2c46ca5bc
+2009-12-11T15:14:18.976953Z
+33317
+kickvb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+267
+
+persist
+dir
+
+body
+dir
+

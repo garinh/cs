@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/openglwin
+END
+oglg2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/canvas/openglwin/oglg2d.cpp
+END
+oglg2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/crystal/!svn/ver/32731/CS/trunk/plugins/video/canvas/openglwin/oglg2d.h
+END
+MultiMonAPI.fun
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/18263/CS/trunk/plugins/video/canvas/openglwin/MultiMonAPI.fun
+END
+detectdriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/26654/CS/trunk/plugins/video/canvas/openglwin/detectdriver.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/video/canvas/openglwin/Jamfile
+END
+glwin32.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/video/canvas/openglwin/glwin32.csplugin
+END
+detectdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/26638/CS/trunk/plugins/video/canvas/openglwin/detectdriver.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/proctex/tlfunc
+END
+tlfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/proctex/tlfunc/tlfunc.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/crystal/!svn/ver/23234/CS/trunk/plugins/proctex/tlfunc/Jamfile
+END
+tlfunc.tok
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/17194/CS/trunk/plugins/proctex/tlfunc/tlfunc.tok
+END
+tlfunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/proctex/tlfunc/tlfunc.cpp
+END
+tlfunc.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/crystal/!svn/ver/17194/CS/trunk/plugins/proctex/tlfunc/tlfunc.csplugin
+END

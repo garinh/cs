@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/31422/CS/trunk/include/bindings/java
+END
+javapre.i
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31418/CS/trunk/include/bindings/java/javapre.i
+END
+imappost.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/imappost.i
+END
+inout.i
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/31422/CS/trunk/include/bindings/java/inout.i
+END
+corepost.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/corepost.i
+END
+typemaps.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31422/CS/trunk/include/bindings/java/typemaps.i
+END
+isndsyspost.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/isndsyspost.i
+END
+cstoolpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/cstoolpost.i
+END
+extends.i
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31391/CS/trunk/include/bindings/java/extends.i
+END
+imeshpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/imeshpost.i
+END
+wrapper.i
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/crystal/!svn/ver/31418/CS/trunk/include/bindings/java/wrapper.i
+END
+csgfxpost.i
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/csgfxpost.i
+END
+ivariapost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/31402/CS/trunk/include/bindings/java/ivariapost.i
+END
+csgeompost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/csgeompost.i
+END
+ienginepost.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/ienginepost.i
+END
+ivideopost.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/java/ivideopost.i
+END
+javapost.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/31402/CS/trunk/include/bindings/java/javapost.i
+END

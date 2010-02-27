@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/crystal/!svn/ver/33597/CS/trunk/include/ivideo
+END
+rendermesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/32008/CS/trunk/include/ivideo/rendermesh.h
+END
+material.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/29874/CS/trunk/include/ivideo/material.h
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/ivideo/texture.h
+END
+natwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32716/CS/trunk/include/ivideo/natwin.h
+END
+lighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/21850/CS/trunk/include/ivideo/lighting.h
+END
+fontserv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/27522/CS/trunk/include/ivideo/fontserv.h
+END
+wxwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/crystal/!svn/ver/23269/CS/trunk/include/ivideo/wxwin.h
+END
+custcursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/24970/CS/trunk/include/ivideo/custcursor.h
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/12165/CS/trunk/include/ivideo/cursor.h
+END
+rndbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/29402/CS/trunk/include/ivideo/rndbuf.h
+END
+halo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/24970/CS/trunk/include/ivideo/halo.h
+END
+gfxmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/22089/CS/trunk/include/ivideo/gfxmem.h
+END
+txtmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/ivideo/txtmgr.h
+END
+graph2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33016/CS/trunk/include/ivideo/graph2d.h
+END
+graph3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33106/CS/trunk/include/ivideo/graph3d.h
+END

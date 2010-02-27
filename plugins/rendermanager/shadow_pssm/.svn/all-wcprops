@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/crystal/!svn/ver/33262/CS/trunk/plugins/rendermanager/shadow_pssm
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/rendermanager/shadow_pssm/Jamfile
+END
+rm_shadow_pssm.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/29874/CS/trunk/plugins/rendermanager/shadow_pssm/rm_shadow_pssm.csplugin
+END
+shadow_pssm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33262/CS/trunk/plugins/rendermanager/shadow_pssm/shadow_pssm.cpp
+END
+shadow_pssm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33106/CS/trunk/plugins/rendermanager/shadow_pssm/shadow_pssm.h
+END

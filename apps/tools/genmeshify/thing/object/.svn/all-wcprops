@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33145/CS/trunk/apps/tools/genmeshify/thing/object
+END
+lghtmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/32363/CS/trunk/apps/tools/genmeshify/thing/object/lghtmap.h
+END
+lppool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/31282/CS/trunk/apps/tools/genmeshify/thing/object/lppool.cpp
+END
+textrans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/33145/CS/trunk/apps/tools/genmeshify/thing/object/textrans.cpp
+END
+thing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/32281/CS/trunk/apps/tools/genmeshify/thing/object/thing.cpp
+END
+lppool.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/30879/CS/trunk/apps/tools/genmeshify/thing/object/lppool.h
+END
+textrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/33145/CS/trunk/apps/tools/genmeshify/thing/object/textrans.h
+END
+thing.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/32281/CS/trunk/apps/tools/genmeshify/thing/object/thing.h
+END
+parrays.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/30879/CS/trunk/apps/tools/genmeshify/thing/object/parrays.cpp
+END
+polyrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/30879/CS/trunk/apps/tools/genmeshify/thing/object/polyrender.cpp
+END
+parrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/30879/CS/trunk/apps/tools/genmeshify/thing/object/parrays.h
+END
+polygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/31490/CS/trunk/apps/tools/genmeshify/thing/object/polygon.cpp
+END
+polytext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/31472/CS/trunk/apps/tools/genmeshify/thing/object/polytext.cpp
+END
+polyrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/crystal/!svn/ver/30879/CS/trunk/apps/tools/genmeshify/thing/object/polyrender.h
+END
+polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31281/CS/trunk/apps/tools/genmeshify/thing/object/polygon.h
+END
+lghtmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/32363/CS/trunk/apps/tools/genmeshify/thing/object/lghtmap.cpp
+END
+polytext.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/31472/CS/trunk/apps/tools/genmeshify/thing/object/polytext.h
+END

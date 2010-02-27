@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/animesh/persist/standard
+END
+animesh_meshobject.tok
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/crystal/!svn/ver/29512/CS/trunk/plugins/mesh/animesh/persist/standard/animesh_meshobject.tok
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/persist/standard/Jamfile
+END
+animesh_factory.tok
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/31955/CS/trunk/plugins/mesh/animesh/persist/standard/animesh_factory.tok
+END
+animeshldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/animesh/persist/standard/animeshldr.cpp
+END
+animeshldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/29402/CS/trunk/plugins/mesh/animesh/persist/standard/animeshldr.csplugin
+END
+animeshldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/animesh/persist/standard/animeshldr.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/drivers/jackasyn
+END
+driver_jackasyn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/drivers/jackasyn/driver_jackasyn.cpp
+END
+driver_jackasyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/crystal/!svn/ver/26988/CS/trunk/plugins/sndsys/renderer/software/drivers/jackasyn/driver_jackasyn.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/22766/CS/trunk/plugins/sndsys/renderer/software/drivers/jackasyn/Jamfile
+END
+sndsysjackasyn.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/crystal/!svn/ver/22766/CS/trunk/plugins/sndsys/renderer/software/drivers/jackasyn/sndsysjackasyn.csplugin
+END

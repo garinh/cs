@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33347/CS/trunk/libs/csplugincommon/directx
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/33347/CS/trunk/libs/csplugincommon/directx/Jamfile
+END
+staticvarcleanup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/29068/CS/trunk/libs/csplugincommon/directx/staticvarcleanup.cpp
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/26590/CS/trunk/libs/csplugincommon/directx/error.cpp
+END
+dxerr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/24307/CS/trunk/libs/csplugincommon/directx/dxerr.inc
+END
+guids.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33141/CS/trunk/libs/csplugincommon/directx/guids.cpp
+END

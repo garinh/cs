@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/crystal/!svn/ver/28462/CS/trunk/libs/csutil/processor
+END
+processorspecdetection_nonwin_gcc_x86.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/crystal/!svn/ver/28408/CS/trunk/libs/csutil/processor/processorspecdetection_nonwin_gcc_x86.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/28362/CS/trunk/libs/csutil/processor/Jamfile
+END
+processorspecdetection_gcc_ppc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/crystal/!svn/ver/28462/CS/trunk/libs/csutil/processor/processorspecdetection_gcc_ppc.cpp
+END

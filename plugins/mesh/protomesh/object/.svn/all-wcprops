@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/protomesh/object
+END
+protomesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/protomesh/object/protomesh.cpp
+END
+protomesh.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/19206/CS/trunk/plugins/mesh/protomesh/object/protomesh.csplugin
+END
+protomesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/mesh/protomesh/object/protomesh.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/protomesh/object/Jamfile
+END

@@ -1,0 +1,224 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/docs/texinfo/usingcs
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2009-11-06T20:49:37.689298Z
+33145
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+animation
+dir
+
+materials
+dir
+
+packaging
+dir
+
+colldet
+dir
+
+tutorials
+dir
+
+meshobj
+dir
+
+sound
+dir
+
+libs
+dir
+
+chapter.txi
+file
+
+
+
+
+2010-02-27T05:26:19.326769Z
+bceba90b041f0e27adee3adb4a4709fa
+2008-04-27T18:53:59.221355Z
+29428
+vknecht
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002
+
+cegui
+dir
+
+howto
+dir
+
+vfs.txi
+file
+
+
+
+
+2010-02-27T05:26:19.326769Z
+accce7008529091e601218a8c23f75c1
+2005-07-01T06:14:20.000000Z
+21622
+jorrit
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11635
+
+gamedata
+dir
+
+events
+dir
+
+script
+dir
+
+engine
+dir
+
+lighting
+dir
+
+loader
+dir
+
+renderer
+dir
+
+configuration
+dir
+
+basics.txi
+file
+
+
+
+
+2010-02-27T05:26:19.326769Z
+2d344b02281d05a9e862fc84b735942c
+2008-09-20T05:48:55.153625Z
+31212
+jorrit
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25231
+
+bugplug.txi
+file
+
+
+
+
+2010-02-27T05:26:19.326769Z
+cab8c2ee425706869774d55584ec2a41
+2008-12-18T06:18:57.785782Z
+31761
+philwyett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7729
+
+scf
+dir
+
+ownprojects
+dir
+

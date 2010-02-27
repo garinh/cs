@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/emit/persist/standard
+END
+emitldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/emit/persist/standard/emitldr.cpp
+END
+emitldr.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/14534/CS/trunk/plugins/mesh/emit/persist/standard/emitldr.csplugin
+END
+emitldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/31503/CS/trunk/plugins/mesh/emit/persist/standard/emitldr.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/20643/CS/trunk/plugins/mesh/emit/persist/standard/Jamfile
+END

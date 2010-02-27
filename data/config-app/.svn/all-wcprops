@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/crystal/!svn/ver/31878/CS/trunk/data/config-app
+END
+simpvs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29835/CS/trunk/data/config-app/simpvs.cfg
+END
+perf.scr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/perf.scr
+END
+waterdemo.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/waterdemo.cfg
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/30757/CS/trunk/data/config-app/Jamfile
+END
+csdemo.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/csdemo.cfg
+END
+g2dtest.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/g2dtest.cfg
+END
+autoexec.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/30997/CS/trunk/data/config-app/autoexec.cfg
+END
+walktest.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/31878/CS/trunk/data/config-app/walktest.cfg
+END
+startme.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/startme.cfg
+END
+heightmapgen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/heightmapgen.cfg
+END
+lighter2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/crystal/!svn/ver/29834/CS/trunk/data/config-app/lighter2.cfg
+END

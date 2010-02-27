@@ -1,0 +1,104 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/plugins/cscript
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-16T04:06:44.681113Z
+33670
+crystal-manage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+pycsgfx
+dir
+
+pyivaria
+dir
+
+pycsgeom
+dir
+
+pyiengine
+dir
+
+pyivideo
+dir
+
+pycscegui
+dir
+
+pyimap
+dir
+
+pycore
+dir
+
+pyisndsys
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:25:38.286827Z
+84f1f0cf68a52e39d8c753efe35610b5
+2008-09-08T17:13:04.940907Z
+31083
+res2002
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4947
+
+cspython
+dir
+
+csjava
+dir
+
+pycstool
+dir
+
+csperl5
+dir
+
+pyimesh
+dir
+

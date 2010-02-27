@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/crystal/!svn/ver/33236/CS/trunk/include/bindings
+END
+core.i
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/27769/CS/trunk/include/bindings/core.i
+END
+csgfx.i
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/csgfx.i
+END
+ivaria.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/ivaria.i
+END
+isndsys.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/isndsys.i
+END
+csgeom.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/csgeom.i
+END
+cspace.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/cspace.i
+END
+iengine.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/iengine.i
+END
+ivideo.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/ivideo.i
+END
+cstool.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/cstool.i
+END
+imesh.i
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/imesh.i
+END
+imap.i
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/crystal/!svn/ver/32475/CS/trunk/include/bindings/imap.i
+END

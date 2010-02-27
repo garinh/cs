@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/shadow
+END
+fragment-depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/shadow/fragment-depth.xml
+END
+fragment-vsm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/shadow/fragment-vsm.xml
+END
+shadow-depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33175/CS/trunk/data/shader-snippets/shadow/shadow-depth.xml
+END

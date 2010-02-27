@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/svg
+END
+svgimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/video/loader/svg/svgimage.cpp
+END
+svgimage.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/crystal/!svn/ver/28059/CS/trunk/plugins/video/loader/svg/svgimage.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/crystal/!svn/ver/28059/CS/trunk/plugins/video/loader/svg/Jamfile
+END
+svgimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/crystal/!svn/ver/28059/CS/trunk/plugins/video/loader/svg/svgimage.h
+END

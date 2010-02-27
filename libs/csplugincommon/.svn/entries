@@ -1,0 +1,98 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/libs/csplugincommon
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-01-28T17:10:17.769671Z
+33615
+res2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+directx
+dir
+
+win32
+dir
+
+sndsys
+dir
+
+opengl
+dir
+
+script
+dir
+
+render3d
+dir
+
+shader
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:29.458014Z
+f64dfb9db58490da2153057f08698859
+2009-04-05T18:32:30.689459Z
+32267
+res2002
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+950
+
+imageloader
+dir
+
+macosx
+dir
+
+rendermanager
+dir
+
+canvas
+dir
+
+renderstep
+dir
+

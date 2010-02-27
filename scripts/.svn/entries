@@ -1,0 +1,104 @@
+10
+
+dir
+33701
+https://crystal.svn.sourceforge.net/svnroot/crystal/CS/trunk/scripts
+https://crystal.svn.sourceforge.net/svnroot/crystal
+
+
+
+2010-02-16T04:06:44.681113Z
+33670
+crystal-manage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8cc4aa7f-3514-0410-904f-f2cc9021211c
+
+python
+dir
+
+java
+dir
+
+max
+dir
+
+0install
+dir
+
+perl5
+dir
+
+maya
+dir
+
+msi
+dir
+
+deb
+dir
+
+rpm
+dir
+
+xml
+dir
+
+jamtemplate
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:00.576772Z
+7da2ca73fe58632791deea624a0ae3f7
+2009-03-25T14:52:09.894926Z
+32237
+philwyett
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+345
+
+cs-config
+dir
+
+maketemplate
+dir
+
+hammer
+dir
+

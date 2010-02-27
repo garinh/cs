@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/watermesh/object
+END
+watermesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/mesh/watermesh/object/watermesh.cpp
+END
+watermesh.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/crystal/!svn/ver/31974/CS/trunk/plugins/mesh/watermesh/object/watermesh.csplugin
+END
+watermesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/32275/CS/trunk/plugins/mesh/watermesh/object/watermesh.h
+END
+oceancell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/32429/CS/trunk/plugins/mesh/watermesh/object/oceancell.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/31974/CS/trunk/plugins/mesh/watermesh/object/Jamfile
+END
+oceancell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/31997/CS/trunk/plugins/mesh/watermesh/object/oceancell.h
+END

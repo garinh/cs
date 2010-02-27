@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/element/loader
+END
+genloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/element/loader/genloader.cpp
+END
+genloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/crystal/!svn/ver/31606/CS/trunk/plugins/sndsys/element/loader/genloader.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/crystal/!svn/ver/22353/CS/trunk/plugins/sndsys/element/loader/Jamfile
+END
+sndsysloader.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/crystal/!svn/ver/22344/CS/trunk/plugins/sndsys/element/loader/sndsysloader.csplugin
+END

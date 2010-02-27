@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/drivers/oss
+END
+driver_oss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/crystal/!svn/ver/33145/CS/trunk/plugins/sndsys/renderer/software/drivers/oss/driver_oss.cpp
+END
+driver_oss.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/crystal/!svn/ver/26080/CS/trunk/plugins/sndsys/renderer/software/drivers/oss/driver_oss.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/crystal/!svn/ver/22353/CS/trunk/plugins/sndsys/renderer/software/drivers/oss/Jamfile
+END
+sndsysoss.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/crystal/!svn/ver/22344/CS/trunk/plugins/sndsys/renderer/software/drivers/oss/sndsysoss.csplugin
+END
