@@ -433,6 +433,8 @@ void csSndSysRendererOpenAL::Open()
   {
     ALC_REFRESH,   m_Config->GetInt ("SndSys.OpenALRefresh", 10),    // How often do we update the mixahead buffer (hz).
     ALC_SYNC,      AL_FALSE,                                         // We want an asynchronous context.
+	ALC_STEREO_SOURCES, 12,
+	ALC_MONO_SOURCES, 120,
     0
   };
   // Note: If the sound is choppy, it may be because your OpenAL
@@ -462,6 +464,15 @@ void csSndSysRendererOpenAL::Open()
   {
     Report (CS_REPORTER_SEVERITY_ERROR, "An OpenAL error occured: %s", alcGetString (m_Device, err));
     CS_ASSERT (err == ALC_NO_ERROR);
+  }
+  
+  // ask for AL_EXT_MCFORMATS
+  if (alIsExtensionPresent("AL_EXT_MCFORMATS") == AL_TRUE)
+  {
+	  printf("GH_NOTE: found MCFORMATS extension\n");
+  } else
+  {
+	  printf("GH_NOTE: did not find MCFORMATS extension\n");
   }
 
   // Create a listener

@@ -25,7 +25,7 @@
 
 // Sounds under this size are played using an OpenAL static buffer, not streamed
 // When streaming is used, it's the length FillBuffer() will request.
-#define ADVANCE_LENGTH 65536
+#define ADVANCE_LENGTH 65532 // ***** GH
 
 /*
  * 2D Sound source
@@ -70,7 +70,8 @@ SndSysSourceOpenAL2D::SndSysSourceOpenAL2D (csRef<iSndSysStream> stream, csSndSy
   alSourcei (m_Source, AL_SOURCE_RELATIVE, AL_TRUE);
 
   // Determine the OpenAL Format
-  if (m_Stream->GetRenderedFormat()->Bits == 8)
+  printf("GH_NOTE:  Bits = %d, Channels = %d\n", m_Stream->GetRenderedFormat()->Bits, m_Stream->GetRenderedFormat()->Channels); // ***** GH
+ /* if (m_Stream->GetRenderedFormat()->Bits == 8)
     if (m_Stream->GetRenderedFormat()->Channels == 1)
       m_Format = AL_FORMAT_MONO8;
     else
@@ -80,6 +81,79 @@ SndSysSourceOpenAL2D::SndSysSourceOpenAL2D (csRef<iSndSysStream> stream, csSndSy
       m_Format = AL_FORMAT_MONO16;
     else
       m_Format = AL_FORMAT_STEREO16;
+	  */
+	  
+  // ***** GH more advanced format selection
+  switch (m_Stream->GetRenderedFormat()->Channels)
+  {
+	  case 1:
+	    switch(m_Stream->GetRenderedFormat()->Bits)
+		{
+			case 8:
+			  m_Format = AL_FORMAT_MONO8;
+			break;
+			case 16:
+			  m_Format = AL_FORMAT_MONO16;
+			break;
+		}
+	  break;
+	  case 2:
+	    switch(m_Stream->GetRenderedFormat()->Bits)
+		{
+			case 8:
+			  m_Format = AL_FORMAT_STEREO8;
+			break;
+			case 16:
+			  m_Format = AL_FORMAT_STEREO16;
+			break;
+		}
+	  break;
+	  case 4:
+	    switch(m_Stream->GetRenderedFormat()->Bits)
+		{
+			case 8:
+			  m_Format = AL_FORMAT_QUAD8;
+			break;
+			case 16:
+			  m_Format = AL_FORMAT_QUAD16;
+			break;
+		}
+	  break;
+	  case 6:
+	    switch(m_Stream->GetRenderedFormat()->Bits)
+		{
+			case 8:
+			  m_Format = AL_FORMAT_51CHN8;
+			break;
+			case 16:
+			  m_Format = alGetEnumValue("AL_FORMAT_51CHN16");
+			  printf("GH_NOTE: hit m_Format = AL_FORMAT_51CHN16, with frequncy %dHz\n", m_Stream->GetRenderedFormat()->Freq);
+			break;
+		}
+	  break;
+	  case 7:
+	    switch(m_Stream->GetRenderedFormat()->Bits)
+		{
+			case 8:
+			  m_Format = AL_FORMAT_61CHN8;
+			break;
+			case 16:
+			  m_Format = AL_FORMAT_61CHN16;
+			break;
+		}
+	  break;
+	  case 8:
+	    switch(m_Stream->GetRenderedFormat()->Bits)
+		{
+			case 8:
+			  m_Format = AL_FORMAT_71CHN8;
+			break;
+			case 16:
+			  m_Format = AL_FORMAT_71CHN16;
+			break;
+		}
+	  break;
+  }
 
   // Save the sample rate locally
   m_SampleRate = m_Stream->GetRenderedFormat()->Freq;

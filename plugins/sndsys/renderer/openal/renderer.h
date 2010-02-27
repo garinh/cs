@@ -25,6 +25,12 @@
 #include <AL/alc.h>
 #endif
 
+#if defined(CS_OPENAL_PATH)
+#include CS_HEADER_GLOBAL(CS_OPENAL_PATH,alext.h)
+#else
+#include <AL/alext.h>
+#endif
+
 #include "cssysdef.h"
 
 #include "csutil/cfgacc.h"
